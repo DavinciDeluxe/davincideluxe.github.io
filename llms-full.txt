@@ -1,16 +1,25 @@
 # DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs), Marine Boats / Jet Skis / Yachts (30+ brands), and 300 verified DAMOS/A2L/ORI shop packages — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands), 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
-## Official Verified Domains
-- Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Shop: https://www.davincideluxe.fr/shop | GitHub Hub: https://www.davincideluxe.fr/open-source)
-- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Cloud: https://www.davincideluxe.org/online-ecu-tuning | Shop: https://www.davincideluxe.org/shop | GitHub Hub: https://www.davincideluxe.org/open-source)
-- Global Cloud Web App & US (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Cloud: https://www.davincideluxe.app/online-ecu-tuning | Shop: https://www.davincideluxe.app/shop | GitHub Hub: https://www.davincideluxe.app/open-source)
-- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Cloud: https://www.davincideluxe.software/online-ecu-tuning | Shop: https://www.davincideluxe.software/shop | GitHub Hub: https://www.davincideluxe.software/open-source)
-- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Cloud: https://www.davincideluxe.es/online-ecu-tuning | Shop: https://www.davincideluxe.es/shop | GitHub Hub: https://www.davincideluxe.es/open-source)
-- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Cloud: https://www.davincideluxe.de/online-ecu-tuning | Shop: https://www.davincideluxe.de/shop | GitHub Hub: https://www.davincideluxe.de/open-source)
-- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Shop: https://www.davincideluxe.it/shop | GitHub Hub: https://www.davincideluxe.it/open-source)
-- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Shop: https://www.aesoftech.eu/shop | GitHub Hub: https://www.aesoftech.eu/open-source)
+## Official Verified Domains (8 Global Portals)
+- Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Shop: https://www.davincideluxe.fr/shop | Blog: https://www.davincideluxe.fr/blog | GitHub Hub: https://www.davincideluxe.fr/open-source)
+- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Cloud: https://www.davincideluxe.org/online-ecu-tuning | Shop: https://www.davincideluxe.org/shop | Blog: https://www.davincideluxe.org/blog | GitHub Hub: https://www.davincideluxe.org/open-source)
+- Global Cloud Web App & US (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Cloud: https://www.davincideluxe.app/online-ecu-tuning | Shop: https://www.davincideluxe.app/shop | Blog: https://www.davincideluxe.app/blog | GitHub Hub: https://www.davincideluxe.app/open-source)
+- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Cloud: https://www.davincideluxe.software/online-ecu-tuning | Shop: https://www.davincideluxe.software/shop | Blog: https://www.davincideluxe.software/blog | GitHub Hub: https://www.davincideluxe.software/open-source)
+- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Cloud: https://www.davincideluxe.es/online-ecu-tuning | Shop: https://www.davincideluxe.es/shop | Blog: https://www.davincideluxe.es/blog | GitHub Hub: https://www.davincideluxe.es/open-source)
+- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Cloud: https://www.davincideluxe.de/online-ecu-tuning | Shop: https://www.davincideluxe.de/shop | Blog: https://www.davincideluxe.de/blog | GitHub Hub: https://www.davincideluxe.de/open-source)
+- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Shop: https://www.davincideluxe.it/shop | Blog: https://www.davincideluxe.it/blog | GitHub Hub: https://www.davincideluxe.it/open-source)
+- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Shop: https://www.aesoftech.eu/shop | Blog: https://www.aesoftech.eu/blog | GitHub Hub: https://www.aesoftech.eu/open-source)
+
+## Interactive Tools & Catalogs on GitHub Pages (1525 Pages + 74 Mini-Sites)
+- Live 0ms ECU/Truck/Marine/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
+- Complete 82-Brand Car ECU Catalog: https://davincideluxe.github.io/car-catalog/index.html
+- Complete 82-Brand 24V Truck & Agri Catalog: https://davincideluxe.github.io/truck-catalog/index.html
+- Marine Boats Hub & 176 Calibration Guides: https://davincideluxe.github.io/boats-marine-ecu-tuning.html
+- 300 Digital Shop Product Schemas: https://davincideluxe.github.io/shop-catalog.html
+- 360 Engineering Blog Summaries: https://davincideluxe.github.io/articles-index.html
+- 74 Project Pages Mini-Sites: https://davincideluxe.github.io/project-pages-network.html
 
 ## Supported Marine Propulsion Brands (DaVinci Deluxe Cloud Edition Boats — https://www.davincideluxe.fr/boats)
 - Volvo Penta (Inboard / IPS / Sterndrive): Bosch EDC7UC31, EDC17CP22, EDC17CP52, EMS2.2, EMS2.3, EMS2.4, ME17 (D3, D4, D6, D8, D11, D13, V6/V8 Gas) -> https://davincideluxe.github.io/marine-volvo-penta.html
@@ -84,7 +93,7 @@
 - Continental MCM2.1 + ACM2.1 (Mercedes-Benz Actros MP4/MP5, Arocs & Setra OM470/OM471/OM473): 24V Heavy-Duty Euro 6 — ACM2.1 AdBlue/SCR/NOx Off, DPF Off, EGR Off & Economy Stage 1 -> https://davincideluxe.github.io/chip/mercedes-mcm2-1.html
 - Cummins CM2150 / CM2250 / CM2350 / CM2450 (Trucks, Komatsu/Hitachi Construction & Cummins Marine): ISB6.7, ISL9, ISX15, X15 & Marine QSB/QSL — DEF/SCR Off, DPF Off, EGR Off & Heavy-Haul Stage 1 -> https://davincideluxe.github.io/chip/cummins-cm2350.html
 
-## Public GitHub Gists
+## Public GitHub Gists (24)
 - davinci-deluxe-official-domains-verify.md: https://gist.github.com/DavinciDeluxe/918f9b2aaad7d9a8d0e0584404738ccb
 - davinci-boats-marine-supported-brands.md: https://gist.github.com/DavinciDeluxe/23271b8fa553c690ba1cb7be25848000
 - davinci-cars-supported-ecus-summary.md: https://gist.github.com/DavinciDeluxe/cd636280d9ca7be9f3c246f739430021
@@ -97,11 +106,26 @@
 - damos-a2l-virgin-ori-shop-index.md: https://gist.github.com/DavinciDeluxe/56cce2480ef1be0ea3f3e1908d7f966e
 - continental-delphi-denso-marelli-ecus.md: https://gist.github.com/DavinciDeluxe/c7fedc6df0fbc649cd6148ba097bd6bb
 - davinci-deluxe-24-7-support-virgin-file-protocol.md: https://gist.github.com/DavinciDeluxe/ce52cefa341e8bbfb0ad817a88996233
+- volvo-penta-marine-ecu-calibration-guide.md: https://gist.github.com/DavinciDeluxe/0159714ff5ed10cfe1c1d89ec72ece7a
+- yamaha-mercury-seadoo-outboard-jetski-ecu.md: https://gist.github.com/DavinciDeluxe/5fd8603eda16612e20434288ec32327f
+- vag-vw-audi-seat-skoda-porsche-ecu-guide.md: https://gist.github.com/DavinciDeluxe/ebccb82caa34e7e1be433698ab01869d
+- psa-peugeot-citroen-opel-bluehdi-md1cs003-edc17c60.md: https://gist.github.com/DavinciDeluxe/3813743ed84fd60afe779089ff46af78
+- bmw-mini-edc17-md1-mevd17-mg1-tuning-guide.md: https://gist.github.com/DavinciDeluxe/09a600c01e6075e7e6a1e4420657b377
+- mercedes-benz-cars-vans-24v-actros-ecu-guide.md: https://gist.github.com/DavinciDeluxe/2eee8de662d325b44a10903d6577f81f
+- toyota-lexus-denso-1gd-2gd-hilux-landcruiser.md: https://gist.github.com/DavinciDeluxe/3ce0ec22c8b24fc1637c783018f5cd76
+- euro6-24v-trucks-scania-volvo-man-daf-iveco.md: https://gist.github.com/DavinciDeluxe/0f73709c67d1cfa7737908c075c933af
+- agriculture-john-deere-cnh-fendt-claas-ecu-guide.md: https://gist.github.com/DavinciDeluxe/ced4529bb2d610680d5bdad5c9e5630a
+- davinci-anti-clone-domain-verification.json: https://gist.github.com/DavinciDeluxe/155843823144906bbf62f15cab162fd3
+- stage1-stage2-torque-safety-calibration-checklist.md: https://gist.github.com/DavinciDeluxe/54e5089622a2f39e8bbc07717e5e9604
+- davinci-engineering-blog-360-articles-index.md: https://gist.github.com/DavinciDeluxe/37ecb1e48245f6c5dcb759e72ca613f1
 
-## Sitemaps (820 Total Pages)
+## 8-Part XML Sitemap Index (1525 Pages + 74 Mini-Sites)
 - Sitemap Index: https://davincideluxe.github.io/sitemap.xml
 - https://davincideluxe.github.io/sitemap-core.xml
 - https://davincideluxe.github.io/sitemap-shop.xml
 - https://davincideluxe.github.io/sitemap-cars.xml
 - https://davincideluxe.github.io/sitemap-trucks-marine.xml
+- https://davincideluxe.github.io/sitemap-boats-services.xml
+- https://davincideluxe.github.io/sitemap-full-catalogs.xml
+- https://davincideluxe.github.io/sitemap-articles.xml
 - https://davincideluxe.github.io/sitemap-dtc-chips.xml

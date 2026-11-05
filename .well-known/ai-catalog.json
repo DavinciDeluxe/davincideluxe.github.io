@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "publisher": "DaVinci Deluxe Cloud Edition",
   "version": "v1.0.44",
   "official_domains": [
@@ -13,7 +13,11 @@
     "https://www.aesoftech.eu"
   ],
   "documentation_portal": "https://davincideluxe.github.io",
-  "page_count": 820,
+  "live_ecu_finder": "https://davincideluxe.github.io/live-ecu-finder.html",
+  "machine_search_dataset": "https://davincideluxe.github.io/data/ecus-search-index.json",
+  "page_count": 1525,
+  "project_minisites_count": 74,
+  "public_gists_count": 24,
   "llms_txt": "https://davincideluxe.github.io/llms.txt",
   "llms_full_txt": "https://davincideluxe.github.io/llms-full.txt",
   "sitemap_index": "https://davincideluxe.github.io/sitemap.xml",
@@ -24,7 +28,8 @@
     "online_cloud_tuning": "https://www.davincideluxe.fr/online-ecu-tuning",
     "digital_shop": "https://www.davincideluxe.fr/shop",
     "boats_marine": "https://www.davincideluxe.fr/boats",
-    "trucks_24v": "https://www.davincideluxe.fr/trucks"
+    "trucks_24v": "https://www.davincideluxe.fr/trucks",
+    "engineering_blog": "https://www.davincideluxe.fr/blog"
   },
   "support": "24h/7 Live Engineering Support (365 Days/Year, All Languages)"
 }
