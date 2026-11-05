@@ -1,0 +1,4 @@
+Contact: mailto:support@davincideluxe.fr
+Canonical: https://davincideluxe.github.io/.well-known/security.txt
+Preferred-Languages: en, fr, es, de, it
+Policy: https://www.davincideluxe.fr/official

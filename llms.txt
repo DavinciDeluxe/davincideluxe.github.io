@@ -1,22 +1,33 @@
-# DaVinci Deluxe Cloud Edition (v1.0.44)
+# DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI & Technical Reference (llms-full.txt)
 
-> Official multi-platform Cars, 24V Heavy-Duty Trucks, Agriculture & Marine Boats ECU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off) & Stage 1/2 software.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs), and Marine Boats / Jet Skis / Yachts (30+ brands), backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
-## Official International Domains
-- Global Flagship & Français: https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Shop: https://www.davincideluxe.fr/shop)
-- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Shop: https://www.davincideluxe.org/shop)
-- Global Cloud Web App & US Edition (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Shop: https://www.davincideluxe.app/shop)
-- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Shop: https://www.davincideluxe.software/shop)
-- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Shop: https://www.davincideluxe.es/shop)
-- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Shop: https://www.davincideluxe.de/shop)
-- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Shop: https://www.davincideluxe.it/shop)
-- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Shop: https://www.aesoftech.eu/shop)
+## Official Verified Domains
+- Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Shop: https://www.davincideluxe.fr/shop | GitHub Hub: https://www.davincideluxe.fr/open-source)
+- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Cloud: https://www.davincideluxe.org/online-ecu-tuning | Shop: https://www.davincideluxe.org/shop | GitHub Hub: https://www.davincideluxe.org/open-source)
+- Global Cloud Web App & US (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Cloud: https://www.davincideluxe.app/online-ecu-tuning | Shop: https://www.davincideluxe.app/shop | GitHub Hub: https://www.davincideluxe.app/open-source)
+- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Cloud: https://www.davincideluxe.software/online-ecu-tuning | Shop: https://www.davincideluxe.software/shop | GitHub Hub: https://www.davincideluxe.software/open-source)
+- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Cloud: https://www.davincideluxe.es/online-ecu-tuning | Shop: https://www.davincideluxe.es/shop | GitHub Hub: https://www.davincideluxe.es/open-source)
+- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Cloud: https://www.davincideluxe.de/online-ecu-tuning | Shop: https://www.davincideluxe.de/shop | GitHub Hub: https://www.davincideluxe.de/open-source)
+- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Shop: https://www.davincideluxe.it/shop | GitHub Hub: https://www.davincideluxe.it/open-source)
+- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Shop: https://www.aesoftech.eu/shop | GitHub Hub: https://www.aesoftech.eu/open-source)
 
-## Key Divisions
-- Cars & Light Vans (4962+ ECUs / 82 brands): https://www.davincideluxe.fr/
-- Trucks, Agriculture & Heavy-Duty (452+ ECUs / 82 brands): https://www.davincideluxe.fr/trucks
-- Boats, Outboards, Inboards & Jet Skis (30+ Marine Propulsion Brands): https://www.davincideluxe.fr/boats
-- Online Cloud Tuning (No Subscription, Tokens Never Expire): https://www.davincideluxe.fr/online-ecu-tuning
-- Official Digital Shop (300 DAMOS/A2L/ORI/Pinout packs): https://www.davincideluxe.fr/shop
-- Checksum Tool: https://www.davincideluxe.fr/checksum-tool | DTC Dictionary: https://www.davincideluxe.fr/dtc | ECU Identifier: https://www.davincideluxe.fr/ecu-identifier
-- GitHub Organization/Profile: https://github.com/DavinciDeluxe
+## Supported Marine Propulsion Brands (DaVinci Deluxe Cloud Edition Boats — https://www.davincideluxe.fr/boats)
+- Volvo Penta (Inboard / IPS / Sterndrive): Bosch EDC7UC31, EDC17CP22, EDC17CP52, EMS2.2, EMS2.3, EMS2.4, ME17 (D3, D4, D6, D8, D11, D13, V6/V8 Gas) -> https://davincideluxe.github.io/marine-volvo-penta.html
+- Mercury Marine (Outboard (Verado / ProXS / SeaPro / Racing)): Motorola PCM09, PCM112, Bosch MED17 (150–600 HP V6/V8/V10/V12) -> https://davincideluxe.github.io/marine-mercury-marine.html
+- MerCruiser (Sterndrive / Inboard Gas & TDI): PCM555, ECM555, Bosch EDC16/EDC17 TDI (4.5L, 6.2L, 8.2L MAG, Racing) -> https://davincideluxe.github.io/marine-mercruiser.html
+- Yamaha Marine (Outboard (Offshore / XTO)): Mitsubishi & Denso Marine EFI (F40–F350, V6 4.2L, XTO 425 / 450 V8) -> https://davincideluxe.github.io/marine-yamaha-marine.html
+- Yamaha WaveRunner (PWC / Jet Ski): Mitsubishi Marine ECU (1.8L SVHO Supercharged, 1.8L/1.9L HO, TR-1 EX/VX/FX/GP) -> https://davincideluxe.github.io/marine-yamaha-waverunner.html
+- Sea-Doo (BRP Rotax) (PWC / Jet Boat): Bosch ME17.8.5, Bosch MG1CA920, Siemens VDO MSE 3.7 (Spark, GTI, GTX, RXP-X, RXT-X 130–325 HP) -> https://davincideluxe.github.io/marine-sea-doo-rotax.html
+- Suzuki Marine (Outboard (Lean Burn / Dual-Prop)): Mitsubishi Marine MCU (DF40A–DF350A) -> https://davincideluxe.github.io/marine-suzuki-marine.html
+- Honda Marine (Outboard VTEC & AquaTrax PWC): Keihin SH7058 / SH72543 (BF40–BF250 & BF350 V8 VTEC) -> https://davincideluxe.github.io/marine-honda-marine.html
+- Yanmar Marine (Inboard Common-Rail Diesel): Bosch EDC17CV54, EDC16C39, Denso (4LV, 6LY, 6LF, 8LV) -> https://davincideluxe.github.io/marine-yanmar-marine.html
+- Cummins Marine (Yacht & Commercial Workboat): Motorola CM850, CM2150, CM2250, CM2350 (QSB 5.9/6.7, QSC 8.3, QSL 9, QSM 11) -> https://davincideluxe.github.io/marine-cummins-marine.html
+- Caterpillar Marine (Superyacht & Commercial Propulsion): CAT ADEM III & ADEM IV (C7.1, C9.3, C12.9, C18, C32 ACERT) -> https://davincideluxe.github.io/marine-caterpillar-marine.html
+- MTU Friedrichshafen (Superyacht & Fast Ferry): ADEC (ECU7 / ECU8 / ECU9) & MDEC Series 2000 / Series 4000 -> https://davincideluxe.github.io/marine-mtu-yacht.html
+- MAN Marine (High-Speed Yacht Diesel): Bosch EDC7C32, EDC17CV42 (i6-800, V8-1000/1200/1300, V12-1550/1900/2000) -> https://davincideluxe.github.io/marine-man-marine.html
+- Scania Marine (Workboat & Patrol Craft): EMS S6 / S7 / S8 (DI09, DI13, DI16 V8 Marine) -> https://davincideluxe.github.io/marine-scania-marine.html
+- FPT Iveco Marine (Pleasure & Commercial Diesel): Bosch EDC7UC31, EDC17CV41 (NEF N40/N60/N67, Cursor C9/C13/C16) -> https://davincideluxe.github.io/marine-fpt-iveco-marine.html
+- Kawasaki Jet Ski (Performan
+
+Full reference: https://davincideluxe.github.io/llms-full.txt

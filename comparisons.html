@@ -1,124 +1,152 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>DaVinci Deluxe Cloud Edition vs ECU Flashers & Hex Editors (37+ Technical Comparisons)</title>
-  <meta name="description" content="Technical comparison of DaVinci Deluxe Cloud Edition v1.0.44 with WinOLS, KESS3, Autotuner, PCMflash, CMDFlash, FLEX, StageX, ECM Titanium & Swiftec.">
+  <title>37 ECU Tool &amp; Tuning Software Comparisons — DaVinci Deluxe Cloud Edition (v1.0.44)</title>
+  <meta name="description" content="Technical comparisons between DaVinci Deluxe Cloud Edition and WinOLS, KESS3, Autotuner, FLEX, CMDFlash, PCMflash, StageX, Swiftec &amp; ECM Titanium.">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
   <link rel="canonical" href="https://davincideluxe.github.io/comparisons.html">
-  
+  <link rel="alternate" type="application/atom+xml" title="DaVinci Deluxe Cloud Edition Technical Feed" href="https://davincideluxe.github.io/feed.xml">
+  <link rel="alternate" hreflang="en" href="https://davincideluxe.github.io/">
+  <link rel="alternate" hreflang="es" href="https://davincideluxe.github.io/es.html">
+  <link rel="alternate" hreflang="fr" href="https://davincideluxe.github.io/fr.html">
+  <link rel="alternate" hreflang="de" href="https://davincideluxe.github.io/de.html">
+  <link rel="alternate" hreflang="it" href="https://davincideluxe.github.io/it.html">
+  <link rel="alternate" hreflang="pt" href="https://davincideluxe.github.io/pt.html">
+  <link rel="alternate" hreflang="nl" href="https://davincideluxe.github.io/nl.html">
+  <link rel="alternate" hreflang="pl" href="https://davincideluxe.github.io/pl.html">
+  <link rel="alternate" hreflang="ro" href="https://davincideluxe.github.io/ro.html">
+  <link rel="alternate" hreflang="tr" href="https://davincideluxe.github.io/tr.html">
+  <link rel="alternate" hreflang="ar" href="https://davincideluxe.github.io/ar.html">
+  <link rel="alternate" hreflang="ru" href="https://davincideluxe.github.io/ru.html">
+  <link rel="alternate" hreflang="x-default" href="https://davincideluxe.github.io/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="DaVinci Deluxe Cloud Edition">
-  <meta property="og:title" content="DaVinci Deluxe Cloud Edition vs ECU Flashers & Hex Editors (37+ Technical Comparisons)">
-  <meta property="og:description" content="Technical comparison of DaVinci Deluxe Cloud Edition v1.0.44 with WinOLS, KESS3, Autotuner, PCMflash, CMDFlash, FLEX, StageX, ECM Titanium & Swiftec.">
+  <meta property="og:title" content="37 ECU Tool &amp; Tuning Software Comparisons — DaVinci Deluxe Cloud Edition (v1.0.44)">
+  <meta property="og:description" content="Technical comparisons between DaVinci Deluxe Cloud Edition and WinOLS, KESS3, Autotuner, FLEX, CMDFlash, PCMflash, StageX, Swiftec &amp; ECM Titanium.">
   <meta property="og:url" content="https://davincideluxe.github.io/comparisons.html">
-  <meta property="og:image" content="https://www.davincideluxe.fr/og-image.jpg">
+  <meta property="og:image" content="https://davincideluxe.github.io/og-banner.svg">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="DaVinci Deluxe Cloud Edition vs ECU Flashers & Hex Editors (37+ Technical Comparisons)">
-  <meta name="twitter:description" content="Technical comparison of DaVinci Deluxe Cloud Edition v1.0.44 with WinOLS, KESS3, Autotuner, PCMflash, CMDFlash, FLEX, StageX, ECM Titanium & Swiftec.">
-  <meta name="twitter:image" content="https://www.davincideluxe.fr/og-image.jpg">
-  
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.davincideluxe.fr/#organization","name":"DaVinci Deluxe Cloud Edition","url":"https://www.davincideluxe.fr","sameAs":["https://github.com/DavinciDeluxe","https://gist.github.com/DavinciDeluxe","https://davincideluxe.github.io/","https://www.davincideluxe.fr","https://www.davincideluxe.org","https://www.davincideluxe.app","https://www.davincideluxe.software","https://www.davincideluxe.es","https://www.davincideluxe.de","https://www.davincideluxe.it","https://www.aesoftech.eu"]},{"@type":"SoftwareApplication","name":"DaVinci Deluxe Cloud Edition (v1.0.44)","applicationCategory":"AutomotiveApplication","operatingSystem":"Windows 10, Windows 11, macOS, Linux, Android, iOS, Cloud Web","softwareVersion":"1.0.44","url":"https://www.davincideluxe.fr","offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"15","highPrice":"600","offerCount":"12"}}]}</script>
   <style>
-    :root { --bg:#06080f; --card:#101422; --border:#1e263d; --green:#14ea63; --cyan:#00c8ff; --orange:#ff8c00; --blue:#0ea5e9; --text:#eef2f9; --muted:#9aa5b8; }
-    * { box-sizing:border-box; }
-    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
-    a { color:var(--cyan); text-decoration:none; }
-    a:hover { text-decoration:underline; }
-    .wrap { max-width:1200px; margin:0 auto; padding:0 20px; }
-    header { border-bottom:1px solid var(--border); background:rgba(16,20,34,.94); position:sticky; top:0; z-index:10; backdrop-filter:blur(10px); }
-    .nav { display:flex; align-items:center; justify-content:space-between; padding:13px 0; flex-wrap:wrap; gap:10px; }
-    .brand { font-weight:800; font-size:1.08rem; color:#fff; display:flex; align-items:center; gap:8px; }
-    .badge { background:rgba(20,234,99,.14); color:var(--green); border:1px solid rgba(20,234,99,.4); padding:2px 9px; border-radius:999px; font-size:.75rem; font-weight:700; }
-    .nav-links { display:flex; gap:13px; flex-wrap:wrap; font-size:.88rem; align-items:center; }
-    .btn { display:inline-block; padding:9px 16px; border-radius:8px; font-weight:700; text-decoration:none !important; }
-    .btn-green { background:var(--green); color:#04120a; }
-    .btn-outline { border:1px solid var(--border); color:#fff; background:var(--card); }
-    .hero { padding:46px 0 30px; border-bottom:1px solid var(--border); }
-    h1 { font-size:2.05rem; line-height:1.22; margin:12px 0; }
-    h2 { font-size:1.4rem; margin:32px 0 14px; color:#fff; }
-    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(265px,1fr)); gap:15px; }
-    .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:18px; }
-    .warn { background:rgba(255,140,0,.09); border:1px solid rgba(255,140,0,.45); border-radius:12px; padding:15px 18px; margin:20px 0; }
-    .support { background:rgba(20,234,99,.08); border:1px solid rgba(20,234,99,.4); border-radius:12px; padding:15px 18px; margin:20px 0; }
-    table { width:100%; border-collapse:collapse; margin:16px 0; background:var(--card); border-radius:10px; overflow:hidden; }
-    th, td { padding:10px 12px; border-bottom:1px solid var(--border); text-align:left; font-size:.88rem; }
-    th { background:#151b2e; color:#fff; }
-    footer { border-top:1px solid var(--border); margin-top:48px; padding:28px 0 40px; color:var(--muted); font-size:.84rem; }
-    .langs { display:flex; gap:8px; font-size:.8rem; }
-    .langs a { padding:3px 7px; border:1px solid var(--border); border-radius:6px; color:#fff; }
+    :root{--bg:#06080f;--card:#0f1422;--border:#1d2742;--green:#14ea63;--cyan:#00c8ff;--orange:#ff8c24;--blue:#38bdf8;--text:#eef3fb;--muted:#9aa6bc}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.62}
+    a{color:var(--cyan);text-decoration:none}a:hover{text-decoration:underline}
+    .wrap{max-width:1220px;margin:0 auto;padding:0 20px}
+    header{border-bottom:1px solid var(--border);background:#090d18;position:sticky;top:0;z-index:10}
+    .nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:12px 0;gap:10px}
+    .brand{font-weight:800;font-size:1.05rem;color:#fff;text-decoration:none !important}
+    .brand span{color:var(--green)}
+    .links{display:flex;flex-wrap:wrap;gap:10px;font-size:.85rem}
+    .links a{color:var(--text)}
+    .langbar{background:#05070d;border-bottom:1px solid var(--border);padding:6px 0;font-size:.8rem}
+    .langbar .wrap{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+    .hero{padding:36px 0 22px;border-bottom:1px solid var(--border)}
+    h1{font-size:clamp(1.65rem,3.3vw,2.45rem);line-height:1.2;margin:0 0 12px}
+    h2{font-size:1.38rem;margin:28px 0 12px;color:#fff}
+    h3{font-size:1.06rem;margin:0 0 8px;color:var(--green)}
+    .lead{font-size:1.03rem;color:var(--muted);max-width:940px;margin:0 0 18px}
+    .cta-row{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0}
+    .btn{display:inline-block;padding:10px 18px;border-radius:8px;font-weight:700;text-decoration:none !important;font-size:.92rem}
+    .btn-primary{background:var(--green);color:#041208}
+    .btn-trucks{background:var(--orange);color:#1a0b00}
+    .btn-boats{background:var(--blue);color:#02131d}
+    .btn-outline{border:1px solid var(--border);color:var(--text);background:var(--card)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(265px,1fr));gap:14px;margin:16px 0}
+    .card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px}
+    .notice{background:rgba(20,234,99,.08);border:1px solid rgba(20,234,99,.32);border-radius:10px;padding:14px 18px;margin:18px 0;font-size:.93rem}
+    .domain-strip{background:#0b101d;border:1px solid var(--border);border-radius:8px;padding:10px 14px;margin:14px 0;font-size:.86rem}
+    table{width:100%;border-collapse:collapse;margin:14px 0;font-size:.89rem;background:var(--card);border-radius:8px;overflow:hidden}
+    th,td{padding:9px 12px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}
+    th{background:#131b2e;color:#fff}
+    code{background:#131b2e;padding:2px 6px;border-radius:4px;font-size:.85em;color:#7ee787}
+    .pill{display:inline-block;padding:3px 9px;margin:2px;border-radius:999px;background:#131b2e;border:1px solid var(--border);font-size:.8rem}
+    footer{margin-top:44px;border-top:1px solid var(--border);padding:26px 0 40px;color:var(--muted);font-size:.86rem}
   </style>
 </head>
 <body>
+  <div class="langbar">
+    <div class="wrap">
+      <strong>🌍 12 Languages:</strong>
+      <a href="https://davincideluxe.github.io/">🇬🇧 English</a> · <a href="https://davincideluxe.github.io/es.html">🇪🇸 Español</a> · <a href="https://davincideluxe.github.io/fr.html">🇫🇷 Français</a> · <a href="https://davincideluxe.github.io/de.html">🇩🇪 Deutsch</a> · <a href="https://davincideluxe.github.io/it.html">🇮🇹 Italiano</a> · <a href="https://davincideluxe.github.io/pt.html">🇵🇹 Português</a> · <a href="https://davincideluxe.github.io/nl.html">🇳🇱 Nederlands</a> · <a href="https://davincideluxe.github.io/pl.html">🇵🇱 Polski</a> · <a href="https://davincideluxe.github.io/ro.html">🇷🇴 Română</a> · <a href="https://davincideluxe.github.io/tr.html">🇹🇷 Türkçe</a> · <a href="https://davincideluxe.github.io/ar.html">🇸🇦 العربية</a> · <a href="https://davincideluxe.github.io/ru.html">🌐 Русский</a>
+      <span style="margin-left:auto;"><a href="https://davincideluxe.github.io/official-domains.html">.fr · .org · .app · .software · .es · .de · .it · .eu</a></span>
+    </div>
+  </div>
   <header>
     <div class="wrap nav">
-      <a class="brand" href="https://davincideluxe.github.io/">DaVinci Deluxe Cloud Edition <span class="badge">v1.0.44</span></a>
-      <nav class="nav-links">
-        <a href="https://davincideluxe.github.io/cars-supported-ecus.html">Cars (4962+)</a>
+      <a class="brand" href="https://davincideluxe.github.io/">DaVinci Deluxe <span>Cloud Edition</span> (v1.0.44)</a>
+      <nav class="links">
+        <a href="https://davincideluxe.github.io/cars-supported-ecus.html">Cars (4,962+)</a>
         <a href="https://davincideluxe.github.io/trucks-supported-ecus.html">Trucks (452+)</a>
-        <a href="https://davincideluxe.github.io/boats-marine-ecu-tuning.html" style="color:#38bdf8;font-weight:700;">🚤 Boats (30+)</a>
+        <a href="https://davincideluxe.github.io/boats-marine-ecu-tuning.html">🚤 Boats (30+)</a>
         <a href="https://davincideluxe.github.io/car-brands-tuning.html">Car Brands</a>
-        <a href="https://davincideluxe.github.io/truck-brands-tuning.html">Truck Brands</a>
-        <a href="https://davincideluxe.github.io/dtc-checksum-tools.html">DTC &amp; Checksum</a>
+        <a href="https://davincideluxe.github.io/truck-brands-tuning.html">Truck &amp; Agri</a>
+        <a href="https://davincideluxe.github.io/tcu-gearbox-dsg-zf-tuning.html">TCU Gearbox</a>
+        <a href="https://davincideluxe.github.io/dpf-egr-adblue-stage1.html">DPF/EGR/AdBlue</a>
+        <a href="https://davincideluxe.github.io/obd2-diesel-dtc-codes.html">DTC Codes</a>
         <a href="https://davincideluxe.github.io/shop-catalog.html">Shop (300)</a>
-        <a href="https://davincideluxe.github.io/official-domains.html">Domains (.org/.app)</a>
-        <span class="langs">
-          <a href="https://davincideluxe.github.io/">EN</a>
-          <a href="https://davincideluxe.github.io/es.html">ES</a>
-          <a href="https://davincideluxe.github.io/fr.html">FR</a>
-          <a href="https://davincideluxe.github.io/de.html">DE</a>
-          <a href="https://davincideluxe.github.io/it.html">IT</a>
-        </span>
-        <a class="btn btn-green" href="https://www.davincideluxe.fr">davincideluxe.fr →</a>
+        <a href="https://davincideluxe.github.io/anti-clone-scam-warning.html">Anti-Clone</a>
+        <a href="https://davincideluxe.github.io/all-pages-directory.html">All 160+ Pages</a>
       </nav>
     </div>
   </header>
   <main class="wrap">
-    <h1>⚖️ DaVinci Deluxe Cloud Edition vs Popular ECU Tools &amp; Editors</h1>
-      <table><thead><tr><th>Comparison</th><th>Category</th><th>Tool Architecture</th><th>Links</th></tr></thead>
-      <tbody><tr><td><strong>DaVinci Deluxe Cloud Edition vs WinOLS</strong></td><td>EDITOR</td><td>manual hex & 2D/3D DAMOS/A2L map editor requiring manual address discovery</td><td><a href="https://www.davincideluxe.fr/davinci-vs-winols">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-winols">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Alientech KESS</strong></td><td>FLASHER</td><td>OBD ECU reading & writing hardware interface</td><td><a href="https://www.davincideluxe.fr/davinci-vs-kess">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-kess">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Alientech KESS3</strong></td><td>FLASHER</td><td>OBD, Bench & Boot hardware programmer for Cars, Trucks & Marine ECUs</td><td><a href="https://www.davincideluxe.fr/davinci-vs-kess3">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-kess3">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Alientech KESSv2</strong></td><td>FLASHER</td><td>legacy OBD ECU master/slave programmer</td><td><a href="https://www.davincideluxe.fr/davinci-vs-kessv2">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-kessv2">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Alientech K-TAG</strong></td><td>FLASHER</td><td>bench/BDM/JTAG/Boot bench programmer for ECU backup and writing</td><td><a href="https://www.davincideluxe.fr/davinci-vs-ktag">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-ktag">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Autotuner Tool</strong></td><td>FLASHER</td><td>fast OBD/Bench/Boot ECU reading & flashing hardware tool without annual hardware fees</td><td><a href="https://www.davincideluxe.fr/davinci-vs-autotuner">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-autotuner">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Flashtec CMDFlash</strong></td><td>FLASHER</td><td>professional OBD/Bench/Boot reading & checksum hardware programmer</td><td><a href="https://www.davincideluxe.fr/davinci-vs-cmdflash">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-cmdflash">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs MPPS V18/V21/V22</strong></td><td>FLASHER</td><td>entry-to-mid-level OBD/Tricore multiboot ECU read/write cable</td><td><a href="https://www.davincideluxe.fr/davinci-vs-mpps">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-mpps">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs PCMflash</strong></td><td>FLASHER</td><td>modular J2534 OBD/Bench ECU & TCU reading/writing software dongle</td><td><a href="https://www.davincideluxe.fr/davinci-vs-pcmflash">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-pcmflash">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs PCMtuner</strong></td><td>FLASHER</td><td>bench/OBD reading interface bundled with J2534 hardware</td><td><a href="https://www.davincideluxe.fr/davinci-vs-pcmtuner">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-pcmtuner">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs FoxFlash</strong></td><td>FLASHER</td><td>OBD, Bench, JTAG & Boot hardware programmer for cars, trucks and marine</td><td><a href="https://www.davincideluxe.fr/davinci-vs-foxflash">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-foxflash">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs BitBox</strong></td><td>FLASHER</td><td>modular J2534 ECU reading/flashing software paired with BitEdit</td><td><a href="https://www.davincideluxe.fr/davinci-vs-bitbox">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-bitbox">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs BitEdit</strong></td><td>EDITOR</td><td>module-based manual calibration map editor</td><td><a href="https://www.davincideluxe.fr/davinci-vs-bitedit">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-bitedit">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs bFlash</strong></td><td>FLASHER</td><td>high-speed OBD/Bench/Boot hardware programmer for automotive workshops</td><td><a href="https://www.davincideluxe.fr/davinci-vs-bflash">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-bflash">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs FGTech Galletto</strong></td><td>FLASHER</td><td>OBD, BDM, JTAG & Boot reading and writing hardware interface</td><td><a href="https://www.davincideluxe.fr/davinci-vs-galletto">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-galletto">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Magicmotorsport FLEX</strong></td><td>FLASHER</td><td>OBD, Bench & Boot ECU/TCU hardware programmer</td><td><a href="https://www.davincideluxe.fr/davinci-vs-magicmotorsport">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-magicmotorsport">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs StageX</strong></td><td>EDITOR</td><td>cloud-assisted map pack & manual calibration editing platform</td><td><a href="https://www.davincideluxe.fr/davinci-vs-stagex">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-stagex">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Alientech ECM Titanium</strong></td><td>EDITOR</td><td>driver-based manual map editor for hexadecimal ECU files</td><td><a href="https://www.davincideluxe.fr/davinci-vs-ecm-titanium">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-ecm-titanium">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Dimsport Race Evo</strong></td><td>EDITOR</td><td>setting-file manual calibration editor paired with New Genius / Trasdata</td><td><a href="https://www.davincideluxe.fr/davinci-vs-dimsport-race-evo">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-dimsport-race-evo">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Scanmatik 2 PRO</strong></td><td>FLASHER</td><td>J2534 PassThru & heavy-duty RP1210 communication adapter</td><td><a href="https://www.davincideluxe.fr/davinci-vs-scanmatik">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-scanmatik">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs HP Tuners VCM Editor</strong></td><td>SUITE</td><td>credit-per-VIN North American OBD scanner & manual calibration editor</td><td><a href="https://www.davincideluxe.fr/davinci-vs-hp-tuners">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-hp-tuners">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs EcuTek ProECU</strong></td><td>SUITE</td><td>proprietary locked-dongle JDM/Euro dealer tuning platform</td><td><a href="https://www.davincideluxe.fr/davinci-vs-ecutek">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-ecutek">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs EFILive FlashScan</strong></td><td>SUITE</td><td>GM & Cummins VIN-licensed flash and manual calibration tool</td><td><a href="https://www.davincideluxe.fr/davinci-vs-efilive">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-efilive">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs COBB Accessport</strong></td><td>SUITE</td><td>handheld consumer OBD flasher limited to specific USDM/JDM platforms</td><td><a href="https://www.davincideluxe.fr/davinci-vs-cobb-accessport">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-cobb-accessport">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Hondata FlashPro</strong></td><td>SUITE</td><td>Honda/Acura single-vehicle hardware lock & calibration suite</td><td><a href="https://www.davincideluxe.fr/davinci-vs-hondata">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-hondata">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs DiabloSport</strong></td><td>SUITE</td><td>consumer handheld preset tuner for American domestic vehicles</td><td><a href="https://www.davincideluxe.fr/davinci-vs-diablosport">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-diablosport">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs SCT Performance</strong></td><td>SUITE</td><td>handheld OBD flasher & Advantage software for Ford/GM/Dodge</td><td><a href="https://www.davincideluxe.fr/davinci-vs-sct">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-sct">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs TunerPro RT</strong></td><td>EDITOR</td><td>freeware manual XDF definition editor without built-in automated ECU solutions</td><td><a href="https://www.davincideluxe.fr/davinci-vs-tunerpro">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-tunerpro">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs RomRaider</strong></td><td>EDITOR</td><td>community XML-definition open editor primarily for older Subaru & BMW ECUs</td><td><a href="https://www.davincideluxe.fr/davinci-vs-romraider">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-romraider">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs OpenPort / EcuFlash</strong></td><td>FLASHER</td><td>Tactrix J2534 flashing utility primarily used on Mitsubishi & Subaru</td><td><a href="https://www.davincideluxe.fr/davinci-vs-ecuflash">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-ecuflash">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs Swiftec</strong></td><td>EDITOR</td><td>high-cost enterprise desktop calibration & automated module editor</td><td><a href="https://www.davincideluxe.fr/davinci-vs-swiftec">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-swiftec">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs AlphaTuner</strong></td><td>FLASHER</td><td>ECU reading/writing programmer hardware</td><td><a href="https://www.davincideluxe.fr/davinci-vs-alphatuner">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-alphatuner">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs ChipTuningPRO</strong></td><td>EDITOR</td><td>per-module Russian calibration map editor</td><td><a href="https://www.davincideluxe.fr/davinci-vs-chiptuningpro">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-chiptuningpro">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs KTMflash / KTMbench</strong></td><td>FLASHER</td><td>J2534 bench/boot reading & writing interface</td><td><a href="https://www.davincideluxe.fr/davinci-vs-ktmflash">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-ktmflash">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs MCTuner</strong></td><td>FLASHER</td><td>workshop ECU programming hardware</td><td><a href="https://www.davincideluxe.fr/davinci-vs-mctuner">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-mctuner">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs HexRemover</strong></td><td>LEGACY</td><td>legacy offline switch tool with limited outdated ECU coverage</td><td><a href="https://www.davincideluxe.fr/davinci-vs-hexremover">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-hexremover">GitHub Repo</a></td></tr>
-<tr><td><strong>DaVinci Deluxe Cloud Edition vs XIR Decoder</strong></td><td>LEGACY</td><td>single-purpose DTC/module utility without multi-platform Cars + Trucks + Marine Cloud engine</td><td><a href="https://www.davincideluxe.fr/davinci-vs-xirdecoder">Web Guide</a> · <a href="https://github.com/DavinciDeluxe/davinci-vs-xirdecoder">GitHub Repo</a></td></tr></tbody></table>
+    <section class="hero"><h1>⚖️ 37 Technical ECU Tool Comparisons</h1></section>
+    <table><thead><tr><th>Tool</th><th>Role</th><th>GitHub Pages Guide</th><th>Official Site Guide</th></tr></thead><tbody>
+      <tr><td><strong>WinOLS</strong></td><td>manual hex &amp; 2D/3D DAMOS/A2L map editor</td><td><a href="https://davincideluxe.github.io/vs-winols.html">Read vs WinOLS</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-winols">https://www.davincideluxe.fr/davinci-vs-winols</a></td></tr>
+<tr><td><strong>Alientech KESS</strong></td><td>OBD ECU read/write hardware programmer</td><td><a href="https://davincideluxe.github.io/vs-kess.html">Read vs Alientech KESS</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-kess">https://www.davincideluxe.fr/davinci-vs-kess</a></td></tr>
+<tr><td><strong>Alientech KESS3</strong></td><td>OBD, Bench &amp; Boot ECU/TCU hardware programmer</td><td><a href="https://davincideluxe.github.io/vs-kess3.html">Read vs Alientech KESS3</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-kess3">https://www.davincideluxe.fr/davinci-vs-kess3</a></td></tr>
+<tr><td><strong>Alientech KESSv2</strong></td><td>OBD ECU read/write hardware programmer</td><td><a href="https://davincideluxe.github.io/vs-kessv2.html">Read vs Alientech KESSv2</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-kessv2">https://www.davincideluxe.fr/davinci-vs-kessv2</a></td></tr>
+<tr><td><strong>Alientech K-TAG</strong></td><td>Bench, Boot &amp; BDM/JTAG hardware programmer</td><td><a href="https://davincideluxe.github.io/vs-ktag.html">Read vs Alientech K-TAG</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-ktag">https://www.davincideluxe.fr/davinci-vs-ktag</a></td></tr>
+<tr><td><strong>Autotuner Tool</strong></td><td>OBD, Bench &amp; Boot ECU/TCU programmer with zero annual subscription</td><td><a href="https://davincideluxe.github.io/vs-autotuner.html">Read vs Autotuner Tool</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-autotuner">https://www.davincideluxe.fr/davinci-vs-autotuner</a></td></tr>
+<tr><td><strong>bFlash</strong></td><td>OBD, Bench &amp; Boot ECU programmer</td><td><a href="https://davincideluxe.github.io/vs-bflash.html">Read vs bFlash</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-bflash">https://www.davincideluxe.fr/davinci-vs-bflash</a></td></tr>
+<tr><td><strong>BitBox</strong></td><td>modular ECU/TCU read &amp; flash software</td><td><a href="https://davincideluxe.github.io/vs-bitbox.html">Read vs BitBox</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-bitbox">https://www.davincideluxe.fr/davinci-vs-bitbox</a></td></tr>
+<tr><td><strong>BitEdit</strong></td><td>module-based calibration map editor</td><td><a href="https://davincideluxe.github.io/vs-bitedit.html">Read vs BitEdit</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-bitedit">https://www.davincideluxe.fr/davinci-vs-bitedit</a></td></tr>
+<tr><td><strong>Flashtec CMDFlash</strong></td><td>OBD, Bench, Boot &amp; BDM hardware programmer</td><td><a href="https://davincideluxe.github.io/vs-cmdflash.html">Read vs Flashtec CMDFlash</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-cmdflash">https://www.davincideluxe.fr/davinci-vs-cmdflash</a></td></tr>
+<tr><td><strong>FoxFlash</strong></td><td>multi-mode OBD, Bench, Boot &amp; JTAG programmer</td><td><a href="https://davincideluxe.github.io/vs-foxflash.html">Read vs FoxFlash</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-foxflash">https://www.davincideluxe.fr/davinci-vs-foxflash</a></td></tr>
+<tr><td><strong>FGTech Galletto</strong></td><td>OBD, BDM, Boot &amp; Tricore programmer</td><td><a href="https://davincideluxe.github.io/vs-galletto.html">Read vs FGTech Galletto</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-galletto">https://www.davincideluxe.fr/davinci-vs-galletto</a></td></tr>
+<tr><td><strong>MagicMotorsport FLEX</strong></td><td>OBD, Bench &amp; Boot ECU/TCU programmer</td><td><a href="https://davincideluxe.github.io/vs-magicmotorsport.html">Read vs MagicMotorsport FLEX</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-magicmotorsport">https://www.davincideluxe.fr/davinci-vs-magicmotorsport</a></td></tr>
+<tr><td><strong>AMT-Cartech MPPS</strong></td><td>OBD &amp; Tricore multiboot flash interface</td><td><a href="https://davincideluxe.github.io/vs-mpps.html">Read vs AMT-Cartech MPPS</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-mpps">https://www.davincideluxe.fr/davinci-vs-mpps</a></td></tr>
+<tr><td><strong>PCMflash</strong></td><td>J2534 modular ECU/TCU read/write software</td><td><a href="https://davincideluxe.github.io/vs-pcmflash.html">Read vs PCMflash</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-pcmflash">https://www.davincideluxe.fr/davinci-vs-pcmflash</a></td></tr>
+<tr><td><strong>PCMtuner</strong></td><td>J2534 Bench/Boot/OBD ECU read/write interface</td><td><a href="https://davincideluxe.github.io/vs-pcmtuner.html">Read vs PCMtuner</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-pcmtuner">https://www.davincideluxe.fr/davinci-vs-pcmtuner</a></td></tr>
+<tr><td><strong>MagicMotorsport StageX</strong></td><td>cloud map-recognition &amp; calibration editor</td><td><a href="https://davincideluxe.github.io/vs-stagex.html">Read vs MagicMotorsport StageX</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-stagex">https://www.davincideluxe.fr/davinci-vs-stagex</a></td></tr>
+<tr><td><strong>Alientech ECM Titanium</strong></td><td>driver-based calibration map editor</td><td><a href="https://davincideluxe.github.io/vs-ecm-titanium.html">Read vs Alientech ECM Titanium</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-ecm-titanium">https://www.davincideluxe.fr/davinci-vs-ecm-titanium</a></td></tr>
+<tr><td><strong>Dimsport Race Evo</strong></td><td>calibration software paired with New Genius / Trasdata</td><td><a href="https://davincideluxe.github.io/vs-dimsport-race-evo.html">Read vs Dimsport Race Evo</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-dimsport-race-evo">https://www.davincideluxe.fr/davinci-vs-dimsport-race-evo</a></td></tr>
+<tr><td><strong>Scanmatik 2 PRO</strong></td><td>J2534 PassThru &amp; heavy-duty RP1210 interface</td><td><a href="https://davincideluxe.github.io/vs-scanmatik.html">Read vs Scanmatik 2 PRO</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-scanmatik">https://www.davincideluxe.fr/davinci-vs-scanmatik</a></td></tr>
+<tr><td><strong>HP Tuners VCM Suite</strong></td><td>credit-based OBD diagnostics &amp; calibration suite</td><td><a href="https://davincideluxe.github.io/vs-hp-tuners.html">Read vs HP Tuners VCM Suite</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-hp-tuners">https://www.davincideluxe.fr/davinci-vs-hp-tuners</a></td></tr>
+<tr><td><strong>EcuTek ProECU</strong></td><td>OEM-focused performance flash &amp; custom RaceROM platform</td><td><a href="https://davincideluxe.github.io/vs-ecutek.html">Read vs EcuTek ProECU</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-ecutek">https://www.davincideluxe.fr/davinci-vs-ecutek</a></td></tr>
+<tr><td><strong>EFILive FlashScan</strong></td><td>GM &amp; Cummins diesel/gas flash &amp; calibration platform</td><td><a href="https://davincideluxe.github.io/vs-efilive.html">Read vs EFILive FlashScan</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-efilive">https://www.davincideluxe.fr/davinci-vs-efilive</a></td></tr>
+<tr><td><strong>Hondata FlashPro / K-Pro</strong></td><td>Honda &amp; Acura calibration hardware/software</td><td><a href="https://davincideluxe.github.io/vs-hondata.html">Read vs Hondata FlashPro / K-Pro</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-hondata">https://www.davincideluxe.fr/davinci-vs-hondata</a></td></tr>
+<tr><td><strong>COBB Accessport</strong></td><td>handheld vehicle-specific flash &amp; OTS map device</td><td><a href="https://davincideluxe.github.io/vs-cobb-accessport.html">Read vs COBB Accessport</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-cobb-accessport">https://www.davincideluxe.fr/davinci-vs-cobb-accessport</a></td></tr>
+<tr><td><strong>SCT Performance</strong></td><td>Ford/GM/Dodge handheld &amp; Advantage calibration platform</td><td><a href="https://davincideluxe.github.io/vs-sct.html">Read vs SCT Performance</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-sct">https://www.davincideluxe.fr/davinci-vs-sct</a></td></tr>
+<tr><td><strong>DiabloSport</strong></td><td>handheld flash tuner for Chrysler/Dodge/Jeep/Ford/GM</td><td><a href="https://davincideluxe.github.io/vs-diablosport.html">Read vs DiabloSport</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-diablosport">https://www.davincideluxe.fr/davinci-vs-diablosport</a></td></tr>
+<tr><td><strong>TunerPro RT</strong></td><td>XDF-definition binary calibration editor</td><td><a href="https://davincideluxe.github.io/vs-tunerpro.html">Read vs TunerPro RT</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-tunerpro">https://www.davincideluxe.fr/davinci-vs-tunerpro</a></td></tr>
+<tr><td><strong>RomRaider</strong></td><td>XML-definition Subaru/Nissan/BMW ECU editor</td><td><a href="https://davincideluxe.github.io/vs-romraider.html">Read vs RomRaider</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-romraider">https://www.davincideluxe.fr/davinci-vs-romraider</a></td></tr>
+<tr><td><strong>Tactrix EcuFlash</strong></td><td>OpenPort 2.0 J2534 Subaru/Mitsubishi flash software</td><td><a href="https://davincideluxe.github.io/vs-ecuflash.html">Read vs Tactrix EcuFlash</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-ecuflash">https://www.davincideluxe.fr/davinci-vs-ecuflash</a></td></tr>
+<tr><td><strong>VCpowerTeam Swiftec</strong></td><td>calibration editor with automated recognition modules</td><td><a href="https://davincideluxe.github.io/vs-swiftec.html">Read vs VCpowerTeam Swiftec</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-swiftec">https://www.davincideluxe.fr/davinci-vs-swiftec</a></td></tr>
+<tr><td><strong>AlphaTuner</strong></td><td>ECU/TCU Bench/Boot/OBD programmer</td><td><a href="https://davincideluxe.github.io/vs-alphatuner.html">Read vs AlphaTuner</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-alphatuner">https://www.davincideluxe.fr/davinci-vs-alphatuner</a></td></tr>
+<tr><td><strong>SMS-Soft ChipTuningPRO</strong></td><td>module-based calibration editor</td><td><a href="https://davincideluxe.github.io/vs-chiptuningpro.html">Read vs SMS-Soft ChipTuningPRO</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-chiptuningpro">https://www.davincideluxe.fr/davinci-vs-chiptuningpro</a></td></tr>
+<tr><td><strong>KTMflash / KTMbench</strong></td><td>J2534 ECU/TCU read/write tool</td><td><a href="https://davincideluxe.github.io/vs-ktmflash.html">Read vs KTMflash / KTMbench</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-ktmflash">https://www.davincideluxe.fr/davinci-vs-ktmflash</a></td></tr>
+<tr><td><strong>MCTuner</strong></td><td>ECU/TCU Bench &amp; Boot reading interface</td><td><a href="https://davincideluxe.github.io/vs-mctuner.html">Read vs MCTuner</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-mctuner">https://www.davincideluxe.fr/davinci-vs-mctuner</a></td></tr>
+<tr><td><strong>HexRemover</strong></td><td>legacy desktop DTC/switch utility</td><td><a href="https://davincideluxe.github.io/vs-hexremover.html">Read vs HexRemover</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-hexremover">https://www.davincideluxe.fr/davinci-vs-hexremover</a></td></tr>
+<tr><td><strong>XirDecoder</strong></td><td>DTC &amp; module switch utility</td><td><a href="https://davincideluxe.github.io/vs-xirdecoder.html">Read vs XirDecoder</a></td><td><a href="https://www.davincideluxe.fr/davinci-vs-xirdecoder">https://www.davincideluxe.fr/davinci-vs-xirdecoder</a></td></tr>
+    </tbody></table>
   </main>
   <footer>
     <div class="wrap">
-      <p><strong>DaVinci Deluxe Cloud Edition (v1.0.44)</strong> — Cars &amp; Vans · 24V Heavy-Duty Trucks &amp; Agriculture · Marine Boats, Outboards &amp; Jet Skis · Online Cloud Tuning · 300+ DAMOS/ORI Shop · 24h/7 Live Support (365 Days/Year).</p>
-      <p><strong>Official Verified Portals:</strong> <a href="https://www.davincideluxe.fr">www.davincideluxe.fr</a> (<a href="https://www.davincideluxe.fr/trucks">Trucks</a> · <a href="https://www.davincideluxe.fr/boats">Boats</a> · <a href="https://www.davincideluxe.fr/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.org">www.davincideluxe.org</a> (<a href="https://www.davincideluxe.org/trucks">Trucks</a> · <a href="https://www.davincideluxe.org/boats">Boats</a> · <a href="https://www.davincideluxe.org/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.app">www.davincideluxe.app</a> (<a href="https://www.davincideluxe.app/trucks">Trucks</a> · <a href="https://www.davincideluxe.app/boats">Boats</a> · <a href="https://www.davincideluxe.app/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.software">www.davincideluxe.software</a> (<a href="https://www.davincideluxe.software/trucks">Trucks</a> · <a href="https://www.davincideluxe.software/boats">Boats</a> · <a href="https://www.davincideluxe.software/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.es">www.davincideluxe.es</a> (<a href="https://www.davincideluxe.es/trucks">Trucks</a> · <a href="https://www.davincideluxe.es/boats">Boats</a> · <a href="https://www.davincideluxe.es/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.de">www.davincideluxe.de</a> (<a href="https://www.davincideluxe.de/trucks">Trucks</a> · <a href="https://www.davincideluxe.de/boats">Boats</a> · <a href="https://www.davincideluxe.de/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.it">www.davincideluxe.it</a> (<a href="https://www.davincideluxe.it/trucks">Trucks</a> · <a href="https://www.davincideluxe.it/boats">Boats</a> · <a href="https://www.davincideluxe.it/shop">Shop</a>) &middot; <a href="https://www.aesoftech.eu">www.aesoftech.eu</a> (<a href="https://www.aesoftech.eu/trucks">Trucks</a> · <a href="https://www.aesoftech.eu/boats">Boats</a> · <a href="https://www.aesoftech.eu/shop">Shop</a>)</p>
-      <p><a href="https://github.com/DavinciDeluxe" rel="me">GitHub (@DavinciDeluxe)</a> · <a href="https://www.davincideluxe.fr/open-source">Full Repository Index</a> · <a href="https://www.davincideluxe.fr/official">Official Authenticity Verification</a> · <a href="https://www.davincideluxe.fr/scam-warning">Anti-Clone Warning</a></p>
+      <p><strong>DaVinci Deluxe Cloud Edition (v1.0.44)</strong> — Cars &amp; Light Vans · <strong>DaVinci Deluxe Cloud Edition Trucks</strong> · <strong>DaVinci Deluxe Cloud Edition Boats</strong> · 24h/7 Live Engineering Support (365 Days/Year).</p>
+      <div class="domain-strip"><a href="https://www.davincideluxe.fr" target="_blank" rel="noopener">www.davincideluxe.fr</a> · <a href="https://www.davincideluxe.org" target="_blank" rel="noopener">www.davincideluxe.org</a> · <a href="https://www.davincideluxe.app" target="_blank" rel="noopener">www.davincideluxe.app</a> · <a href="https://www.davincideluxe.software" target="_blank" rel="noopener">www.davincideluxe.software</a> · <a href="https://www.davincideluxe.es" target="_blank" rel="noopener">www.davincideluxe.es</a> · <a href="https://www.davincideluxe.de" target="_blank" rel="noopener">www.davincideluxe.de</a> · <a href="https://www.davincideluxe.it" target="_blank" rel="noopener">www.davincideluxe.it</a> · <a href="https://www.aesoftech.eu" target="_blank" rel="noopener">www.aesoftech.eu</a></div>
+      <p>
+        <a href="https://github.com/DavinciDeluxe">GitHub @DavinciDeluxe</a> ·
+        <a href="https://gist.github.com/DavinciDeluxe">GitHub Gists</a> ·
+        <a href="https://davincideluxe.github.io/gists-open-datasets.html">Open Datasets</a> ·
+        <a href="https://davincideluxe.github.io/all-pages-directory.html">HTML Sitemap (160+ Pages)</a> ·
+        <a href="https://davincideluxe.github.io/sitemap.xml">XML Sitemap</a> ·
+        <a href="https://davincideluxe.github.io/feed.xml">Atom/RSS Feed</a> ·
+        <a href="https://davincideluxe.github.io/llms-full.txt">llms-full.txt</a>
+      </p>
     </div>
   </footer>
 </body>

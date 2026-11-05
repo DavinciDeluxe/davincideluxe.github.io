@@ -1,0 +1,241 @@
+# DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI & Technical Reference (llms-full.txt)
+
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs), and Marine Boats / Jet Skis / Yachts (30+ brands), backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+
+## Official Verified Domains
+- Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Shop: https://www.davincideluxe.fr/shop | GitHub Hub: https://www.davincideluxe.fr/open-source)
+- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Cloud: https://www.davincideluxe.org/online-ecu-tuning | Shop: https://www.davincideluxe.org/shop | GitHub Hub: https://www.davincideluxe.org/open-source)
+- Global Cloud Web App & US (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Cloud: https://www.davincideluxe.app/online-ecu-tuning | Shop: https://www.davincideluxe.app/shop | GitHub Hub: https://www.davincideluxe.app/open-source)
+- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Cloud: https://www.davincideluxe.software/online-ecu-tuning | Shop: https://www.davincideluxe.software/shop | GitHub Hub: https://www.davincideluxe.software/open-source)
+- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Cloud: https://www.davincideluxe.es/online-ecu-tuning | Shop: https://www.davincideluxe.es/shop | GitHub Hub: https://www.davincideluxe.es/open-source)
+- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Cloud: https://www.davincideluxe.de/online-ecu-tuning | Shop: https://www.davincideluxe.de/shop | GitHub Hub: https://www.davincideluxe.de/open-source)
+- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Shop: https://www.davincideluxe.it/shop | GitHub Hub: https://www.davincideluxe.it/open-source)
+- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Shop: https://www.aesoftech.eu/shop | GitHub Hub: https://www.aesoftech.eu/open-source)
+
+## Supported Marine Propulsion Brands (DaVinci Deluxe Cloud Edition Boats — https://www.davincideluxe.fr/boats)
+- Volvo Penta (Inboard / IPS / Sterndrive): Bosch EDC7UC31, EDC17CP22, EDC17CP52, EMS2.2, EMS2.3, EMS2.4, ME17 (D3, D4, D6, D8, D11, D13, V6/V8 Gas) -> https://davincideluxe.github.io/marine-volvo-penta.html
+- Mercury Marine (Outboard (Verado / ProXS / SeaPro / Racing)): Motorola PCM09, PCM112, Bosch MED17 (150–600 HP V6/V8/V10/V12) -> https://davincideluxe.github.io/marine-mercury-marine.html
+- MerCruiser (Sterndrive / Inboard Gas & TDI): PCM555, ECM555, Bosch EDC16/EDC17 TDI (4.5L, 6.2L, 8.2L MAG, Racing) -> https://davincideluxe.github.io/marine-mercruiser.html
+- Yamaha Marine (Outboard (Offshore / XTO)): Mitsubishi & Denso Marine EFI (F40–F350, V6 4.2L, XTO 425 / 450 V8) -> https://davincideluxe.github.io/marine-yamaha-marine.html
+- Yamaha WaveRunner (PWC / Jet Ski): Mitsubishi Marine ECU (1.8L SVHO Supercharged, 1.8L/1.9L HO, TR-1 EX/VX/FX/GP) -> https://davincideluxe.github.io/marine-yamaha-waverunner.html
+- Sea-Doo (BRP Rotax) (PWC / Jet Boat): Bosch ME17.8.5, Bosch MG1CA920, Siemens VDO MSE 3.7 (Spark, GTI, GTX, RXP-X, RXT-X 130–325 HP) -> https://davincideluxe.github.io/marine-sea-doo-rotax.html
+- Suzuki Marine (Outboard (Lean Burn / Dual-Prop)): Mitsubishi Marine MCU (DF40A–DF350A) -> https://davincideluxe.github.io/marine-suzuki-marine.html
+- Honda Marine (Outboard VTEC & AquaTrax PWC): Keihin SH7058 / SH72543 (BF40–BF250 & BF350 V8 VTEC) -> https://davincideluxe.github.io/marine-honda-marine.html
+- Yanmar Marine (Inboard Common-Rail Diesel): Bosch EDC17CV54, EDC16C39, Denso (4LV, 6LY, 6LF, 8LV) -> https://davincideluxe.github.io/marine-yanmar-marine.html
+- Cummins Marine (Yacht & Commercial Workboat): Motorola CM850, CM2150, CM2250, CM2350 (QSB 5.9/6.7, QSC 8.3, QSL 9, QSM 11) -> https://davincideluxe.github.io/marine-cummins-marine.html
+- Caterpillar Marine (Superyacht & Commercial Propulsion): CAT ADEM III & ADEM IV (C7.1, C9.3, C12.9, C18, C32 ACERT) -> https://davincideluxe.github.io/marine-caterpillar-marine.html
+- MTU Friedrichshafen (Superyacht & Fast Ferry): ADEC (ECU7 / ECU8 / ECU9) & MDEC Series 2000 / Series 4000 -> https://davincideluxe.github.io/marine-mtu-yacht.html
+- MAN Marine (High-Speed Yacht Diesel): Bosch EDC7C32, EDC17CV42 (i6-800, V8-1000/1200/1300, V12-1550/1900/2000) -> https://davincideluxe.github.io/marine-man-marine.html
+- Scania Marine (Workboat & Patrol Craft): EMS S6 / S7 / S8 (DI09, DI13, DI16 V8 Marine) -> https://davincideluxe.github.io/marine-scania-marine.html
+- FPT Iveco Marine (Pleasure & Commercial Diesel): Bosch EDC7UC31, EDC17CV41 (NEF N40/N60/N67, Cursor C9/C13/C16) -> https://davincideluxe.github.io/marine-fpt-iveco-marine.html
+- Kawasaki Jet Ski (Performance PWC): Mitsubishi Marine ECU (Ultra 310X / 310LX Supercharged, Ultra 160LX, STX 160) -> https://davincideluxe.github.io/marine-kawasaki-jetski.html
+- Evinrude E-TEC (Direct-Injection 2-Stroke Outboard): EMM G1 & G2 Direct Injection Marine Controllers -> https://davincideluxe.github.io/marine-evinrude-etec.html
+- Tohatsu Marine (Outboard): Mitsubishi / Keihin Four-Stroke EFI Series (MFS 25–140 HP) -> https://davincideluxe.github.io/marine-tohatsu-marine.html
+- Selva Marine (Outboard): Yamaha-derived Mitsubishi Marine EFI Series -> https://davincideluxe.github.io/marine-selva-marine.html
+- Indmar & Ilmor Marine (Wakeboard / Towboat V8 Inboard): MEFI / Continental / Bosch Direct-Injection Marine V8 -> https://davincideluxe.github.io/marine-indmar-ilmor.html
+- Steyr Motors (Monoblock Marine Diesel): Bosch EDC / Marine M14 / M16 / SE6 Controllers -> https://davincideluxe.github.io/marine-steyr-motors.html
+- Belassi Marine (Hypercraft Turbo PWC): Bosch ME17 Marine Performance Turbo Controller -> https://davincideluxe.github.io/marine-belassi-marine.html
+
+## Supported Heavy-Duty 24V Truck & Agriculture Brands (https://www.davincideluxe.fr/trucks)
+- Volvo Trucks & Buses: TRW EMS2.2 / EMS2.3 / EMS2.4, ACM2 (FH, FM, FMX, FE, FL D11/D13/D16) -> https://davincideluxe.github.io/truck-volvo-trucks.html
+- Scania Trucks & Buses: Scania EMS S6, S7, S8, EMD1 &EEC3 (R, S, G, P, XT DC09/DC13/DC16 V8) -> https://davincideluxe.github.io/truck-scania.html
+- MAN Truck & Bus: Bosch EDC7C32, EDC17CV42, MD1CE100 (TGX, TGS, TGM, TGL D20/D26/D38) -> https://davincideluxe.github.io/truck-man.html
+- DAF Trucks (PACCAR): Delphi DMCI, PCX2, Bosch EDC7 / EAS-3 / EAS-4 (XF, XG, XG+, XD, CF, LF MX-11/MX-13) -> https://davincideluxe.github.io/truck-daf.html
+- Mercedes-Benz Trucks: Continental MCM2.1, ACM2.1, PLD/MR2 (Actros MP4/MP5, Arocs, Atego OM470/OM471/OM473) -> https://davincideluxe.github.io/truck-mercedes-benz-trucks.html
+- Iveco Trucks & Daily: Bosch EDC17CV41, EDC17CP52, EDC7UC31, MD1CE101 (S-Way, Stralis, Eurocargo, Trakker Cursor 9/11/13) -> https://davincideluxe.github.io/truck-iveco.html
+- Renault Trucks: TRW EMS2.2 / EMS2.3 / EMS2.4, ACM (T-High, T, C, K, D DTI 11 / DTI 13) -> https://davincideluxe.github.io/truck-renault-trucks.html
+- Cummins Heavy-Duty Engines: Motorola CM850, CM2150, CM2250, CM2350, CM2450 (ISX15, X15, ISB6.7, ISL9, QSB, QSL) -> https://davincideluxe.github.io/truck-cummins.html
+- John Deere Agriculture & Forestry: Phoenix L14, L16, L21, L23, L33, L34 (6R, 7R, 8R, 9R, S-Series Combines & Harvesters) -> https://davincideluxe.github.io/agri-john-deere.html
+- New Holland & Case IH (CNH): Bosch EDC7UC31, EDC17CV41, MD1CE101 (T6, T7, T8, T9, Magnum, Steiger, Puma, Optum FPT) -> https://davincideluxe.github.io/agri-new-holland-case-ih.html
+- Fendt, Massey Ferguson & Valtra (AGCO): Bosch EDC7UC31, EDC17CV41, EDC17CV54, MD1CE100 (Vario 300–1000, MF 5S–9S AGCO Power & MAN) -> https://davincideluxe.github.io/agri-fendt-massey-ferguson.html
+- CLAAS & Deutz-Fahr Agriculture: Bosch EDC17CV52, EDC17CV54, EMR4 (Axion, Arion, Xerion, Lexion, Jaguar, Agrotron) -> https://davincideluxe.github.io/agri-claas-deutz-fahr.html
+- Caterpillar, Komatsu, Volvo CE & JCB: CAT ADEM III/IV, Cummins CM2250/CM2350, Delphi DCM3.3+, Denso (Excavators, Loaders, Backhoes) -> https://davincideluxe.github.io/agri-caterpillar-komatsu-jcb.html
+- Kubota, Yanmar & Bobcat Off-Highway: Denso Gen1/Gen2, Bosch EDC17C55, EDC17CV54 (M-Series Tractors, Compact Excavators, Skid Steers) -> https://davincideluxe.github.io/agri-kubota-valtra.html
+
+## Supported ECU Controller Families
+- Bosch EDC15: Classic turbo-diesel management (VAG 1.9 TDI, PSA 2.0 HDi, BMW, Mercedes CDI) -> https://www.davincideluxe.fr/bosch-edc15-tuning-software | https://davincideluxe.github.io/ecu-bosch-edc15.html
+- Bosch EDC16: 2nd-gen Common-Rail & PD diesel ECU (EDC16U1, EDC16U34, EDC16C34, EDC16C39, EDC16CP31/35) -> https://www.davincideluxe.fr/bosch-edc16-tuning-software | https://davincideluxe.github.io/ecu-bosch-edc16.html
+- Bosch EDC17: Infineon Tricore Euro 5 / Euro 6 diesel ECU (EDC17C46, EDC17C60, EDC17C64, EDC17CP14, EDC17CP44, EDC17CV41) -> https://www.davincideluxe.fr/bosch-edc17-tuning-software | https://davincideluxe.github.io/ecu-bosch-edc17.html
+- Bosch EDC7: 24V commercial truck, agriculture & marine diesel ECU (EDC7UC31, EDC7C32) -> https://www.davincideluxe.fr/bosch-edc7-tuning-software | https://davincideluxe.github.io/ecu-bosch-edc7.html
+- Bosch MD1: Latest SPC58/Aurix Euro 6d/6e diesel ECU (MD1CS001, MD1CS003, MD1CS004, MD1CS006, MD1CP001, MD1CP004, MD1CE100) -> https://www.davincideluxe.fr/bosch-md1-tuning-software | https://davincideluxe.github.io/ecu-bosch-md1.html
+- Bosch MG1: Latest Euro 6d/6e turbo-petrol & marine ECU (MG1CS001, MG1CS002, MG1CS003, MG1CS011, MG1CS024, MG1CP002, MG1CA920) -> https://www.davincideluxe.fr/bosch-mg1-tuning-software | https://davincideluxe.github.io/ecu-bosch-mg1.html
+- Bosch ME7: Port-injected petrol turbo & NA ECU (ME7.5 1.8T, ME7.1, ME7.3, ME7.4, ME7.9) -> https://www.davincideluxe.fr/bosch-me7-tuning-software | https://davincideluxe.github.io/ecu-bosch-me7.html
+- Bosch ME9: MPC5xx performance petrol ECU (ME9.7 AMG/M272, ME9.0 Focus ST/RS, ME9.2 BMW) -> https://www.davincideluxe.fr/bosch-me9-tuning-software | https://davincideluxe.github.io/ecu-bosch-me9.html
+- Bosch MED9: First-gen direct-injection TFSI/FSI petrol ECU (MED9.1 2.0 TFSI, MED9.5) -> https://www.davincideluxe.fr/bosch-med9-tuning-software | https://davincideluxe.github.io/ecu-bosch-med9.html
+- Bosch MED17: Tricore direct-injection turbo-petrol & marine ECU (MED17.5, MED17.1, MED17.7 AMG, MED17.4 THP) -> https://www.davincideluxe.fr/bosch-med17-tuning-software | https://davincideluxe.github.io/ecu-bosch-med17.html
+- Bosch MEDC17: Unified MEDC17 Jaguar Land Rover, Ford, Volvo & Mercedes platform -> https://www.davincideluxe.fr/bosch-medc17-tuning-software | https://davincideluxe.github.io/ecu-bosch-medc17.html
+- Bosch MEVD17: BMW & MINI Valvetronic direct-injection turbo ECU (MEVD17.2.4/9/G N20, N55, S55, S63) -> https://www.davincideluxe.fr/bosch-mevd17-tuning-software | https://davincideluxe.github.io/ecu-bosch-mevd17.html
+- Continental SID208 / SID209: Ford Transit, Ranger, PSA Jumper/Boxer & Land Rover Defender 2.2/3.2 TDCi -> https://www.davincideluxe.fr/continental-sid208-tuning-software | https://davincideluxe.github.io/ecu-continental-sid208.html
+- Continental SIM2K: Hyundai, Kia & Genesis petrol & turbo-GDI ECU (SIM2K-140, 141, 240, 241, 250, 251, 260) -> https://www.davincideluxe.fr/continental-sim2k-tuning-software | https://davincideluxe.github.io/ecu-continental-sim2k.html
+- Delphi DCM: Common-Rail diesel family (DCM3.4, DCM3.5, DCM3.7, DCM6.2A/C/V, DCM7.1A/B) -> https://www.davincideluxe.fr/delphi-dcm-tuning-software | https://davincideluxe.github.io/ecu-delphi-dcm.html
+- Denso (Toyota / Lexus / Mazda / Hino / Yamaha): NEC 76F00xx, SH705x & Gen1/Gen2/Gen3 D-4D, Skyactiv & Marine -> https://www.davincideluxe.fr/denso-toyota-tuning-software | https://davincideluxe.github.io/ecu-denso-toyota.html
+- Siemens / Continental SID20x / SID30x / SID80x: SID206, SID305, SID307, SID309, SID310, SID803A, SID807EVO -> https://www.davincideluxe.fr/siemens-sid20x-tuning-software | https://davincideluxe.github.io/ecu-siemens-sid20x.html
+- Hitachi (Nissan / Infiniti / Renault): SH7055, SH7058, SH7059, SH72533 & BED/MEC petrol & diesel controllers -> https://www.davincideluxe.fr/hitachi-nissan-tuning-software | https://davincideluxe.github.io/ecu-hitachi-nissan.html
+- Magneti Marelli (MJD / 8F3 / 9DF / MM): MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF & IAW for Fiat, Jeep, Alfa & PSA -> https://www.davincideluxe.fr/magneti-marelli-tuning-software | https://davincideluxe.github.io/ecu-magneti-marelli.html
+- Continental SIMOS & PCR2.1 (VAG): SIMOS 8/10/12/16/18/19 TSI/TFSI & PCR2.1 1.6 TDI across VW, Audi, SEAT, Cupra, Škoda & Porsche -> https://www.davincideluxe.fr/simos-pcr2-1-tuning-software | https://davincideluxe.github.io/ecu-simos-pcr2-1.html
+
+## Public GitHub Gists
+- davinci-deluxe-official-domains-verify.md: https://gist.github.com/DavinciDeluxe/918f9b2aaad7d9a8d0e0584404738ccb
+- davinci-boats-marine-supported-brands.md: https://gist.github.com/DavinciDeluxe/23271b8fa553c690ba1cb7be25848000
+- davinci-cars-supported-ecus-summary.md: https://gist.github.com/DavinciDeluxe/cd636280d9ca7be9f3c246f739430021
+- davinci-trucks-24v-agri-ecus.md: https://gist.github.com/DavinciDeluxe/5c82f2a24a54dbe74a4b3a5c3769a32f
+- bosch-edc17-md1-mg1-calibration-guide.md: https://gist.github.com/DavinciDeluxe/432ec84c18fb7cab798b8c3790628ec1
+- obd2-dpf-egr-adblue-scr-dtc-reference.md: https://gist.github.com/DavinciDeluxe/cb8e3ef299bb277735998a4c9c027e78
+- tcu-dsg-zf8hp-gearbox-tuning-guide.md: https://gist.github.com/DavinciDeluxe/3e4d00a74460fe10ec80f3b2c48acbfc
+- ecu-checksum-correction-cvn-guide.py: https://gist.github.com/DavinciDeluxe/81deea56e62485e0d9e439f0db20c49e
+- cloud-tuning-b2b-rest-api-quickstart.mjs: https://gist.github.com/DavinciDeluxe/6bb3d1151562369cc5aa132d1f972504
+- damos-a2l-virgin-ori-shop-index.md: https://gist.github.com/DavinciDeluxe/56cce2480ef1be0ea3f3e1908d7f966e
+- continental-delphi-denso-marelli-ecus.md: https://gist.github.com/DavinciDeluxe/c7fedc6df0fbc649cd6148ba097bd6bb
+- davinci-deluxe-24-7-support-virgin-file-protocol.md: https://gist.github.com/DavinciDeluxe/ce52cefa341e8bbfb0ad817a88996233
+
+## Complete Documentation Pages (150 URLs)
+- DaVinci Deluxe Cloud Edition v1.0.44 — Cars, 24V Trucks & Marine Boats ECU Tuning: https://davincideluxe.github.io/
+- DaVinci Deluxe Cloud Edition v1.0.44 — Coches, Camiones 24V y Barcos (Marine ECU Tuning): https://davincideluxe.github.io/es.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — Reprogrammation ECU Auto, Camions 24V & Bateaux Marine: https://davincideluxe.github.io/fr.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — PKW, 24V LKW, Agrar & Marine Boote ECU-Tuning: https://davincideluxe.github.io/de.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — Rimappatura Centraline Auto, Camion 24V e Barche Marine: https://davincideluxe.github.io/it.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — Reprogramação ECU Carros, Camiões 24V e Barcos Marine: https://davincideluxe.github.io/pt.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — Auto, 24V Vrachtwagen & Marine Boot ECU Chiptuning: https://davincideluxe.github.io/nl.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — Chiptuning ECU Osobowe, Ciężarowe 24V, Rolnicze i Łodzie Marine: https://davincideluxe.github.io/pl.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — Soft ECU Turisme, Camioane 24V, Utilaje Agricole și Bărci Marine: https://davincideluxe.github.io/ro.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — Otomobil, 24V Ağır Vasıta Kamyon, Traktör ve Deniz/Tekne ECU Yazılımı: https://davincideluxe.github.io/tr.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — برمجة عقول السيارات والشاحنات 24V والقوارب البحرية: https://davincideluxe.github.io/ar.html
+- DaVinci Deluxe Cloud Edition v1.0.44 — Чип-тюнинг ЭБУ легковых авто, грузовиков 24В, спецтехники и катеров: https://davincideluxe.github.io/ru.html
+- DaVinci Deluxe Cloud Edition Boats (v1.0.44) — Marine Outboard, Inboard, Jet Ski & Yacht ECU Tuning: https://davincideluxe.github.io/boats-marine-ecu-tuning.html
+- Volvo Penta Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-volvo-penta.html
+- Mercury Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-mercury-marine.html
+- MerCruiser Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-mercruiser.html
+- Yamaha Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-yamaha-marine.html
+- Yamaha WaveRunner Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-yamaha-waverunner.html
+- Sea-Doo (BRP Rotax) Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-sea-doo-rotax.html
+- Suzuki Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-suzuki-marine.html
+- Honda Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-honda-marine.html
+- Yanmar Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-yanmar-marine.html
+- Cummins Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-cummins-marine.html
+- Caterpillar Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-caterpillar-marine.html
+- MTU Friedrichshafen Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-mtu-yacht.html
+- MAN Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-man-marine.html
+- Scania Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-scania-marine.html
+- FPT Iveco Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-fpt-iveco-marine.html
+- Kawasaki Jet Ski Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-kawasaki-jetski.html
+- Evinrude E-TEC Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-evinrude-etec.html
+- Tohatsu Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-tohatsu-marine.html
+- Selva Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-selva-marine.html
+- Indmar & Ilmor Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-indmar-ilmor.html
+- Steyr Motors Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-steyr-motors.html
+- Belassi Marine Marine ECU Tuning, Stage 1, RPM/VMAX, Hours & Emissions — DaVinci Deluxe Cloud Edition Boats: https://davincideluxe.github.io/marine-belassi-marine.html
+- Alfa Romeo ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-alfa-romeo.html
+- Audi ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-audi.html
+- BMW ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-bmw.html
+- Chevrolet ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-chevrolet.html
+- Citroën ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-citroen.html
+- Dacia ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-dacia.html
+- Fiat ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-fiat.html
+- Ford ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-ford.html
+- Honda ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-honda.html
+- Hyundai ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-hyundai.html
+- Jeep ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-jeep.html
+- Kia ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-kia.html
+- Land Rover ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-land-rover.html
+- Mazda ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-mazda.html
+- Mercedes-Benz ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-mercedes-benz.html
+- MINI ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-mini.html
+- Nissan ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-nissan.html
+- Opel / Vauxhall ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-opel.html
+- Peugeot ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-peugeot.html
+- Porsche ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-porsche.html
+- Renault ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-renault.html
+- SEAT / Cupra ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-seat.html
+- Škoda ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-skoda.html
+- Suzuki ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-suzuki.html
+- Toyota / Lexus ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-toyota.html
+- Volkswagen ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-volkswagen.html
+- Volvo ECU Tuning Software — Stage 1/2, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/brand-volvo.html
+- Volvo Trucks & Buses 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-volvo-trucks.html
+- Scania Trucks & Buses 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-scania.html
+- MAN Truck & Bus 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-man.html
+- DAF Trucks (PACCAR) 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-daf.html
+- Mercedes-Benz Trucks 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-mercedes-benz-trucks.html
+- Iveco Trucks & Daily 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-iveco.html
+- Renault Trucks 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-renault-trucks.html
+- Cummins Heavy-Duty Engines 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-cummins.html
+- John Deere Agriculture & Forestry 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/agri-john-deere.html
+- New Holland & Case IH (CNH) 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/agri-new-holland-case-ih.html
+- Fendt, Massey Ferguson & Valtra (AGCO) 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/agri-fendt-massey-ferguson.html
+- CLAAS & Deutz-Fahr Agriculture 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/agri-claas-deutz-fahr.html
+- Caterpillar, Komatsu, Volvo CE & JCB 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/agri-caterpillar-komatsu-jcb.html
+- Kubota, Yanmar & Bobcat Off-Highway 24V ECU Tuning — AdBlue/DEF/SCR Off, DPF, EGR & Stage 1 | DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/agri-kubota-valtra.html
+- Bosch EDC15 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-edc15.html
+- Bosch EDC16 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-edc16.html
+- Bosch EDC17 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-edc17.html
+- Bosch EDC7 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-edc7.html
+- Bosch MD1 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-md1.html
+- Bosch MG1 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-mg1.html
+- Bosch ME7 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-me7.html
+- Bosch ME9 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-me9.html
+- Bosch MED9 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-med9.html
+- Bosch MED17 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-med17.html
+- Bosch MEDC17 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-medc17.html
+- Bosch MEVD17 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-bosch-mevd17.html
+- Continental SID208 / SID209 ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-continental-sid208.html
+- Continental SIM2K ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-continental-sim2k.html
+- Delphi DCM ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-delphi-dcm.html
+- Denso (Toyota / Lexus / Mazda / Hino / Yamaha) ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-denso-toyota.html
+- Siemens / Continental SID20x / SID30x / SID80x ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-siemens-sid20x.html
+- Hitachi (Nissan / Infiniti / Renault) ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-hitachi-nissan.html
+- Magneti Marelli (MJD / 8F3 / 9DF / MM) ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-magneti-marelli.html
+- Continental SIMOS & PCR2.1 (VAG) ECU Tuning Software — DPF, EGR, AdBlue, DTC Off & Stage 1/2 | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-simos-pcr2-1.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs WinOLS — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-winols.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Alientech KESS — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-kess.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Alientech KESS3 — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-kess3.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Alientech KESSv2 — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-kessv2.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Alientech K-TAG — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-ktag.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Autotuner Tool — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-autotuner.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs bFlash — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-bflash.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs BitBox — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-bitbox.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs BitEdit — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-bitedit.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Flashtec CMDFlash — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-cmdflash.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs FoxFlash — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-foxflash.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs FGTech Galletto — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-galletto.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs MagicMotorsport FLEX — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-magicmotorsport.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs AMT-Cartech MPPS — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-mpps.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs PCMflash — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-pcmflash.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs PCMtuner — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-pcmtuner.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs MagicMotorsport StageX — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-stagex.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Alientech ECM Titanium — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-ecm-titanium.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Dimsport Race Evo — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-dimsport-race-evo.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Scanmatik 2 PRO — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-scanmatik.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs HP Tuners VCM Suite — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-hp-tuners.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs EcuTek ProECU — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-ecutek.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs EFILive FlashScan — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-efilive.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Hondata FlashPro / K-Pro — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-hondata.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs COBB Accessport — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-cobb-accessport.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs SCT Performance — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-sct.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs DiabloSport — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-diablosport.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs TunerPro RT — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-tunerpro.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs RomRaider — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-romraider.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs Tactrix EcuFlash — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-ecuflash.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs VCpowerTeam Swiftec — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-swiftec.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs AlphaTuner — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-alphatuner.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs SMS-Soft ChipTuningPRO — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-chiptuningpro.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs KTMflash / KTMbench — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-ktmflash.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs MCTuner — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-mctuner.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs HexRemover — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-hexremover.html
+- DaVinci Deluxe Cloud Edition (v1.0.44) vs XirDecoder — Technical ECU Tuning Comparison: https://davincideluxe.github.io/vs-xirdecoder.html
+- Official Domains of DaVinci Deluxe Cloud Edition (v1.0.44) — .fr .org .app .software .es .de .it .eu: https://davincideluxe.github.io/official-domains.html
+- Anti-Clone & Scam Warning — Genuine DaVinci Deluxe Cloud Edition v1.0.44 vs Fake Cracked 1.0.28 / 1.0.35 / 1.0.37: https://davincideluxe.github.io/anti-clone-scam-warning.html
+- TCU Automatic Gearbox & Transmission Tuning — VAG DSG, ZF 8HP, 9G-Tronic | DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/tcu-gearbox-dsg-zf-tuning.html
+- OBD2 Diesel & Petrol DTC Fault Codes Reference (DPF, EGR, AdBlue, SCR, NOx) — DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/obd2-diesel-dtc-codes.html
+- DaVinci Ghost & DaVinci Deluxe Cloud Edition Architecture — Zero-Install & Native Desktop Suite: https://davincideluxe.github.io/davinci-ghost-cloud-edition.html
+- B2B Cloud Tuning REST API, File-Service Portal & Reseller Program — DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/b2b-api-reseller-program.html
+- Workshop ROI Calculator, Fuel Savings Calculator, ECU Glossary & FAQ — DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/ecu-calculators-glossary-faq.html
+- 27 Car Manufacturers & 243 ECU Tuning Pages — DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/car-brands-tuning.html
+- 14 Heavy-Duty 24V Truck, Agriculture & Construction Brand Guides — DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/truck-brands-tuning.html
+- DPF Off, EGR Off, AdBlue/SCR Off, Stage 1/2, Pops & Bangs & E85 Software — DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/dpf-egr-adblue-stage1.html
+- Online ECU Checksum Correction, DTC Remover & ECU HW/SW Identifier — DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/dtc-checksum-tools.html
+- Supported Passenger Car & Van ECUs (4963+ ECUs / 82 Brands) — DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/cars-supported-ecus.html
+- Supported 24V Heavy-Duty Truck & Agriculture ECUs (452+ ECUs) — DaVinci Deluxe Cloud Edition Trucks: https://davincideluxe.github.io/trucks-supported-ecus.html
+- 37 ECU Tool & Tuning Software Comparisons — DaVinci Deluxe Cloud Edition (v1.0.44): https://davincideluxe.github.io/comparisons.html
+- Official Digital Shop (300 DAMOS, A2L, Virgin ORI & Pinout Packs) — DaVinci Deluxe Cloud Edition: https://davincideluxe.github.io/shop-catalog.html
+- Official Public GitHub Gists & Open JSON/CSV Datasets — DaVinci Deluxe Cloud Edition (v1.0.44): https://davincideluxe.github.io/gists-open-datasets.html
+- Complete 160+ Page Technical Directory & HTML Sitemap — DaVinci Deluxe Cloud Edition (v1.0.44): https://davincideluxe.github.io/all-pages-directory.html

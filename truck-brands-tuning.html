@@ -1,95 +1,114 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>72 Heavy-Duty Truck ECU Tuning Guides (Volvo, Scania, MAN, DAF, Mercedes, Iveco, Renault, Cummins)</title>
-  <meta name="description" content="Direct links to 24V heavy-duty truck AdBlue Off, DPF Off, EGR Off, DTC Off, Stage 1, Stage 2 & VMAX Off guides.">
+  <title>14 Heavy-Duty 24V Truck, Agriculture &amp; Construction Brand Guides — DaVinci Deluxe Cloud Edition Trucks</title>
+  <meta name="description" content="Volvo Trucks, Scania, MAN, DAF, Mercedes Actros, Iveco, Renault Trucks, Cummins, John Deere, New Holland, Case IH, Fendt, CLAAS &amp; Caterpillar 24V ECU tuning.">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
   <link rel="canonical" href="https://davincideluxe.github.io/truck-brands-tuning.html">
-  
+  <link rel="alternate" type="application/atom+xml" title="DaVinci Deluxe Cloud Edition Technical Feed" href="https://davincideluxe.github.io/feed.xml">
+  <link rel="alternate" hreflang="en" href="https://davincideluxe.github.io/">
+  <link rel="alternate" hreflang="es" href="https://davincideluxe.github.io/es.html">
+  <link rel="alternate" hreflang="fr" href="https://davincideluxe.github.io/fr.html">
+  <link rel="alternate" hreflang="de" href="https://davincideluxe.github.io/de.html">
+  <link rel="alternate" hreflang="it" href="https://davincideluxe.github.io/it.html">
+  <link rel="alternate" hreflang="pt" href="https://davincideluxe.github.io/pt.html">
+  <link rel="alternate" hreflang="nl" href="https://davincideluxe.github.io/nl.html">
+  <link rel="alternate" hreflang="pl" href="https://davincideluxe.github.io/pl.html">
+  <link rel="alternate" hreflang="ro" href="https://davincideluxe.github.io/ro.html">
+  <link rel="alternate" hreflang="tr" href="https://davincideluxe.github.io/tr.html">
+  <link rel="alternate" hreflang="ar" href="https://davincideluxe.github.io/ar.html">
+  <link rel="alternate" hreflang="ru" href="https://davincideluxe.github.io/ru.html">
+  <link rel="alternate" hreflang="x-default" href="https://davincideluxe.github.io/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="DaVinci Deluxe Cloud Edition">
-  <meta property="og:title" content="72 Heavy-Duty Truck ECU Tuning Guides (Volvo, Scania, MAN, DAF, Mercedes, Iveco, Renault, Cummins)">
-  <meta property="og:description" content="Direct links to 24V heavy-duty truck AdBlue Off, DPF Off, EGR Off, DTC Off, Stage 1, Stage 2 & VMAX Off guides.">
+  <meta property="og:title" content="14 Heavy-Duty 24V Truck, Agriculture &amp; Construction Brand Guides — DaVinci Deluxe Cloud Edition Trucks">
+  <meta property="og:description" content="Volvo Trucks, Scania, MAN, DAF, Mercedes Actros, Iveco, Renault Trucks, Cummins, John Deere, New Holland, Case IH, Fendt, CLAAS &amp; Caterpillar 24V ECU tuning.">
   <meta property="og:url" content="https://davincideluxe.github.io/truck-brands-tuning.html">
-  <meta property="og:image" content="https://www.davincideluxe.fr/og-image.jpg">
+  <meta property="og:image" content="https://davincideluxe.github.io/og-banner.svg">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="72 Heavy-Duty Truck ECU Tuning Guides (Volvo, Scania, MAN, DAF, Mercedes, Iveco, Renault, Cummins)">
-  <meta name="twitter:description" content="Direct links to 24V heavy-duty truck AdBlue Off, DPF Off, EGR Off, DTC Off, Stage 1, Stage 2 & VMAX Off guides.">
-  <meta name="twitter:image" content="https://www.davincideluxe.fr/og-image.jpg">
-  
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.davincideluxe.fr/#organization","name":"DaVinci Deluxe Cloud Edition","url":"https://www.davincideluxe.fr","sameAs":["https://github.com/DavinciDeluxe","https://gist.github.com/DavinciDeluxe","https://davincideluxe.github.io/","https://www.davincideluxe.fr","https://www.davincideluxe.org","https://www.davincideluxe.app","https://www.davincideluxe.software","https://www.davincideluxe.es","https://www.davincideluxe.de","https://www.davincideluxe.it","https://www.aesoftech.eu"]},{"@type":"SoftwareApplication","name":"DaVinci Deluxe Cloud Edition (v1.0.44)","applicationCategory":"AutomotiveApplication","operatingSystem":"Windows 10, Windows 11, macOS, Linux, Android, iOS, Cloud Web","softwareVersion":"1.0.44","url":"https://www.davincideluxe.fr","offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"15","highPrice":"600","offerCount":"12"}}]}</script>
   <style>
-    :root { --bg:#06080f; --card:#101422; --border:#1e263d; --green:#14ea63; --cyan:#00c8ff; --orange:#ff8c00; --blue:#0ea5e9; --text:#eef2f9; --muted:#9aa5b8; }
-    * { box-sizing:border-box; }
-    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
-    a { color:var(--cyan); text-decoration:none; }
-    a:hover { text-decoration:underline; }
-    .wrap { max-width:1200px; margin:0 auto; padding:0 20px; }
-    header { border-bottom:1px solid var(--border); background:rgba(16,20,34,.94); position:sticky; top:0; z-index:10; backdrop-filter:blur(10px); }
-    .nav { display:flex; align-items:center; justify-content:space-between; padding:13px 0; flex-wrap:wrap; gap:10px; }
-    .brand { font-weight:800; font-size:1.08rem; color:#fff; display:flex; align-items:center; gap:8px; }
-    .badge { background:rgba(20,234,99,.14); color:var(--green); border:1px solid rgba(20,234,99,.4); padding:2px 9px; border-radius:999px; font-size:.75rem; font-weight:700; }
-    .nav-links { display:flex; gap:13px; flex-wrap:wrap; font-size:.88rem; align-items:center; }
-    .btn { display:inline-block; padding:9px 16px; border-radius:8px; font-weight:700; text-decoration:none !important; }
-    .btn-green { background:var(--green); color:#04120a; }
-    .btn-outline { border:1px solid var(--border); color:#fff; background:var(--card); }
-    .hero { padding:46px 0 30px; border-bottom:1px solid var(--border); }
-    h1 { font-size:2.05rem; line-height:1.22; margin:12px 0; }
-    h2 { font-size:1.4rem; margin:32px 0 14px; color:#fff; }
-    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(265px,1fr)); gap:15px; }
-    .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:18px; }
-    .warn { background:rgba(255,140,0,.09); border:1px solid rgba(255,140,0,.45); border-radius:12px; padding:15px 18px; margin:20px 0; }
-    .support { background:rgba(20,234,99,.08); border:1px solid rgba(20,234,99,.4); border-radius:12px; padding:15px 18px; margin:20px 0; }
-    table { width:100%; border-collapse:collapse; margin:16px 0; background:var(--card); border-radius:10px; overflow:hidden; }
-    th, td { padding:10px 12px; border-bottom:1px solid var(--border); text-align:left; font-size:.88rem; }
-    th { background:#151b2e; color:#fff; }
-    footer { border-top:1px solid var(--border); margin-top:48px; padding:28px 0 40px; color:var(--muted); font-size:.84rem; }
-    .langs { display:flex; gap:8px; font-size:.8rem; }
-    .langs a { padding:3px 7px; border:1px solid var(--border); border-radius:6px; color:#fff; }
+    :root{--bg:#06080f;--card:#0f1422;--border:#1d2742;--green:#14ea63;--cyan:#00c8ff;--orange:#ff8c24;--blue:#38bdf8;--text:#eef3fb;--muted:#9aa6bc}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.62}
+    a{color:var(--cyan);text-decoration:none}a:hover{text-decoration:underline}
+    .wrap{max-width:1220px;margin:0 auto;padding:0 20px}
+    header{border-bottom:1px solid var(--border);background:#090d18;position:sticky;top:0;z-index:10}
+    .nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:12px 0;gap:10px}
+    .brand{font-weight:800;font-size:1.05rem;color:#fff;text-decoration:none !important}
+    .brand span{color:var(--green)}
+    .links{display:flex;flex-wrap:wrap;gap:10px;font-size:.85rem}
+    .links a{color:var(--text)}
+    .langbar{background:#05070d;border-bottom:1px solid var(--border);padding:6px 0;font-size:.8rem}
+    .langbar .wrap{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+    .hero{padding:36px 0 22px;border-bottom:1px solid var(--border)}
+    h1{font-size:clamp(1.65rem,3.3vw,2.45rem);line-height:1.2;margin:0 0 12px}
+    h2{font-size:1.38rem;margin:28px 0 12px;color:#fff}
+    h3{font-size:1.06rem;margin:0 0 8px;color:var(--green)}
+    .lead{font-size:1.03rem;color:var(--muted);max-width:940px;margin:0 0 18px}
+    .cta-row{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0}
+    .btn{display:inline-block;padding:10px 18px;border-radius:8px;font-weight:700;text-decoration:none !important;font-size:.92rem}
+    .btn-primary{background:var(--green);color:#041208}
+    .btn-trucks{background:var(--orange);color:#1a0b00}
+    .btn-boats{background:var(--blue);color:#02131d}
+    .btn-outline{border:1px solid var(--border);color:var(--text);background:var(--card)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(265px,1fr));gap:14px;margin:16px 0}
+    .card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px}
+    .notice{background:rgba(20,234,99,.08);border:1px solid rgba(20,234,99,.32);border-radius:10px;padding:14px 18px;margin:18px 0;font-size:.93rem}
+    .domain-strip{background:#0b101d;border:1px solid var(--border);border-radius:8px;padding:10px 14px;margin:14px 0;font-size:.86rem}
+    table{width:100%;border-collapse:collapse;margin:14px 0;font-size:.89rem;background:var(--card);border-radius:8px;overflow:hidden}
+    th,td{padding:9px 12px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}
+    th{background:#131b2e;color:#fff}
+    code{background:#131b2e;padding:2px 6px;border-radius:4px;font-size:.85em;color:#7ee787}
+    .pill{display:inline-block;padding:3px 9px;margin:2px;border-radius:999px;background:#131b2e;border:1px solid var(--border);font-size:.8rem}
+    footer{margin-top:44px;border-top:1px solid var(--border);padding:26px 0 40px;color:var(--muted);font-size:.86rem}
   </style>
 </head>
 <body>
+  <div class="langbar">
+    <div class="wrap">
+      <strong>🌍 12 Languages:</strong>
+      <a href="https://davincideluxe.github.io/">🇬🇧 English</a> · <a href="https://davincideluxe.github.io/es.html">🇪🇸 Español</a> · <a href="https://davincideluxe.github.io/fr.html">🇫🇷 Français</a> · <a href="https://davincideluxe.github.io/de.html">🇩🇪 Deutsch</a> · <a href="https://davincideluxe.github.io/it.html">🇮🇹 Italiano</a> · <a href="https://davincideluxe.github.io/pt.html">🇵🇹 Português</a> · <a href="https://davincideluxe.github.io/nl.html">🇳🇱 Nederlands</a> · <a href="https://davincideluxe.github.io/pl.html">🇵🇱 Polski</a> · <a href="https://davincideluxe.github.io/ro.html">🇷🇴 Română</a> · <a href="https://davincideluxe.github.io/tr.html">🇹🇷 Türkçe</a> · <a href="https://davincideluxe.github.io/ar.html">🇸🇦 العربية</a> · <a href="https://davincideluxe.github.io/ru.html">🌐 Русский</a>
+      <span style="margin-left:auto;"><a href="https://davincideluxe.github.io/official-domains.html">.fr · .org · .app · .software · .es · .de · .it · .eu</a></span>
+    </div>
+  </div>
   <header>
     <div class="wrap nav">
-      <a class="brand" href="https://davincideluxe.github.io/">DaVinci Deluxe Cloud Edition <span class="badge">v1.0.44</span></a>
-      <nav class="nav-links">
-        <a href="https://davincideluxe.github.io/cars-supported-ecus.html">Cars (4962+)</a>
+      <a class="brand" href="https://davincideluxe.github.io/">DaVinci Deluxe <span>Cloud Edition</span> (v1.0.44)</a>
+      <nav class="links">
+        <a href="https://davincideluxe.github.io/cars-supported-ecus.html">Cars (4,962+)</a>
         <a href="https://davincideluxe.github.io/trucks-supported-ecus.html">Trucks (452+)</a>
-        <a href="https://davincideluxe.github.io/boats-marine-ecu-tuning.html" style="color:#38bdf8;font-weight:700;">🚤 Boats (30+)</a>
+        <a href="https://davincideluxe.github.io/boats-marine-ecu-tuning.html">🚤 Boats (30+)</a>
         <a href="https://davincideluxe.github.io/car-brands-tuning.html">Car Brands</a>
-        <a href="https://davincideluxe.github.io/truck-brands-tuning.html">Truck Brands</a>
-        <a href="https://davincideluxe.github.io/dtc-checksum-tools.html">DTC &amp; Checksum</a>
+        <a href="https://davincideluxe.github.io/truck-brands-tuning.html">Truck &amp; Agri</a>
+        <a href="https://davincideluxe.github.io/tcu-gearbox-dsg-zf-tuning.html">TCU Gearbox</a>
+        <a href="https://davincideluxe.github.io/dpf-egr-adblue-stage1.html">DPF/EGR/AdBlue</a>
+        <a href="https://davincideluxe.github.io/obd2-diesel-dtc-codes.html">DTC Codes</a>
         <a href="https://davincideluxe.github.io/shop-catalog.html">Shop (300)</a>
-        <a href="https://davincideluxe.github.io/official-domains.html">Domains (.org/.app)</a>
-        <span class="langs">
-          <a href="https://davincideluxe.github.io/">EN</a>
-          <a href="https://davincideluxe.github.io/es.html">ES</a>
-          <a href="https://davincideluxe.github.io/fr.html">FR</a>
-          <a href="https://davincideluxe.github.io/de.html">DE</a>
-          <a href="https://davincideluxe.github.io/it.html">IT</a>
-        </span>
-        <a class="btn btn-green" href="https://www.davincideluxe.fr">davincideluxe.fr →</a>
+        <a href="https://davincideluxe.github.io/anti-clone-scam-warning.html">Anti-Clone</a>
+        <a href="https://davincideluxe.github.io/all-pages-directory.html">All 160+ Pages</a>
       </nav>
     </div>
   </header>
   <main class="wrap">
-    <h1>🚛 24V Heavy-Duty Truck ECU Tuning Guides by Brand (72 Technical Pages)</h1>
-      <table><thead><tr><th>Truck Brand</th><th>24V Calibration Guides</th></tr></thead><tbody>
-      <tr><td><strong>CUMMINS</strong></td><td><a href="https://www.davincideluxe.fr/truck-tuning-cummins">OVERVIEW</a> · <a href="https://www.davincideluxe.fr/truck-tuning-cummins-stage-1">STAGE-1</a> · <a href="https://www.davincideluxe.fr/truck-tuning-cummins-stage-2">STAGE-2</a> · <a href="https://www.davincideluxe.fr/truck-tuning-cummins-adblue-off">ADBLUE-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-cummins-dpf-off">DPF-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-cummins-egr-off">EGR-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-cummins-dtc-off">DTC-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-cummins-vmax-off">VMAX-OFF</a></td></tr>
-<tr><td><strong>DAF</strong></td><td><a href="https://www.davincideluxe.fr/truck-tuning-daf">OVERVIEW</a> · <a href="https://www.davincideluxe.fr/truck-tuning-daf-stage-1">STAGE-1</a> · <a href="https://www.davincideluxe.fr/truck-tuning-daf-stage-2">STAGE-2</a> · <a href="https://www.davincideluxe.fr/truck-tuning-daf-adblue-off">ADBLUE-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-daf-dpf-off">DPF-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-daf-egr-off">EGR-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-daf-dtc-off">DTC-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-daf-vmax-off">VMAX-OFF</a></td></tr>
-<tr><td><strong>IVECO</strong></td><td><a href="https://www.davincideluxe.fr/truck-tuning-iveco">OVERVIEW</a> · <a href="https://www.davincideluxe.fr/truck-tuning-iveco-stage-1">STAGE-1</a> · <a href="https://www.davincideluxe.fr/truck-tuning-iveco-stage-2">STAGE-2</a> · <a href="https://www.davincideluxe.fr/truck-tuning-iveco-adblue-off">ADBLUE-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-iveco-dpf-off">DPF-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-iveco-egr-off">EGR-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-iveco-dtc-off">DTC-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-iveco-vmax-off">VMAX-OFF</a></td></tr>
-<tr><td><strong>MAN</strong></td><td><a href="https://www.davincideluxe.fr/truck-tuning-man">OVERVIEW</a> · <a href="https://www.davincideluxe.fr/truck-tuning-man-stage-1">STAGE-1</a> · <a href="https://www.davincideluxe.fr/truck-tuning-man-stage-2">STAGE-2</a> · <a href="https://www.davincideluxe.fr/truck-tuning-man-adblue-off">ADBLUE-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-man-dpf-off">DPF-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-man-egr-off">EGR-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-man-dtc-off">DTC-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-man-vmax-off">VMAX-OFF</a></td></tr>
-<tr><td><strong>MERCEDES-BENZ-TRUCKS</strong></td><td><a href="https://www.davincideluxe.fr/truck-tuning-mercedes-benz-trucks">OVERVIEW</a> · <a href="https://www.davincideluxe.fr/truck-tuning-mercedes-benz-trucks-stage-1">STAGE-1</a> · <a href="https://www.davincideluxe.fr/truck-tuning-mercedes-benz-trucks-stage-2">STAGE-2</a> · <a href="https://www.davincideluxe.fr/truck-tuning-mercedes-benz-trucks-adblue-off">ADBLUE-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-mercedes-benz-trucks-dpf-off">DPF-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-mercedes-benz-trucks-egr-off">EGR-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-mercedes-benz-trucks-dtc-off">DTC-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-mercedes-benz-trucks-vmax-off">VMAX-OFF</a></td></tr>
-<tr><td><strong>RENAULT-TRUCKS</strong></td><td><a href="https://www.davincideluxe.fr/truck-tuning-renault-trucks">OVERVIEW</a> · <a href="https://www.davincideluxe.fr/truck-tuning-renault-trucks-stage-1">STAGE-1</a> · <a href="https://www.davincideluxe.fr/truck-tuning-renault-trucks-stage-2">STAGE-2</a> · <a href="https://www.davincideluxe.fr/truck-tuning-renault-trucks-adblue-off">ADBLUE-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-renault-trucks-dpf-off">DPF-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-renault-trucks-egr-off">EGR-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-renault-trucks-dtc-off">DTC-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-renault-trucks-vmax-off">VMAX-OFF</a></td></tr>
-<tr><td><strong>SCANIA</strong></td><td><a href="https://www.davincideluxe.fr/truck-tuning-scania">OVERVIEW</a> · <a href="https://www.davincideluxe.fr/truck-tuning-scania-stage-1">STAGE-1</a> · <a href="https://www.davincideluxe.fr/truck-tuning-scania-stage-2">STAGE-2</a> · <a href="https://www.davincideluxe.fr/truck-tuning-scania-adblue-off">ADBLUE-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-scania-dpf-off">DPF-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-scania-egr-off">EGR-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-scania-dtc-off">DTC-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-scania-vmax-off">VMAX-OFF</a></td></tr>
-<tr><td><strong>VOLVO-TRUCKS</strong></td><td><a href="https://www.davincideluxe.fr/truck-tuning-volvo-trucks">OVERVIEW</a> · <a href="https://www.davincideluxe.fr/truck-tuning-volvo-trucks-stage-1">STAGE-1</a> · <a href="https://www.davincideluxe.fr/truck-tuning-volvo-trucks-stage-2">STAGE-2</a> · <a href="https://www.davincideluxe.fr/truck-tuning-volvo-trucks-adblue-off">ADBLUE-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-volvo-trucks-dpf-off">DPF-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-volvo-trucks-egr-off">EGR-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-volvo-trucks-dtc-off">DTC-OFF</a> · <a href="https://www.davincideluxe.fr/truck-tuning-volvo-trucks-vmax-off">VMAX-OFF</a></td></tr></tbody></table>
+    <section class="hero"><h1>🚛 24V Heavy-Duty Trucks, Tractors &amp; Construction Directory</h1><p class="lead">Select any commercial truck or off-highway brand below.</p></section>
+    <div class="grid"><div class="card"><h3><a href="https://davincideluxe.github.io/truck-volvo-trucks.html">Volvo Trucks &amp; Buses</a></h3><p>TRW EMS2.2 / EMS2.3 / EMS2.4, ACM2 (FH, FM, FMX, FE, FL D11/D13/D16)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/truck-scania.html">Scania Trucks &amp; Buses</a></h3><p>Scania EMS S6, S7, S8, EMD1 &amp;EEC3 (R, S, G, P, XT DC09/DC13/DC16 V8)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/truck-man.html">MAN Truck &amp; Bus</a></h3><p>Bosch EDC7C32, EDC17CV42, MD1CE100 (TGX, TGS, TGM, TGL D20/D26/D38)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/truck-daf.html">DAF Trucks (PACCAR)</a></h3><p>Delphi DMCI, PCX2, Bosch EDC7 / EAS-3 / EAS-4 (XF, XG, XG+, XD, CF, LF MX-11/MX-13)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/truck-mercedes-benz-trucks.html">Mercedes-Benz Trucks</a></h3><p>Continental MCM2.1, ACM2.1, PLD/MR2 (Actros MP4/MP5, Arocs, Atego OM470/OM471/OM473)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/truck-iveco.html">Iveco Trucks &amp; Daily</a></h3><p>Bosch EDC17CV41, EDC17CP52, EDC7UC31, MD1CE101 (S-Way, Stralis, Eurocargo, Trakker Cursor 9/11/13)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/truck-renault-trucks.html">Renault Trucks</a></h3><p>TRW EMS2.2 / EMS2.3 / EMS2.4, ACM (T-High, T, C, K, D DTI 11 / DTI 13)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/truck-cummins.html">Cummins Heavy-Duty Engines</a></h3><p>Motorola CM850, CM2150, CM2250, CM2350, CM2450 (ISX15, X15, ISB6.7, ISL9, QSB, QSL)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/agri-john-deere.html">John Deere Agriculture &amp; Forestry</a></h3><p>Phoenix L14, L16, L21, L23, L33, L34 (6R, 7R, 8R, 9R, S-Series Combines &amp; Harvesters)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/agri-new-holland-case-ih.html">New Holland &amp; Case IH (CNH)</a></h3><p>Bosch EDC7UC31, EDC17CV41, MD1CE101 (T6, T7, T8, T9, Magnum, Steiger, Puma, Optum FPT)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/agri-fendt-massey-ferguson.html">Fendt, Massey Ferguson &amp; Valtra (AGCO)</a></h3><p>Bosch EDC7UC31, EDC17CV41, EDC17CV54, MD1CE100 (Vario 300–1000, MF 5S–9S AGCO Power &amp; MAN)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/agri-claas-deutz-fahr.html">CLAAS &amp; Deutz-Fahr Agriculture</a></h3><p>Bosch EDC17CV52, EDC17CV54, EMR4 (Axion, Arion, Xerion, Lexion, Jaguar, Agrotron)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/agri-caterpillar-komatsu-jcb.html">Caterpillar, Komatsu, Volvo CE &amp; JCB</a></h3><p>CAT ADEM III/IV, Cummins CM2250/CM2350, Delphi DCM3.3+, Denso (Excavators, Loaders, Backhoes)</p></div><div class="card"><h3><a href="https://davincideluxe.github.io/agri-kubota-valtra.html">Kubota, Yanmar &amp; Bobcat Off-Highway</a></h3><p>Denso Gen1/Gen2, Bosch EDC17C55, EDC17CV54 (M-Series Tractors, Compact Excavators, Skid Steers)</p></div></div>
   </main>
   <footer>
     <div class="wrap">
-      <p><strong>DaVinci Deluxe Cloud Edition (v1.0.44)</strong> — Cars &amp; Vans · 24V Heavy-Duty Trucks &amp; Agriculture · Marine Boats, Outboards &amp; Jet Skis · Online Cloud Tuning · 300+ DAMOS/ORI Shop · 24h/7 Live Support (365 Days/Year).</p>
-      <p><strong>Official Verified Portals:</strong> <a href="https://www.davincideluxe.fr">www.davincideluxe.fr</a> (<a href="https://www.davincideluxe.fr/trucks">Trucks</a> · <a href="https://www.davincideluxe.fr/boats">Boats</a> · <a href="https://www.davincideluxe.fr/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.org">www.davincideluxe.org</a> (<a href="https://www.davincideluxe.org/trucks">Trucks</a> · <a href="https://www.davincideluxe.org/boats">Boats</a> · <a href="https://www.davincideluxe.org/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.app">www.davincideluxe.app</a> (<a href="https://www.davincideluxe.app/trucks">Trucks</a> · <a href="https://www.davincideluxe.app/boats">Boats</a> · <a href="https://www.davincideluxe.app/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.software">www.davincideluxe.software</a> (<a href="https://www.davincideluxe.software/trucks">Trucks</a> · <a href="https://www.davincideluxe.software/boats">Boats</a> · <a href="https://www.davincideluxe.software/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.es">www.davincideluxe.es</a> (<a href="https://www.davincideluxe.es/trucks">Trucks</a> · <a href="https://www.davincideluxe.es/boats">Boats</a> · <a href="https://www.davincideluxe.es/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.de">www.davincideluxe.de</a> (<a href="https://www.davincideluxe.de/trucks">Trucks</a> · <a href="https://www.davincideluxe.de/boats">Boats</a> · <a href="https://www.davincideluxe.de/shop">Shop</a>) &middot; <a href="https://www.davincideluxe.it">www.davincideluxe.it</a> (<a href="https://www.davincideluxe.it/trucks">Trucks</a> · <a href="https://www.davincideluxe.it/boats">Boats</a> · <a href="https://www.davincideluxe.it/shop">Shop</a>) &middot; <a href="https://www.aesoftech.eu">www.aesoftech.eu</a> (<a href="https://www.aesoftech.eu/trucks">Trucks</a> · <a href="https://www.aesoftech.eu/boats">Boats</a> · <a href="https://www.aesoftech.eu/shop">Shop</a>)</p>
-      <p><a href="https://github.com/DavinciDeluxe" rel="me">GitHub (@DavinciDeluxe)</a> · <a href="https://www.davincideluxe.fr/open-source">Full Repository Index</a> · <a href="https://www.davincideluxe.fr/official">Official Authenticity Verification</a> · <a href="https://www.davincideluxe.fr/scam-warning">Anti-Clone Warning</a></p>
+      <p><strong>DaVinci Deluxe Cloud Edition (v1.0.44)</strong> — Cars &amp; Light Vans · <strong>DaVinci Deluxe Cloud Edition Trucks</strong> · <strong>DaVinci Deluxe Cloud Edition Boats</strong> · 24h/7 Live Engineering Support (365 Days/Year).</p>
+      <div class="domain-strip"><a href="https://www.davincideluxe.fr" target="_blank" rel="noopener">www.davincideluxe.fr</a> · <a href="https://www.davincideluxe.org" target="_blank" rel="noopener">www.davincideluxe.org</a> · <a href="https://www.davincideluxe.app" target="_blank" rel="noopener">www.davincideluxe.app</a> · <a href="https://www.davincideluxe.software" target="_blank" rel="noopener">www.davincideluxe.software</a> · <a href="https://www.davincideluxe.es" target="_blank" rel="noopener">www.davincideluxe.es</a> · <a href="https://www.davincideluxe.de" target="_blank" rel="noopener">www.davincideluxe.de</a> · <a href="https://www.davincideluxe.it" target="_blank" rel="noopener">www.davincideluxe.it</a> · <a href="https://www.aesoftech.eu" target="_blank" rel="noopener">www.aesoftech.eu</a></div>
+      <p>
+        <a href="https://github.com/DavinciDeluxe">GitHub @DavinciDeluxe</a> ·
+        <a href="https://gist.github.com/DavinciDeluxe">GitHub Gists</a> ·
+        <a href="https://davincideluxe.github.io/gists-open-datasets.html">Open Datasets</a> ·
+        <a href="https://davincideluxe.github.io/all-pages-directory.html">HTML Sitemap (160+ Pages)</a> ·
+        <a href="https://davincideluxe.github.io/sitemap.xml">XML Sitemap</a> ·
+        <a href="https://davincideluxe.github.io/feed.xml">Atom/RSS Feed</a> ·
+        <a href="https://davincideluxe.github.io/llms-full.txt">llms-full.txt</a>
+      </p>
     </div>
   </footer>
 </body>
