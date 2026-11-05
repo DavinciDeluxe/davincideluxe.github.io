@@ -1,6 +1,6 @@
 # DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs), and Marine Boats / Jet Skis / Yachts (30+ brands), backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs), Marine Boats / Jet Skis / Yachts (30+ brands), and 300 verified DAMOS/A2L/ORI shop packages — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
 ## Official Verified Domains
 - Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Shop: https://www.davincideluxe.fr/shop | GitHub Hub: https://www.davincideluxe.fr/open-source)
@@ -27,7 +27,6 @@
 - MTU Friedrichshafen (Superyacht & Fast Ferry): ADEC (ECU7 / ECU8 / ECU9) & MDEC Series 2000 / Series 4000 -> https://davincideluxe.github.io/marine-mtu-yacht.html
 - MAN Marine (High-Speed Yacht Diesel): Bosch EDC7C32, EDC17CV42 (i6-800, V8-1000/1200/1300, V12-1550/1900/2000) -> https://davincideluxe.github.io/marine-man-marine.html
 - Scania Marine (Workboat & Patrol Craft): EMS S6 / S7 / S8 (DI09, DI13, DI16 V8 Marine) -> https://davincideluxe.github.io/marine-scania-marine.html
-- FPT Iveco Marine (Pleasure & Commercial Diesel): Bosch EDC7UC31, EDC17CV41 (NEF N40/N60/N67, Cursor C9/C13/C16) -> https://davincideluxe.github.io/marine-fpt-iveco-marine.html
-- Kawasaki Jet Ski (Performan
+- FPT Iveco Marine (Pleasure & Commercial Diesel): Bosch EDC7UC31, EDC17CV41 (NEF N40/N60/N67, Cursor C9/C13/C16) -> https://davincideluxe.github.io/marine-fpt-ivec
 
 Full reference: https://davincideluxe.github.io/llms-full.txt

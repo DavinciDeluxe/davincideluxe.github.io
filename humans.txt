@@ -1,0 +1,6 @@
+/* TEAM */
+Director & Lead Engineer: Roland
+Organization: DaVinci Deluxe Cloud Edition (v1.0.44)
+Support: 24h/7 Live Engineering Support (365 Days/Year)
+Site: https://www.davincideluxe.fr
+GitHub: https://github.com/DavinciDeluxe

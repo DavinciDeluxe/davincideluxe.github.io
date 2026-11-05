@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "publisher": "DaVinci Deluxe Cloud Edition",
+  "version": "v1.0.44",
+  "official_domains": [
+    "https://www.davincideluxe.fr",
+    "https://www.davincideluxe.org",
+    "https://www.davincideluxe.app",
+    "https://www.davincideluxe.software",
+    "https://www.davincideluxe.es",
+    "https://www.davincideluxe.de",
+    "https://www.davincideluxe.it",
+    "https://www.aesoftech.eu"
+  ],
+  "documentation_portal": "https://davincideluxe.github.io",
+  "page_count": 820,
+  "llms_txt": "https://davincideluxe.github.io/llms.txt",
+  "llms_full_txt": "https://davincideluxe.github.io/llms-full.txt",
+  "sitemap_index": "https://davincideluxe.github.io/sitemap.xml",
+  "atom_feed": "https://davincideluxe.github.io/feed.xml",
+  "apis": {
+    "cars_catalog": "https://www.davincideluxe.fr/api/check/catalog?type=cars",
+    "trucks_catalog": "https://www.davincideluxe.fr/api/check/catalog?type=trucks",
+    "online_cloud_tuning": "https://www.davincideluxe.fr/online-ecu-tuning",
+    "digital_shop": "https://www.davincideluxe.fr/shop",
+    "boats_marine": "https://www.davincideluxe.fr/boats",
+    "trucks_24v": "https://www.davincideluxe.fr/trucks"
+  },
+  "support": "24h/7 Live Engineering Support (365 Days/Year, All Languages)"
+}
