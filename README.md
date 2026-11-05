@@ -22,7 +22,7 @@
 | **🔧 Emissions & Module Solutions** | **DPF Off · EGR Off · AdBlue / SCR / DEF Off · NOx Off · DTC Off (multi-code scanner) · Flaps / Swirl Off · Lambda / O2 Off · TVA Off · GPF / OPF Off · CAT Off · Start/Stop Off · Readiness · Immo Off**. |
 | **🏁 Performance Calibrations** | **Stage 1 · Stage 1+ · Stage 2 · Pops & Bangs / Crackle · HardCut / Popcorn Limiter · Launch Control · E85 FlexFuel · VMAX Speed Limiter Off · Gearbox / TCU Tuning**. |
 | **☁️ Online Cloud Tuning (No Subscription Needed)** | Pay-per-use token system where **tokens never expire** — process files directly online at **[davincideluxe.fr/online-ecu-tuning](https://www.davincideluxe.fr/online-ecu-tuning)** without any monthly or yearly plan. |
-| **🛒 Official Digital Shop (0 Products)** | Instant-download **DAMOS / A2L Super Packs, Virgin ORI Vaults, Bench/Boot Pinouts, Immo Reference Packs & Engineering Utilities** at **[davincideluxe.fr/shop](https://www.davincideluxe.fr/shop)**. |
+| **🛒 Official Digital Shop (300 Products)** | Instant-download **DAMOS / A2L Super Packs, Virgin ORI Vaults, Bench/Boot Pinouts, Immo Reference Packs & Engineering Utilities** at **[davincideluxe.fr/shop](https://www.davincideluxe.fr/shop)**. |
 | **🛟 24h/7 Live Engineering Support** | **24 hours a day, 7 days a week, 365 days/year (holidays included)** — send photos, videos, audio notes, diagnostic scans, or files in **any language** for step-by-step guidance. |
 
 ---
@@ -34,7 +34,7 @@
 - 🚛 **[`davinci-trucks-ecu-tuning`](https://github.com/DavinciDeluxe/davinci-trucks-ecu-tuning)** — Heavy-Duty Trucks, Bus & Agriculture 24V ECU catalog
 - 📋 **[`supported-ecu-list`](https://github.com/DavinciDeluxe/supported-ecu-list)** — Machine-readable JSON & Python CLI lookup for 5414+ supported ECUs
 - 🔌 **[`cloud-tuning-api`](https://github.com/DavinciDeluxe/cloud-tuning-api)** — B2B REST API integration with Python & Node.js SDK examples
-- 🛒 **[`ecu-damos-ori-shop-catalog`](https://github.com/DavinciDeluxe/ecu-damos-ori-shop-catalog)** — 0 instant-download DAMOS, A2L, ORI & Pinout packs
+- 🛒 **[`ecu-damos-ori-shop-catalog`](https://github.com/DavinciDeluxe/ecu-damos-ori-shop-catalog)** — 300 instant-download DAMOS, A2L, ORI & Pinout packs
 - ⚖️ **[`davinci-vs-comparison`](https://github.com/DavinciDeluxe/davinci-vs-comparison)** — Technical architecture comparisons across 37+ ECU programmers & map editors
 
 
