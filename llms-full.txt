@@ -1,6 +1,6 @@
 # DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands), 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), 450 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
 ## Official Verified Domains (8 Global Portals)
 - Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Shop: https://www.davincideluxe.fr/shop | Blog: https://www.davincideluxe.fr/blog | GitHub Hub: https://www.davincideluxe.fr/open-source)
@@ -12,11 +12,18 @@
 - Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Shop: https://www.davincideluxe.it/shop | Blog: https://www.davincideluxe.it/blog | GitHub Hub: https://www.davincideluxe.it/open-source)
 - European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Shop: https://www.aesoftech.eu/shop | Blog: https://www.aesoftech.eu/blog | GitHub Hub: https://www.aesoftech.eu/open-source)
 
-## Interactive Tools & Catalogs on GitHub Pages (1525 Pages + 74 Mini-Sites)
+## Interactive Tools, OpenAPI 3.1 & Catalogs on GitHub Pages (2593 Pages + 74 Mini-Sites)
 - Live 0ms ECU/Truck/Marine/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
+- OpenAPI 3.1 Explorer & Spec: https://davincideluxe.github.io/api-explorer.html | https://davincideluxe.github.io/openapi.json
+- 450 Workshop ECU Calibration Module Matrices: https://davincideluxe.github.io/ecu-modules/index.html
+- 351 Brand × ECU × Subsystem P-Code DTC Matrices: https://davincideluxe.github.io/ecu-dtc/index.html
+- 140 ECU Family × Core Service Guides: https://davincideluxe.github.io/ecu-services/index.html
 - Complete 82-Brand Car ECU Catalog: https://davincideluxe.github.io/car-catalog/index.html
 - Complete 82-Brand 24V Truck & Agri Catalog: https://davincideluxe.github.io/truck-catalog/index.html
-- Marine Boats Hub & 176 Calibration Guides: https://davincideluxe.github.io/boats-marine-ecu-tuning.html
+- 42 Off-Highway Agriculture & Construction Guides: https://davincideluxe.github.io/agri/index.html
+- Marine Boats Hub, 176 Calibration Guides & 35 Engine Models: https://davincideluxe.github.io/boats-marine-ecu-tuning.html | https://davincideluxe.github.io/marine-engines/index.html
+- 25 Automatic Transmission TCU Models (DSG / ZF8HP / 9G / PDK / I-Shift): https://davincideluxe.github.io/tcu/index.html
+- 40 Regional Country & Maritime Portals: https://davincideluxe.github.io/geo/index.html
 - 300 Digital Shop Product Schemas: https://davincideluxe.github.io/shop-catalog.html
 - 360 Engineering Blog Summaries: https://davincideluxe.github.io/articles-index.html
 - 74 Project Pages Mini-Sites: https://davincideluxe.github.io/project-pages-network.html
@@ -93,7 +100,7 @@
 - Continental MCM2.1 + ACM2.1 (Mercedes-Benz Actros MP4/MP5, Arocs & Setra OM470/OM471/OM473): 24V Heavy-Duty Euro 6 — ACM2.1 AdBlue/SCR/NOx Off, DPF Off, EGR Off & Economy Stage 1 -> https://davincideluxe.github.io/chip/mercedes-mcm2-1.html
 - Cummins CM2150 / CM2250 / CM2350 / CM2450 (Trucks, Komatsu/Hitachi Construction & Cummins Marine): ISB6.7, ISL9, ISX15, X15 & Marine QSB/QSL — DEF/SCR Off, DPF Off, EGR Off & Heavy-Haul Stage 1 -> https://davincideluxe.github.io/chip/cummins-cm2350.html
 
-## Public GitHub Gists (24)
+## Public GitHub Gists (36)
 - davinci-deluxe-official-domains-verify.md: https://gist.github.com/DavinciDeluxe/918f9b2aaad7d9a8d0e0584404738ccb
 - davinci-boats-marine-supported-brands.md: https://gist.github.com/DavinciDeluxe/23271b8fa553c690ba1cb7be25848000
 - davinci-cars-supported-ecus-summary.md: https://gist.github.com/DavinciDeluxe/cd636280d9ca7be9f3c246f739430021
@@ -118,8 +125,20 @@
 - davinci-anti-clone-domain-verification.json: https://gist.github.com/DavinciDeluxe/155843823144906bbf62f15cab162fd3
 - stage1-stage2-torque-safety-calibration-checklist.md: https://gist.github.com/DavinciDeluxe/54e5089622a2f39e8bbc07717e5e9604
 - davinci-engineering-blog-360-articles-index.md: https://gist.github.com/DavinciDeluxe/37ecb1e48245f6c5dcb759e72ca613f1
+- ecu-dtc-351-subsystem-matrices-index.md: https://gist.github.com/DavinciDeluxe/245871b66f2cd828848620e4b50d59ba
+- top-450-ecu-calibration-modules-index.md: https://gist.github.com/DavinciDeluxe/a3130dd6ada6abc41cd2fe59306a83c8
+- marine-35-outboard-jetski-yacht-engines.md: https://gist.github.com/DavinciDeluxe/7d415f492342d2a76a1d545f536bf1d4
+- tcu-25-dsg-zf8hp-9gtronic-pdk-models.md: https://gist.github.com/DavinciDeluxe/76290bccfc6ff8af6e00e3d19543f873
+- davinci-openapi-3-1-client-example.py: https://gist.github.com/DavinciDeluxe/936eb5de030806d586b2f18066ab33c1
+- ford-transit-ranger-sid208-edc17c70-md1cs005.md: https://gist.github.com/DavinciDeluxe/69b8ac2f470a82eaf6545075a114abae
+- renault-nissan-dacia-md1cs006-sid305-sid310.md: https://gist.github.com/DavinciDeluxe/4339e94d80df2774aa3eee90358a277b
+- fiat-iveco-alfa-jeep-marelli-mj8f3-mj9df-edc17c69.md: https://gist.github.com/DavinciDeluxe/0da2fd911681fd442777819b23342c94
+- hyundai-kia-genesis-edc17c57-md1cs012-sim2k.md: https://gist.github.com/DavinciDeluxe/a42446dbc1471e429d8615a14d6a61f6
+- cummins-caterpillar-mtu-man-yacht-workboat.md: https://gist.github.com/DavinciDeluxe/b131c71ef20178b15d40c448f3c1c8f9
+- global-40-countries-official-domains-hreflang.md: https://gist.github.com/DavinciDeluxe/b53a45e84e7a58fcaa25aa708f35d9d2
+- ecu-family-140-calibration-matrix.md: https://gist.github.com/DavinciDeluxe/13a0e76c4636565064de107f70eb9c12
 
-## 8-Part XML Sitemap Index (1525 Pages + 74 Mini-Sites)
+## 12-Part XML Sitemap Index (2593 Pages + 74 Mini-Sites)
 - Sitemap Index: https://davincideluxe.github.io/sitemap.xml
 - https://davincideluxe.github.io/sitemap-core.xml
 - https://davincideluxe.github.io/sitemap-shop.xml
@@ -129,3 +148,7 @@
 - https://davincideluxe.github.io/sitemap-full-catalogs.xml
 - https://davincideluxe.github.io/sitemap-articles.xml
 - https://davincideluxe.github.io/sitemap-dtc-chips.xml
+- https://davincideluxe.github.io/sitemap-ecu-dtc.xml
+- https://davincideluxe.github.io/sitemap-ecu-modules.xml
+- https://davincideluxe.github.io/sitemap-ecu-services.xml
+- https://davincideluxe.github.io/sitemap-tcu-geo-agri.xml

@@ -1,0 +1,138 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "DaVinci Deluxe Cloud Edition (v1.0.44) — Global ECU, 24V Truck, Marine Boat & DTC Compatibility API",
+    "version": "1.0.44",
+    "description": "Official OpenAPI 3.1 specification for DaVinci Deluxe Cloud Edition (v1.0.44) across all 8 verified domains (.fr, .org, .app, .software, .es, .de, .it, aesoftech.eu). Covers 4963+ Car ECUs, 452+ 24V Truck/Agri ECUs, 30+ Marine Propulsion Brands, 450 ECU Module Matrices, 351 Brand×ECU DTC Matrices, and 300 Digital Shop packages.",
+    "contact": {
+      "name": "Roland & The DaVinci Deluxe Engineering Team",
+      "url": "https://www.davincideluxe.fr",
+      "email": "support@davincideluxe.fr"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://www.davincideluxe.fr",
+      "description": "Global Flagship & Français (.fr)"
+    },
+    {
+      "url": "https://www.davincideluxe.org",
+      "description": "International & UK Edition (.org)"
+    },
+    {
+      "url": "https://www.davincideluxe.app",
+      "description": "Global Cloud Web App & US (.app)"
+    },
+    {
+      "url": "https://www.davincideluxe.software",
+      "description": "Global English Software Hub (.software)"
+    },
+    {
+      "url": "https://www.davincideluxe.es",
+      "description": "Edición Oficial Español (.es)"
+    },
+    {
+      "url": "https://www.davincideluxe.de",
+      "description": "Offizielle Deutsche Edition (.de)"
+    },
+    {
+      "url": "https://www.davincideluxe.it",
+      "description": "Edizione Ufficiale Italiana (.it)"
+    },
+    {
+      "url": "https://www.aesoftech.eu",
+      "description": "European Engineering Portal (.eu)"
+    },
+    {
+      "url": "https://davincideluxe.github.io",
+      "description": "GitHub Pages Static Open Dataset CDN"
+    }
+  ],
+  "paths": {
+    "/api/check/catalog": {
+      "get": {
+        "operationId": "getSupportedEcuCatalog",
+        "summary": "Query live supported Passenger Car or 24V Heavy-Duty Truck/Agri ECUs",
+        "parameters": [
+          {
+            "name": "type",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "cars",
+                "trucks"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "JSON array/map of supported brands and ECU controllers"
+          }
+        }
+      }
+    },
+    "/data/ecus-search-index.json": {
+      "get": {
+        "operationId": "getStaticCombinedSearchIndex",
+        "summary": "Download static 0ms search dataset (Cars, 24V Trucks, Marine Boats, Shop, ECU DTC Matrices & Chips)",
+        "servers": [
+          {
+            "url": "https://davincideluxe.github.io"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Combined JSON index hosted on GitHub Pages CDN"
+          }
+        }
+      }
+    },
+    "/online-ecu-tuning": {
+      "get": {
+        "operationId": "openCloudTuningPortal",
+        "summary": "DaVinci Deluxe Cloud Edition online automated calibration portal (100% virgin original ECU files)",
+        "responses": {
+          "200": {
+            "description": "HTML Cloud Portal"
+          }
+        }
+      }
+    },
+    "/boats": {
+      "get": {
+        "operationId": "openMarineBoatsPortal",
+        "summary": "DaVinci Deluxe Cloud Edition Boats — 30+ Marine Outboard, Inboard, PWC Jet Ski & Yacht brands",
+        "responses": {
+          "200": {
+            "description": "HTML Marine Portal"
+          }
+        }
+      }
+    },
+    "/trucks": {
+      "get": {
+        "operationId": "openHeavyDutyTrucksPortal",
+        "summary": "DaVinci Deluxe Cloud Edition Trucks — 24V Commercial Trucks, Buses, Agriculture & Construction",
+        "responses": {
+          "200": {
+            "description": "HTML 24V Trucks Portal"
+          }
+        }
+      }
+    },
+    "/shop": {
+      "get": {
+        "operationId": "openDigitalShopCatalog",
+        "summary": "300 verified WinOLS DAMOS, A2L, OLS, Virgin ORI & Bench Pinout packages",
+        "responses": {
+          "200": {
+            "description": "HTML Digital Shop"
+          }
+        }
+      }
+    }
+  }
+}
