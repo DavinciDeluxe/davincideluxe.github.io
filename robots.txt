@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davincideluxe.github.io/sitemap.xml
