@@ -1,6 +1,6 @@
 # DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), 450 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 450 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
 ## Official Verified Domains (8 Global Portals)
 - Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Shop: https://www.davincideluxe.fr/shop | Blog: https://www.davincideluxe.fr/blog | GitHub Hub: https://www.davincideluxe.fr/open-source)
@@ -12,9 +12,12 @@
 - Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Shop: https://www.davincideluxe.it/shop | Blog: https://www.davincideluxe.it/blog | GitHub Hub: https://www.davincideluxe.it/open-source)
 - European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Shop: https://www.aesoftech.eu/shop | Blog: https://www.aesoftech.eu/blog | GitHub Hub: https://www.aesoftech.eu/open-source)
 
-## Interactive Tools, OpenAPI 3.1 & Catalogs on GitHub Pages (2593 Pages + 74 Mini-Sites)
-- Live 0ms ECU/Truck/Marine/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
+## Interactive Tools, OpenAPI 3.1 & Catalogs on GitHub Pages (2706 Pages + 74 Mini-Sites)
+- Live 0ms ECU/Truck/Marine/Engine/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
 - OpenAPI 3.1 Explorer & Spec: https://davincideluxe.github.io/api-explorer.html | https://davincideluxe.github.io/openapi.json
+- 35 Deep-Dive ECU Calibration Solutions: https://davincideluxe.github.io/solutions/index.html
+- 50 Iconic OEM Diesel, Petrol, 24V & Marine Engine Guides: https://davincideluxe.github.io/engines/index.html
+- 25 Master Hardware ECU/TCU Programmer Workflows: https://davincideluxe.github.io/programmers/index.html
 - 450 Workshop ECU Calibration Module Matrices: https://davincideluxe.github.io/ecu-modules/index.html
 - 351 Brand × ECU × Subsystem P-Code DTC Matrices: https://davincideluxe.github.io/ecu-dtc/index.html
 - 140 ECU Family × Core Service Guides: https://davincideluxe.github.io/ecu-services/index.html
@@ -138,9 +141,10 @@
 - global-40-countries-official-domains-hreflang.md: https://gist.github.com/DavinciDeluxe/b53a45e84e7a58fcaa25aa708f35d9d2
 - ecu-family-140-calibration-matrix.md: https://gist.github.com/DavinciDeluxe/13a0e76c4636565064de107f70eb9c12
 
-## 12-Part XML Sitemap Index (2593 Pages + 74 Mini-Sites)
+## 13-Part XML Sitemap Index (2706 Pages + 74 Mini-Sites)
 - Sitemap Index: https://davincideluxe.github.io/sitemap.xml
 - https://davincideluxe.github.io/sitemap-core.xml
+- https://davincideluxe.github.io/sitemap-solutions-engines-programmers.xml
 - https://davincideluxe.github.io/sitemap-shop.xml
 - https://davincideluxe.github.io/sitemap-cars.xml
 - https://davincideluxe.github.io/sitemap-trucks-marine.xml

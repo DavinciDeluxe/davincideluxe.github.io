@@ -1,0 +1,17 @@
+{
+  "name": "DaVinci Deluxe Cloud Edition (v1.0.44) — Global ECU, 24V Truck & Marine Hub",
+  "short_name": "DaVinci Deluxe",
+  "description": "Official 2706+ page ECU & TCU calibration hub across Cars, 24V Trucks, Agriculture & Marine Boats.",
+  "start_url": "https://davincideluxe.github.io/",
+  "display": "standalone",
+  "background_color": "#060609",
+  "theme_color": "#e11d48",
+  "icons": [
+    {
+      "src": "https://davincideluxe.github.io/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
