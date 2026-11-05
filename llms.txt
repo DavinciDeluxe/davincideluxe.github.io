@@ -1,9 +1,22 @@
 # DaVinci Deluxe Cloud Edition (v1.0.44)
 
-> Official multi-platform Cars & Heavy-Duty Trucks ECU remapping, emissions calibration (DPF, EGR, AdBlue, DTC Off) & Stage 1/2 software.
+> Official multi-platform Cars, 24V Heavy-Duty Trucks, Agriculture & Marine Boats ECU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off) & Stage 1/2 software.
 
-- Website: https://www.davincideluxe.fr
-- Trucks: https://www.davincideluxe.fr/trucks.html
-- Online Cloud Tuning: https://www.davincideluxe.fr/online-ecu-tuning
-- Digital Shop (300 packs): https://www.davincideluxe.fr/shop
+## Official International Domains
+- Global Flagship & Français: https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Shop: https://www.davincideluxe.fr/shop)
+- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Shop: https://www.davincideluxe.org/shop)
+- Global Cloud Web App & US Edition (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Shop: https://www.davincideluxe.app/shop)
+- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Shop: https://www.davincideluxe.software/shop)
+- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Shop: https://www.davincideluxe.es/shop)
+- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Shop: https://www.davincideluxe.de/shop)
+- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Shop: https://www.davincideluxe.it/shop)
+- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Shop: https://www.aesoftech.eu/shop)
+
+## Key Divisions
+- Cars & Light Vans (4962+ ECUs / 82 brands): https://www.davincideluxe.fr/
+- Trucks, Agriculture & Heavy-Duty (452+ ECUs / 82 brands): https://www.davincideluxe.fr/trucks
+- Boats, Outboards, Inboards & Jet Skis (30+ Marine Propulsion Brands): https://www.davincideluxe.fr/boats
+- Online Cloud Tuning (No Subscription, Tokens Never Expire): https://www.davincideluxe.fr/online-ecu-tuning
+- Official Digital Shop (300 DAMOS/A2L/ORI/Pinout packs): https://www.davincideluxe.fr/shop
+- Checksum Tool: https://www.davincideluxe.fr/checksum-tool | DTC Dictionary: https://www.davincideluxe.fr/dtc | ECU Identifier: https://www.davincideluxe.fr/ecu-identifier
 - GitHub Organization/Profile: https://github.com/DavinciDeluxe
