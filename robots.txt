@@ -1,5 +1,7 @@
+# DaVinci Deluxe Cloud Edition (v1.0.44) — Search & AI Agent Discovery Policy
 User-agent: *
 Allow: /
+Content-Signal: search=yes, ai-input=yes
 
 User-agent: Googlebot
 Allow: /
@@ -15,7 +17,25 @@ User-agent: PerplexityBot
 Allow: /
 User-agent: ClaudeBot
 Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
 User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Meta-ExternalAgent
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: DuckAssistBot
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: YouBot
 Allow: /
 
 Sitemap: https://davincideluxe.github.io/sitemap.xml

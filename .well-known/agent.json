@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.3",
+  "schema_version": "1.4",
   "publisher": "DaVinci Deluxe Cloud Edition",
   "version": "v1.0.44",
   "official_domains": [
@@ -13,10 +13,16 @@
     "https://www.aesoftech.eu"
   ],
   "documentation_portal": "https://davincideluxe.github.io",
+  "markdown_summary": "https://davincideluxe.github.io/index.md",
   "live_ecu_finder": "https://davincideluxe.github.io/live-ecu-finder.html",
   "openapi_spec": "https://davincideluxe.github.io/openapi.json",
   "api_explorer": "https://davincideluxe.github.io/api-explorer.html",
   "machine_search_dataset": "https://davincideluxe.github.io/data/ecus-search-index.json",
+  "oem_sw_coverage_hub": "https://davincideluxe.github.io/sw-coverage/index.html",
+  "oem_sw_verified_count": 69186,
+  "bench_pinouts_hub": "https://davincideluxe.github.io/pinouts/index.html",
+  "calibration_glossary_hub": "https://davincideluxe.github.io/glossary/index.html",
+  "custom_winols_hub": "https://davincideluxe.github.io/winols-services/index.html",
   "solutions_hub": "https://davincideluxe.github.io/solutions/index.html",
   "oem_engines_hub": "https://davincideluxe.github.io/engines/index.html",
   "hardware_programmers_hub": "https://davincideluxe.github.io/programmers/index.html",
@@ -25,18 +31,28 @@
   "marine_engines_hub": "https://davincideluxe.github.io/marine-engines/index.html",
   "tcu_gearboxes_hub": "https://davincideluxe.github.io/tcu/index.html",
   "country_portals_hub": "https://davincideluxe.github.io/geo/index.html",
-  "page_count": 2706,
-  "project_minisites_count": 74,
-  "public_gists_count": 36,
+  "page_count": 3087,
+  "project_minisites_count": 82,
+  "public_gists_count": 52,
   "llms_txt": "https://davincideluxe.github.io/llms.txt",
   "llms_full_txt": "https://davincideluxe.github.io/llms-full.txt",
   "sitemap_index": "https://davincideluxe.github.io/sitemap.xml",
-  "atom_feed": "https://davincideluxe.github.io/feed.xml",
+  "feeds": {
+    "atom_1_0": "https://davincideluxe.github.io/feed.xml",
+    "rss_2_0": "https://davincideluxe.github.io/rss.xml",
+    "json_feed_1_1": "https://davincideluxe.github.io/feed.json"
+  },
+  "citations": {
+    "cff": "https://davincideluxe.github.io/CITATION.cff",
+    "bibtex": "https://davincideluxe.github.io/citation.bib"
+  },
   "apis": {
     "openapi_3_1": "https://davincideluxe.github.io/openapi.json",
     "cars_catalog": "https://www.davincideluxe.fr/api/check/catalog?type=cars",
     "trucks_catalog": "https://www.davincideluxe.fr/api/check/catalog?type=trucks",
+    "ecu_identifier": "https://www.davincideluxe.fr/ecu-identifier",
     "online_cloud_tuning": "https://www.davincideluxe.fr/online-ecu-tuning",
+    "advanced_winols": "https://www.davincideluxe.fr/advanced-tuning-winols",
     "digital_shop": "https://www.davincideluxe.fr/shop",
     "boats_marine": "https://www.davincideluxe.fr/boats",
     "trucks_24v": "https://www.davincideluxe.fr/trucks",

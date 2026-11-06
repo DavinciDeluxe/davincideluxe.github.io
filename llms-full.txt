@@ -1,25 +1,32 @@
 # DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4964+ ECUs / 82 brands), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 450 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4965+ ECUs / 82 brands), 69,186+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 427 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
 ## Official Verified Domains (8 Global Portals)
-- Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Shop: https://www.davincideluxe.fr/shop | Blog: https://www.davincideluxe.fr/blog | GitHub Hub: https://www.davincideluxe.fr/open-source)
-- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Cloud: https://www.davincideluxe.org/online-ecu-tuning | Shop: https://www.davincideluxe.org/shop | Blog: https://www.davincideluxe.org/blog | GitHub Hub: https://www.davincideluxe.org/open-source)
-- Global Cloud Web App & US (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Cloud: https://www.davincideluxe.app/online-ecu-tuning | Shop: https://www.davincideluxe.app/shop | Blog: https://www.davincideluxe.app/blog | GitHub Hub: https://www.davincideluxe.app/open-source)
-- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Cloud: https://www.davincideluxe.software/online-ecu-tuning | Shop: https://www.davincideluxe.software/shop | Blog: https://www.davincideluxe.software/blog | GitHub Hub: https://www.davincideluxe.software/open-source)
-- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Cloud: https://www.davincideluxe.es/online-ecu-tuning | Shop: https://www.davincideluxe.es/shop | Blog: https://www.davincideluxe.es/blog | GitHub Hub: https://www.davincideluxe.es/open-source)
-- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Cloud: https://www.davincideluxe.de/online-ecu-tuning | Shop: https://www.davincideluxe.de/shop | Blog: https://www.davincideluxe.de/blog | GitHub Hub: https://www.davincideluxe.de/open-source)
-- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Shop: https://www.davincideluxe.it/shop | Blog: https://www.davincideluxe.it/blog | GitHub Hub: https://www.davincideluxe.it/open-source)
-- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Shop: https://www.aesoftech.eu/shop | Blog: https://www.aesoftech.eu/blog | GitHub Hub: https://www.aesoftech.eu/open-source)
+- Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.fr/advanced-tuning-winols | Shop: https://www.davincideluxe.fr/shop | Blog: https://www.davincideluxe.fr/blog | GitHub Hub: https://www.davincideluxe.fr/open-source)
+- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Cloud: https://www.davincideluxe.org/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.org/advanced-tuning-winols | Shop: https://www.davincideluxe.org/shop | Blog: https://www.davincideluxe.org/blog | GitHub Hub: https://www.davincideluxe.org/open-source)
+- Global Cloud Web App & US (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Cloud: https://www.davincideluxe.app/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.app/advanced-tuning-winols | Shop: https://www.davincideluxe.app/shop | Blog: https://www.davincideluxe.app/blog | GitHub Hub: https://www.davincideluxe.app/open-source)
+- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Cloud: https://www.davincideluxe.software/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.software/advanced-tuning-winols | Shop: https://www.davincideluxe.software/shop | Blog: https://www.davincideluxe.software/blog | GitHub Hub: https://www.davincideluxe.software/open-source)
+- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Cloud: https://www.davincideluxe.es/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.es/advanced-tuning-winols | Shop: https://www.davincideluxe.es/shop | Blog: https://www.davincideluxe.es/blog | GitHub Hub: https://www.davincideluxe.es/open-source)
+- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Cloud: https://www.davincideluxe.de/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.de/advanced-tuning-winols | Shop: https://www.davincideluxe.de/shop | Blog: https://www.davincideluxe.de/blog | GitHub Hub: https://www.davincideluxe.de/open-source)
+- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.it/advanced-tuning-winols | Shop: https://www.davincideluxe.it/shop | Blog: https://www.davincideluxe.it/blog | GitHub Hub: https://www.davincideluxe.it/open-source)
+- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Custom WinOLS: https://www.aesoftech.eu/advanced-tuning-winols | Shop: https://www.aesoftech.eu/shop | Blog: https://www.aesoftech.eu/blog | GitHub Hub: https://www.aesoftech.eu/open-source)
 
-## Interactive Tools, OpenAPI 3.1 & Catalogs on GitHub Pages (2706 Pages + 74 Mini-Sites)
-- Live 0ms ECU/Truck/Marine/Engine/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
+## Interactive Tools, OpenAPI 3.1 & Catalogs on GitHub Pages (3087 Pages + 82 Mini-Sites)
+- Live 0ms ECU/SW/Truck/Marine/Pinout/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
+- 69,186+ Verified OEM ECU Software IDs (200 Top ECUs): https://davincideluxe.github.io/sw-coverage/index.html
+- 40 ECU & TCU Bench GPT / Boot Hardware Guides: https://davincideluxe.github.io/pinouts/index.html
+- 35 Citable Calibration Glossary Definitions: https://davincideluxe.github.io/glossary/index.html
+- 14 Custom WinOLS Motorsport Calibration Hubs: https://davincideluxe.github.io/winols-services/index.html
 - OpenAPI 3.1 Explorer & Spec: https://davincideluxe.github.io/api-explorer.html | https://davincideluxe.github.io/openapi.json
+- Markdown Agent Summary & Citations: https://davincideluxe.github.io/index.md | https://davincideluxe.github.io/CITATION.cff | https://davincideluxe.github.io/citation.bib
+- Multi-Format Feeds: https://davincideluxe.github.io/feed.xml (Atom) | https://davincideluxe.github.io/rss.xml (RSS 2.0) | https://davincideluxe.github.io/feed.json (JSON Feed 1.1)
 - 35 Deep-Dive ECU Calibration Solutions: https://davincideluxe.github.io/solutions/index.html
 - 50 Iconic OEM Diesel, Petrol, 24V & Marine Engine Guides: https://davincideluxe.github.io/engines/index.html
 - 25 Master Hardware ECU/TCU Programmer Workflows: https://davincideluxe.github.io/programmers/index.html
-- 450 Workshop ECU Calibration Module Matrices: https://davincideluxe.github.io/ecu-modules/index.html
+- 427 Workshop ECU Calibration Module Matrices: https://davincideluxe.github.io/ecu-modules/index.html
 - 351 Brand × ECU × Subsystem P-Code DTC Matrices: https://davincideluxe.github.io/ecu-dtc/index.html
+- 148 OBD2 / Euro 6d / J1939 DTC Guides: https://davincideluxe.github.io/obd2-diesel-dtc-codes.html
 - 140 ECU Family × Core Service Guides: https://davincideluxe.github.io/ecu-services/index.html
 - Complete 82-Brand Car ECU Catalog: https://davincideluxe.github.io/car-catalog/index.html
 - Complete 82-Brand 24V Truck & Agri Catalog: https://davincideluxe.github.io/truck-catalog/index.html
@@ -29,7 +36,49 @@
 - 40 Regional Country & Maritime Portals: https://davincideluxe.github.io/geo/index.html
 - 300 Digital Shop Product Schemas: https://davincideluxe.github.io/shop-catalog.html
 - 360 Engineering Blog Summaries: https://davincideluxe.github.io/articles-index.html
-- 74 Project Pages Mini-Sites: https://davincideluxe.github.io/project-pages-network.html
+- 82 Project Pages Mini-Sites: https://davincideluxe.github.io/project-pages-network.html
+
+## Top 40 OEM SW Coverage Controllers (https://davincideluxe.github.io/sw-coverage/index.html)
+- EDC17C74 (2806 OEM SW IDs, e.g. 004400000, 0044000000, 0044400000): https://davincideluxe.github.io/sw-coverage/edc17c74.html
+- EDC17C46 (2413 OEM SW IDs, e.g. 0123456789, 013351EDC1, 013ABEFIJL): https://davincideluxe.github.io/sw-coverage/edc17c46.html
+- EDC17CP14 (2336 OEM SW IDs, e.g. 0044440000, 0101018K09, 0112334455): https://davincideluxe.github.io/sw-coverage/edc17cp14.html
+- EDC16C31 (2056 OEM SW IDs, e.g. 0041027C5Z, 0041060000, 0041A75216): https://davincideluxe.github.io/sw-coverage/edc16c31.html
+- EDC15 (1760 OEM SW IDs, e.g. 0001536579, 0027000422, 0027110503): https://davincideluxe.github.io/sw-coverage/edc15.html
+- EDC16C39 (1608 OEM SW IDs, e.g. 013ABFFFFF, 026157301B, 0261S01041): https://davincideluxe.github.io/sw-coverage/edc16c39.html
+- EDC17CP44 (1438 OEM SW IDs, e.g. 0027P5907409R, 0281016594, 0281017127): https://davincideluxe.github.io/sw-coverage/edc17cp44.html
+- EDC16 (1359 OEM SW IDs, e.g. 0027000000, 0261209038, 0261209108): https://davincideluxe.github.io/sw-coverage/edc16.html
+- MED175 (1331 OEM SW IDs, e.g. 0101002612, 010100261S, 0124677789): https://davincideluxe.github.io/sw-coverage/med175.html
+- CRD2X (1284 OEM SW IDs, e.g. 013363951A, 013363961A, 013364681A): https://davincideluxe.github.io/sw-coverage/crd2x.html
+- EDC16C34 (1275 OEM SW IDs, e.g. 01246S304S, 013392054JJ, 013392086G5): https://davincideluxe.github.io/sw-coverage/edc16c34.html
+- EDC17C50C56 (1191 OEM SW IDs, e.g. 0000111111, 0027229030, 0027795030): https://davincideluxe.github.io/sw-coverage/edc17c50c56.html
+- EDC17C64 (1186 OEM SW IDs, e.g. 0044000000, 00444000, 0044400000): https://davincideluxe.github.io/sw-coverage/edc17c64.html
+- MED1716X (1104 OEM SW IDs, e.g. 0041570202, 0041850144, 0041850144HE8TE4ASN40121): https://davincideluxe.github.io/sw-coverage/med1716x.html
+- SID208 (1033 OEM SW IDs, e.g. 0000102927, 0027000855, 0027001357): https://davincideluxe.github.io/sw-coverage/sid208.html
+- ME75 (1011 OEM SW IDs, e.g. 00275A03112000, 0041560102, 00419100C4): https://davincideluxe.github.io/sw-coverage/me75.html
+- DELCOE98 (978 OEM SW IDs, e.g. 0027012452, 0027025741, 0027042353): https://davincideluxe.github.io/sw-coverage/delcoe98.html
+- EDC17C84 (899 OEM SW IDs, e.g. 000652, 0041590145, 004159014500): https://davincideluxe.github.io/sw-coverage/edc17c84.html
+- CRD3X (897 OEM SW IDs, e.g. 0041106000, 0041107000, 0041203000): https://davincideluxe.github.io/sw-coverage/crd3x.html
+- EDC17CP20 (890 OEM SW IDs, e.g. 03L906019AB, 03L906019AC, 03L906019AL): https://davincideluxe.github.io/sw-coverage/edc17cp20.html
+- EDC17CP57 (870 OEM SW IDs, e.g. 0009040200, 0041A71316, 0041A713160): https://davincideluxe.github.io/sw-coverage/edc17cp57.html
+- EDC16CP33 (851 OEM SW IDs, e.g. 0281013390, 0281014360, 0281017631): https://davincideluxe.github.io/sw-coverage/edc16cp33.html
+- DCM62 (850 OEM SW IDs, e.g. 0027226722, 0027284722, 002728472271): https://davincideluxe.github.io/sw-coverage/dcm62.html
+- DENSO (806 OEM SW IDs, e.g. 00410059, 00416311, 00448CIM): https://davincideluxe.github.io/sw-coverage/denso.html
+- EDC16U1 (781 OEM SW IDs, e.g. 0281011477, 0281012929, 038906016A): https://davincideluxe.github.io/sw-coverage/edc16u1.html
+- SID807807EVO (770 OEM SW IDs, e.g. 0000102131, 0000102405, 0000102912): https://davincideluxe.github.io/sw-coverage/sid807807evo.html
+- EDC17C70 (754 OEM SW IDs, e.g. 10244644AA, 10297626AA, 10297628AA): https://davincideluxe.github.io/sw-coverage/edc17c70.html
+- EDC16CP34 (735 OEM SW IDs, e.g. 0281012270, 0281012561, 0281012773): https://davincideluxe.github.io/sw-coverage/edc16cp34.html
+- MD1CS006 (735 OEM SW IDs, e.g. 1018001000, 1020304050, 1037562525): https://davincideluxe.github.io/sw-coverage/md1cs006.html
+- EDC17C10 (729 OEM SW IDs, e.g. 00419431E, 0261S06913, 0281015848): https://davincideluxe.github.io/sw-coverage/edc17c10.html
+- EDC17 (718 OEM SW IDs, e.g. 0027222222, 0027777700, 0041028861): https://davincideluxe.github.io/sw-coverage/edc17.html
+- EDC16U31 (701 OEM SW IDs, e.g. 0281010736, 0281011839, 0281011850): https://davincideluxe.github.io/sw-coverage/edc16u31.html
+- SID310 (693 OEM SW IDs, e.g. 0000103390, 0027052808, 0027053601): https://davincideluxe.github.io/sw-coverage/sid310.html
+- EDC17C42 (657 OEM SW IDs, e.g. 0041022846, 0041022846050173, 0041022864): https://davincideluxe.github.io/sw-coverage/edc17c42.html
+- EDC17C60 (647 OEM SW IDs, e.g. 0041D1004OVUS, 0041D1005OVUS, 0103911151): https://davincideluxe.github.io/sw-coverage/edc17c60.html
+- EDC16U34 (641 OEM SW IDs, e.g. 0281012278, 0281013652, 038906016A): https://davincideluxe.github.io/sw-coverage/edc16u34.html
+- MD1CS003 (640 OEM SW IDs, e.g. 00278LPRV, 00278LPRV10SW089717, 00278LPRVH): https://davincideluxe.github.io/sw-coverage/md1cs003.html
+- EDC17C57 (616 OEM SW IDs, e.g. 0261XXXXXX, 10300DST00, 1037504602): https://davincideluxe.github.io/sw-coverage/edc17c57.html
+- EDC16CP31 (600 OEM SW IDs, e.g. 0124AA6803, 0281011999, 0281012577): https://davincideluxe.github.io/sw-coverage/edc16cp31.html
+- ME71ME711 (599 OEM SW IDs, e.g. 00276BBADDFMKSSTXXZAUWX, 0041700034, 0041700034HC6SE4ASN40110): https://davincideluxe.github.io/sw-coverage/me71me711.html
 
 ## Supported Marine Propulsion Brands (DaVinci Deluxe Cloud Edition Boats — https://www.davincideluxe.fr/boats)
 - Volvo Penta (Inboard / IPS / Sterndrive): Bosch EDC7UC31, EDC17CP22, EDC17CP52, EMS2.2, EMS2.3, EMS2.4, ME17 (D3, D4, D6, D8, D11, D13, V6/V8 Gas) -> https://davincideluxe.github.io/marine-volvo-penta.html
@@ -71,39 +120,7 @@
 - Caterpillar, Komatsu, Volvo CE & JCB: CAT ADEM III/IV, Cummins CM2250/CM2350, Delphi DCM3.3+, Denso (Excavators, Loaders, Backhoes) -> https://davincideluxe.github.io/agri-caterpillar-komatsu-jcb.html
 - Kubota, Yanmar & Bobcat Off-Highway: Denso Gen1/Gen2, Bosch EDC17C55, EDC17CV54 (M-Series Tractors, Compact Excavators, Skid Steers) -> https://davincideluxe.github.io/agri-kubota-valtra.html
 
-## Featured High-Demand ECU Controllers
-- Bosch EDC17C60 (PSA Peugeot / Citroën / DS / Ford / Toyota 1.6 BlueHDi): PSA 1.6 BlueHDi Euro 6 Tricore TC1793 — TPROT Off, AdBlue/SCR Off, DPF/FAP Off, EGR Off, Additive Pump Off & Stage 1 -> https://davincideluxe.github.io/chip/bosch-edc17c60.html
-- Bosch EDC17C46 (VAG 2.0 TDI CR VW / Audi / SEAT / Škoda): VAG 2.0 TDI Common-Rail Tricore TC1767 — Stage 1/2, DPF Off, EGR Off, AdBlue Off, Swirl Flaps Off & Hot-Start Fix -> https://davincideluxe.github.io/chip/bosch-edc17c46.html
-- Bosch EDC17C64 (VAG 1.6 & 2.0 TDI EA288 MQB): VAG MQB Golf 7 / A3 8V / Leon 5F / Octavia 3 — Stage 1/2, DPF Off, Low-Pressure EGR Off, AdBlue/SCR Off & VMAX -> https://davincideluxe.github.io/chip/bosch-edc17c64.html
-- Bosch EDC17CP44 (Audi / VW / Porsche 3.0 & 4.2 V6/V8 TDI): Q7, Touareg, Cayenne, A6/A7/A8 3.0 TDI — Stage 1/2, DPF Off, EGR Off, AdBlue Off & Swirl Flaps Off -> https://davincideluxe.github.io/chip/bosch-edc17cp44.html
-- Bosch EDC17CP14 (VAG 2.0 / 2.7 / 3.0 TDI CR): First-gen VAG Common-Rail Tricore — Swirl Flaps (P2015), EGR Off, DPF Off, Stage 1/2 & DTC Off -> https://davincideluxe.github.io/chip/bosch-edc17cp14.html
-- Bosch EDC17CV41 (24V Iveco, New Holland, Case IH, Fendt, JCB & Marine): Commercial 24V Truck, Tractor & Marine diesel controller — AdBlue/DEF/SCR Off, DPF Off, EGR Off & Torque Stage 1 -> https://davincideluxe.github.io/chip/bosch-edc17cv41.html
-- Bosch MD1CS003 (PSA / Opel / Toyota 1.5 BlueHDi Euro 6d): SPC5898 Euro 6d/6e 1.5 BlueHDi — AdBlue/SCR Countdown Fix, DPF Off, EGR Off, Stage 1 & DTC Off -> https://davincideluxe.github.io/chip/bosch-md1cs003.html
-- Bosch MD1CS004 (VAG 2.0 TDI Evo EA288): Audi, VW, Škoda & SEAT 2.0 TDI Evo — Twin-Dosing AdBlue/SCR Off, DPF Off, EGR Off & Stage 1 -> https://davincideluxe.github.io/chip/bosch-md1cs004.html
-- Bosch MD1CS006 (Renault / Dacia / Nissan / Mercedes 1.5 Blue dCi & 1.7/2.0 dCi): Euro 6d Blue dCi AdBlue/SCR Start-Lock Reset, DPF Off, EGR Off & Stage 1 -> https://davincideluxe.github.io/chip/bosch-md1cs006.html
-- Bosch MD1CP004 (Audi / VW / Porsche 3.0 V6 TDI Evo): High-output V6 TDISPC58/Aurix — Stage 1/2, AdBlue/SCR Off, DPF Off, EGR Off & VMAX Off -> https://davincideluxe.github.io/chip/bosch-md1cp004.html
-- Bosch MD1CE100 / MD1CE101 (24V MAN TGX, Iveco S-Way, New Holland & Case IH): Next-gen 24V Euro 6d/6e Heavy-Duty Truck & Agriculture controller — AdBlue/DEF/SCR Off, DPF Off, EGR Off & Fleet Stage 1 -> https://davincideluxe.github.io/chip/bosch-md1ce100.html
-- Bosch MG1CS001 / MG1CS011 (VAG 1.5 & 2.0 TSI/TFSI EA888 Gen3B/Gen4): OPF/GPF Off, Stage 1/2, Pops & Bangs, VMAX Off, Start/Stop Off & DTC Off -> https://davincideluxe.github.io/chip/bosch-mg1cs001.html
-- Bosch MG1CS002 (Audi RS / Porsche / VW 2.9 & 4.0 V6/V8 TFSI): Biturbo V6/V8 OPF/GPF Off, Stage 1/2, Cat/Lambda Off, Burble & VMAX Off -> https://davincideluxe.github.io/chip/bosch-mg1cs002.html
-- Bosch MG1CS003 / MG1CS201 (BMW B48 / B58 / S58 Turbo Petrol): BMW M340i, M2/M3/M4, Supra B58/S58 — OPF Off, Cat Off, Stage 1/2, Sport Burble & VMAX Off -> https://davincideluxe.github.io/chip/bosch-mg1cs003.html
-- Bosch MG1CA920 & ME17.8.5 (Sea-Doo BRP Rotax Marine & Powersports): Sea-Doo RXP-X / RXT-X / GTX 300/325 Rotax ACE — Marine Stage 1, RPM & Speed Limiter Calibration -> https://davincideluxe.github.io/chip/bosch-mg1ca920.html
-- Continental SIMOS PCR2.1 (VAG 1.6 TDI CAYA/CAYB/CAYC): VW Polo/Golf/Caddy, Audi A1/A3, SEAT Ibiza/Leon, Škoda Fabia/Octavia — EGR Off, DPF Off & Stage 1 -> https://davincideluxe.github.io/chip/continental-pcr2-1.html
-- Continental SIMOS 18.1 / 18.4 / 18.10 & SIMOS 19 (VAG Golf R / GTI / S3 / Cupra 2.0 TSI): High-performance EA888 Stage 1/2, OPF Off, Pops & Bangs, VMAX & Torque Unlock -> https://davincideluxe.github.io/chip/continental-simos18.html
-- Continental SID208 / SID209 (Ford Transit / Ranger / Boxer / Jumper 2.2 & 3.2 TDCi): Commercial van & pickup DPF Off, EGR Off, AdBlue Off, Speed Limiter & Stage 1 -> https://davincideluxe.github.io/chip/continental-sid208.html
-- Continental SID305 / SID307 / SID309 (Renault / Nissan / Dacia / Mercedes 1.5 dCi): K9K 1.5 dCi DPF Off, EGR Off, DTC Off & Stage 1 Fuel Economy -> https://davincideluxe.github.io/chip/continental-sid305.html
-- Continental SID310 (Renault Master / Traffic / Opel Movano / Nissan NV400 / Mercedes X-Class 2.3 dCi): Euro 6 Twin-Turbo 2.3 dCi AdBlue/SCR Off, DPF Off, EGR Off & Van Fleet Stage 1 -> https://davincideluxe.github.io/chip/continental-sid310.html
-- Delphi DCM6.2A / DCM6.2C (PSA Peugeot / Citroën / Opel / Toyota 2.0 BlueHDi): Expert, Traveller, Boxer, Jumper, Vivaro 2.0 BlueHDi — AdBlue/SCR Off, DPF/FAP Off, EGR Off & Stage 1 -> https://davincideluxe.github.io/chip/delphi-dcm6-2a.html
-- Delphi DCM6.2V (VAG 1.4, 1.6 & 2.0 TDI MQB): Golf 7, Passat B8, Tiguan, Crafter, T6 — AdBlue Off, DPF Off, EGR Off & Stage 1 -> https://davincideluxe.github.io/chip/delphi-dcm6-2v.html
-- Delphi DCM7.1A / DCM7.1B (PSA / Fiat / Opel / Toyota 2.0 & 2.2 BlueHDi Euro 6d): Ducato Series 8/9, Boxer, Jumper 2.2 MultiJet3/BlueHDi — AdBlue/SCR Off, DPF Off, EGR Off & Stage 1 -> https://davincideluxe.github.io/chip/delphi-dcm7-1a.html
-- Magneti Marelli MJ8DF / MJ8F3 (Fiat Ducato / Doblo / 500 / Alfa / Combo 1.3 & 2.3 MultiJet): DPF Off, EGR Off, Oil-Degradation Counter Reset, Speed Limiter & Stage 1 -> https://davincideluxe.github.io/chip/marelli-mj8f3.html
-- Magneti Marelli MJ9DF (Fiat Ducato / Tipo / 500X / Jeep Renegade 1.3, 1.6 & 2.3 MultiJet2 Euro 6): Euro 6d AdBlue/SCR Off, DPF Off, Twin-EGR Off & Stage 1 -> https://davincideluxe.github.io/chip/marelli-mj9df.html
-- Denso Gen1 / Gen2 / Gen3 (Toyota Hilux, Land Cruiser, Proace, HiAce 2.4 / 2.8 GD & 1VD): 1GD-FTV & 2GD-FTV AdBlue/SCR Off, DPF Off, EGR Off, VMAX Off & Off-Road Stage 1 -> https://davincideluxe.github.io/chip/denso-toyota-gen3.html
-- TRW EMS2.2 / EMS2.3 / EMS2.4 + ACM2 (Volvo FH/FM/FMX, Renault T & Volvo Penta Marine): 24V D11/D13/D16 & Marine IPS — AdBlue/ACM Off, DPF Off, EGR Off & Fleet Torque Stage 1 -> https://davincideluxe.github.io/chip/trw-volvo-ems2-3.html
-- Scania EMS S6 / S7 / S8 + EEC3 (Scania R / S / G / P & Scania Marine DI13/DI16 V8): 24V Euro 5 / Euro 6 Heavy-Duty & Marine V8 — AdBlue/EEC3 Off, EGR Off, DPF Off & Stage 1 -> https://davincideluxe.github.io/chip/scania-ems-s8.html
-- Continental MCM2.1 + ACM2.1 (Mercedes-Benz Actros MP4/MP5, Arocs & Setra OM470/OM471/OM473): 24V Heavy-Duty Euro 6 — ACM2.1 AdBlue/SCR/NOx Off, DPF Off, EGR Off & Economy Stage 1 -> https://davincideluxe.github.io/chip/mercedes-mcm2-1.html
-- Cummins CM2150 / CM2250 / CM2350 / CM2450 (Trucks, Komatsu/Hitachi Construction & Cummins Marine): ISB6.7, ISL9, ISX15, X15 & Marine QSB/QSL — DEF/SCR Off, DPF Off, EGR Off & Heavy-Haul Stage 1 -> https://davincideluxe.github.io/chip/cummins-cm2350.html
-
-## Public GitHub Gists (36)
+## Public GitHub Gists (52)
 - davinci-deluxe-official-domains-verify.md: https://gist.github.com/DavinciDeluxe/918f9b2aaad7d9a8d0e0584404738ccb
 - davinci-boats-marine-supported-brands.md: https://gist.github.com/DavinciDeluxe/23271b8fa553c690ba1cb7be25848000
 - davinci-cars-supported-ecus-summary.md: https://gist.github.com/DavinciDeluxe/cd636280d9ca7be9f3c246f739430021
@@ -140,10 +157,29 @@
 - cummins-caterpillar-mtu-man-yacht-workboat.md: https://gist.github.com/DavinciDeluxe/b131c71ef20178b15d40c448f3c1c8f9
 - global-40-countries-official-domains-hreflang.md: https://gist.github.com/DavinciDeluxe/b53a45e84e7a58fcaa25aa708f35d9d2
 - ecu-family-140-calibration-matrix.md: https://gist.github.com/DavinciDeluxe/13a0e76c4636565064de107f70eb9c12
+- oem-ecu-69186-software-id-coverage-index.md: https://gist.github.com/DavinciDeluxe/9cece8f38ba65bbcd57e06ca948133a5
+- ecu-tcu-40-bench-gpt-pinout-architecture.md: https://gist.github.com/DavinciDeluxe/9e28228cd75acff984f6aa52166b89dd
+- automotive-ecu-calibration-glossary-35-terms.md: https://gist.github.com/DavinciDeluxe/727eb61eb768810f8e5008479cbe8ebd
+- custom-winols-motorsport-14-brand-hubs.md: https://gist.github.com/DavinciDeluxe/38e9ad56f80b2f1ec623af7c3fa38288
+- obd2-euro6d-150-dtc-fault-code-encyclopedia.md: https://gist.github.com/DavinciDeluxe/1c2a79fb38c294128bdda82ff2284bd6
+- opf-gpf-off-bosch-mg1-simos18-guide.md: https://gist.github.com/DavinciDeluxe/5b0c109f31e1ed6397b724ace70cf4f9
+- psa-cerine-eolys-fap-p1434-p1435-p1445-guide.md: https://gist.github.com/DavinciDeluxe/419c811cba5bc2cecf3da77954999cf3
+- adblue-no-start-countdown-inducement-reset.md: https://gist.github.com/DavinciDeluxe/020301470ae5dcd4463a384842359a84
+- vag-dsg-dq200-dq250-dq381-dq500-bench-tuning.md: https://gist.github.com/DavinciDeluxe/03191a35c26f48491381ec7fae65a2dd
+- zf-8hp-steptronic-tiptronic-tcu-calibration.md: https://gist.github.com/DavinciDeluxe/f099e89f193e354622f9b59a4d43d6ca
+- master-ecu-programmers-25-flasher-matrix.md: https://gist.github.com/DavinciDeluxe/6aa8578e36c54a7966e343808120cee6
+- oem-50-engine-codes-ecu-cross-reference.md: https://gist.github.com/DavinciDeluxe/3b46b65f42acfce92a821fd777ef5567
+- mercedes-cpc-ng-m177-om654-vmax-torque-guide.md: https://gist.github.com/DavinciDeluxe/03f0a23e95cd430369f794bce8fa7733
+- ecu-sw-lookup-cli-helper.mjs: https://gist.github.com/DavinciDeluxe/d9ce36eb6ad594914b059b791c881e20
+- seadoo-rotax-mg1ca920-me17-bench-marine-guide.md: https://gist.github.com/DavinciDeluxe/17972540c23271684331bf7c74a13ce1
+- davinci-deluxe-citation-bibtex-cff-reference.bib: https://gist.github.com/DavinciDeluxe/4f2a3f7f7f550c7a312f37fab5585f8e
 
-## 13-Part XML Sitemap Index (2706 Pages + 74 Mini-Sites)
+## 16-Part XML Sitemap Index (3087 Pages + 82 Mini-Sites)
 - Sitemap Index: https://davincideluxe.github.io/sitemap.xml
 - https://davincideluxe.github.io/sitemap-core.xml
+- https://davincideluxe.github.io/sitemap-sw-coverage.xml
+- https://davincideluxe.github.io/sitemap-pinouts-glossary-winols.xml
+- https://davincideluxe.github.io/sitemap-dtc-only.xml
 - https://davincideluxe.github.io/sitemap-solutions-engines-programmers.xml
 - https://davincideluxe.github.io/sitemap-shop.xml
 - https://davincideluxe.github.io/sitemap-cars.xml

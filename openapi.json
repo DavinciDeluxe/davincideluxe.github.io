@@ -1,9 +1,9 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "DaVinci Deluxe Cloud Edition (v1.0.44) — Global ECU, 24V Truck, Marine Boat & DTC Compatibility API",
+    "title": "DaVinci Deluxe Cloud Edition (v1.0.44) — Global ECU, OEM SW, 24V Truck, Marine Boat & DTC Compatibility API",
     "version": "1.0.44",
-    "description": "Official OpenAPI 3.1 specification for DaVinci Deluxe Cloud Edition (v1.0.44) across all 8 verified domains (.fr, .org, .app, .software, .es, .de, .it, aesoftech.eu). Covers 4964+ Car ECUs, 452+ 24V Truck/Agri ECUs, 30+ Marine Propulsion Brands, 450 ECU Module Matrices, 351 Brand×ECU DTC Matrices, and 300 Digital Shop packages.",
+    "description": "Official OpenAPI 3.1 specification for DaVinci Deluxe Cloud Edition (v1.0.44) across all 8 verified domains (.fr, .org, .app, .software, .es, .de, .it, aesoftech.eu). Covers 4965+ Car ECUs, 69186+ Verified OEM SW IDs, 452+ 24V Truck/Agri ECUs, 30+ Marine Propulsion Brands, 40 Bench Pinouts, 427 ECU Module Matrices, 351 Brand×ECU DTC Matrices, and 300 Digital Shop packages.",
     "contact": {
       "name": "Roland & The DaVinci Deluxe Engineering Team",
       "url": "https://www.davincideluxe.fr",
@@ -77,7 +77,7 @@
     "/data/ecus-search-index.json": {
       "get": {
         "operationId": "getStaticCombinedSearchIndex",
-        "summary": "Download static 0ms search dataset (Cars, 24V Trucks, Marine Boats, Shop, ECU DTC Matrices & Chips)",
+        "summary": "Download static 0ms search dataset (Cars, OEM SW IDs, 24V Trucks, Marine Boats, Pinouts, Glossary, ECU DTC Matrices & Chips)",
         "servers": [
           {
             "url": "https://davincideluxe.github.io"
@@ -86,6 +86,17 @@
         "responses": {
           "200": {
             "description": "Combined JSON index hosted on GitHub Pages CDN"
+          }
+        }
+      }
+    },
+    "/ecu-identifier": {
+      "get": {
+        "operationId": "openEcuSoftwareIdentifier",
+        "summary": "Identify Bosch 1037/10SW, Continental, Delphi, Denso & Marelli OEM SW numbers across 69186+ verified builds",
+        "responses": {
+          "200": {
+            "description": "HTML ECU Identifier Tool"
           }
         }
       }

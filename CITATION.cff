@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you cite or integrate DaVinci Deluxe Cloud Edition technical ECU datasets, OEM SW coverage tables, or OpenAPI 3.1 specifications, please cite as below."
+title: "DaVinci Deluxe Cloud Edition (v1.0.44) — 3087+ Page Global ECU, OEM SW, 24V Truck & Marine Calibration Knowledge Base"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://davincideluxe.github.io/"
+repository-code: "https://github.com/DavinciDeluxe/davincideluxe.github.io"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
+    website: "https://www.davincideluxe.fr"

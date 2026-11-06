@@ -16,10 +16,10 @@
   <rect x="86" y="96" width="54" height="54" rx="13" fill="url(#crimsonBar)"/>
   <path d="M116 105L99 126h12l-2 16 18-22h-12l1-15z" fill="#ffffff"/>
   <text x="158" y="134" fill="#ff3b4e" font-family="Inter,Arial,sans-serif" font-size="29" font-weight="bold" letter-spacing="1">DAVINCI DELUXE CLOUD EDITION (v1.0.44)</text>
-  <text x="86" y="226" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="52" font-weight="bold">Cars · 24V Trucks · Marine Boats · TCU</text>
-  <text x="86" y="298" fill="#d4d4dc" font-family="Inter,Arial,sans-serif" font-size="26">4964+ Car ECUs · 452+ Truck ECUs · 30+ Marine Brands · 35 Solutions · 50 Engines</text>
+  <text x="86" y="226" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="52" font-weight="bold">Cars · 69,186+ OEM SW · 24V Trucks · Boats</text>
+  <text x="86" y="298" fill="#d4d4dc" font-family="Inter,Arial,sans-serif" font-size="25">4965+ Car ECUs · 452+ Truck ECUs · 30+ Marine Brands · 40 Pinouts · 150 DTCs</text>
   <text x="86" y="366" fill="#ff6b7b" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="bold">.fr · .org · .app · .software · .es · .de · .it · aesoftech.eu</text>
   <rect x="86" y="418" width="1028" height="64" rx="14" fill="#1a0d13" stroke="#be123c" stroke-width="1.5"/>
-  <text x="114" y="459" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="bold">⚡ 24h/7 Support (365 Days) · 2706+ Guides · 74 Mini-Sites · 36 Gists · OpenAPI 3.1</text>
+  <text x="108" y="459" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="bold">⚡ 24h/7 Support (365 Days) · 3087+ Guides · 82 Crimson Sites · 52 Gists</text>
   <text x="86" y="542" fill="#9ca3af" font-family="Inter,Arial,sans-serif" font-size="21">100% Virgin Original ECU File Protocol · Instant Cloud Calibration · Roland &amp; Engineering Team</text>
 </svg>
