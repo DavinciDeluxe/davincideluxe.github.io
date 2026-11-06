@@ -3,7 +3,7 @@
   "info": {
     "title": "DaVinci Deluxe Cloud Edition (v1.0.44) — Global ECU, 24V Truck, Marine Boat & DTC Compatibility API",
     "version": "1.0.44",
-    "description": "Official OpenAPI 3.1 specification for DaVinci Deluxe Cloud Edition (v1.0.44) across all 8 verified domains (.fr, .org, .app, .software, .es, .de, .it, aesoftech.eu). Covers 4963+ Car ECUs, 452+ 24V Truck/Agri ECUs, 30+ Marine Propulsion Brands, 450 ECU Module Matrices, 351 Brand×ECU DTC Matrices, and 300 Digital Shop packages.",
+    "description": "Official OpenAPI 3.1 specification for DaVinci Deluxe Cloud Edition (v1.0.44) across all 8 verified domains (.fr, .org, .app, .software, .es, .de, .it, aesoftech.eu). Covers 4964+ Car ECUs, 452+ 24V Truck/Agri ECUs, 30+ Marine Propulsion Brands, 450 ECU Module Matrices, 351 Brand×ECU DTC Matrices, and 300 Digital Shop packages.",
     "contact": {
       "name": "Roland & The DaVinci Deluxe Engineering Team",
       "url": "https://www.davincideluxe.fr",
