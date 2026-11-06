@@ -1,6 +1,6 @@
-# DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI, Pricing, Credits, B2B API & Technical Reference (llms-full.txt)
+# DaVinci Deluxe Cloud Edition (v1.0.45) — Complete AI, Pricing, Credits, B2B API & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), 69,186+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), transparent Software Licenses (€9.99–€1,890), 0-Credit Emissions Deletes, Browser Cloud Tokens (1 Token = €1), B2B Cloud REST API (`/api/v1/cloud/*` + 9 Official SDKs + White-Label `.exe` Brand), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 427 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4973+ ECUs / 82 brands), 69,187+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), transparent Software Licenses (€9.99–€1,890), 0-Credit Emissions Deletes, Browser Cloud Tokens (1 Token = €1), B2B Cloud REST API (`/api/v1/cloud/*` + 9 Official SDKs + White-Label `.exe` Brand), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 427 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
 ## Official Software Licenses, Tuning Credits, Cloud Tokens & B2B API Pricing
 - **Passenger Cars & Vans Licenses (https://www.davincideluxe.fr/buy):**
@@ -41,7 +41,7 @@
 - ARD 1.0 AI Catalog & RFC 9727 API Catalog: https://davincideluxe.github.io/.well-known/ai-catalog.json | https://davincideluxe.github.io/.well-known/api-catalog
 - Postman v2.1 Collection & OpenAPI 3.1 Spec: https://davincideluxe.github.io/data/davinci-cloud-tuning-api.postman_collection.json | https://davincideluxe.github.io/openapi.json
 - Live 0ms ECU/SW/Truck/Marine/Pinout/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
-- 69,186+ Verified OEM ECU Software IDs (200 Top ECUs): https://davincideluxe.github.io/sw-coverage/index.html
+- 69,187+ Verified OEM ECU Software IDs (200 Top ECUs): https://davincideluxe.github.io/sw-coverage/index.html
 - 40 ECU & TCU Bench GPT / Boot Hardware Guides: https://davincideluxe.github.io/pinouts/index.html
 - 35 Citable Calibration Glossary Definitions: https://davincideluxe.github.io/glossary/index.html
 - 14 Custom WinOLS Motorsport Calibration Hubs: https://davincideluxe.github.io/winols-services/index.html

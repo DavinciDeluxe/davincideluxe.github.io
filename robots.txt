@@ -1,4 +1,4 @@
-# DaVinci Deluxe Cloud Edition (v1.0.44) — Search & AI Agent Discovery Policy
+# DaVinci Deluxe Cloud Edition (v1.0.45) — Search & AI Agent Discovery Policy
 User-agent: *
 Allow: /
 Content-Signal: search=yes, ai-input=yes

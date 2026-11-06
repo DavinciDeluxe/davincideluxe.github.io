@@ -1,10 +1,10 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "DaVinci Deluxe Cloud Edition (v1.0.44) — B2B Cloud Tuning REST API & Global ECU Compatibility Specification",
-    "version": "1.0.44",
+    "title": "DaVinci Deluxe Cloud Edition (v1.0.45) — B2B Cloud Tuning REST API & Global ECU Compatibility Specification",
+    "version": "1.0.45",
     "summary": "Automated virgin ECU/TCU binary calibration API (/api/v1/cloud/*) + Live Cars, 24V Trucks & 69,186+ OEM SW Discovery Endpoints.",
-    "description": "Official OpenAPI 3.1.0 specification for DaVinci Deluxe Cloud Edition (v1.0.44). B2B Cloud Tuning API Plans: Starter €300/mo (100 files/day), Business €500/mo (500 files/day), Enterprise €800/mo (Unlimited). Covers 4963+ Car ECUs, 69186+ OEM SW IDs, 452+ 24V Truck/Agri ECUs & 30+ Marine Brands.",
+    "description": "Official OpenAPI 3.1.0 specification for DaVinci Deluxe Cloud Edition (v1.0.45). B2B Cloud Tuning API Plans: Starter €300/mo (100 files/day), Business €500/mo (500 files/day), Enterprise €800/mo (Unlimited). Covers 4973+ Car ECUs, 69187+ OEM SW IDs, 452+ 24V Truck/Agri ECUs & 30+ Marine Brands.",
     "contact": {
       "name": "Roland & The DaVinci Deluxe Engineering Team",
       "url": "https://www.davincideluxe.fr/developers",

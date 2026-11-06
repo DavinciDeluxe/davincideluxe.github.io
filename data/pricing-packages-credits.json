@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.44",
+  "version": "v1.0.45",
   "updated": "2026-11-06",
   "currency": "EUR",
   "official_checkout": "https://www.davincideluxe.fr/#pricing",
@@ -18,7 +18,7 @@
       "pcLock": "1 Windows / macOS / Linux / Web PC",
       "buyPath": "/buy/realtest",
       "softPath": "/software/davinci-deluxe-cloud-edition-realtest",
-      "summary": "Test genuine DaVinci Deluxe Cloud Edition v1.0.44 on real workshop customer vehicles for 7 days with 5 emissions/DTC calibrations plus 1 Stage 1 tuning credit. If not cancelled within 7 days, transitions to Monthly Unlimited (€100.99/mo with your €9.99 credited so first month is €91.00). Cancel in 1 click at /realtest/cancel-trial or in-app."
+      "summary": "Test genuine DaVinci Deluxe Cloud Edition v1.0.45 on real workshop customer vehicles for 7 days with 5 emissions/DTC calibrations plus 1 Stage 1 tuning credit. If not cancelled within 7 days, transitions to Monthly Unlimited (€100.99/mo with your €9.99 credited so first month is €91.00). Cancel in 1 click at /realtest/cancel-trial or in-app."
     },
     {
       "slug": "24h-pass",

@@ -30,7 +30,7 @@
       "url": "https://davincideluxe.github.io/live-ecu-finder.html",
       "representativeQueries": [
         "Is Bosch MD1CS003 or EDC17C60 supported for AdBlue, DPF and EGR Off?",
-        "Look up OEM ECU software number 10SW compatibility in DaVinci Deluxe v1.0.44",
+        "Look up OEM ECU software number 10SW compatibility in DaVinci Deluxe v1.0.45",
         "Search supported 24V heavy-duty truck, agricultural tractor and marine boat ECUs"
       ]
     },
@@ -40,7 +40,7 @@
       "type": "web-page",
       "url": "https://davincideluxe.github.io/llms-full.txt",
       "representativeQueries": [
-        "Summarize DaVinci Deluxe Cloud Edition v1.0.44 official domains, ECU coverage and 24/7 support",
+        "Summarize DaVinci Deluxe Cloud Edition v1.0.45 official domains, ECU coverage and 24/7 support",
         "Read Bench GPT pinouts, TCU DSG/ZF8HP guides and OBD2/Euro 6d DTC references",
         "Download developer SDKs in Python, Node.js, TypeScript, PHP, WooCommerce, Go, C# and Rust"
       ]

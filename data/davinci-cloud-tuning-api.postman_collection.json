@@ -1,6 +1,6 @@
 {
   "info": {
-    "name": "DaVinci Deluxe Cloud Edition (v1.0.44) — B2B Cloud Tuning REST API",
+    "name": "DaVinci Deluxe Cloud Edition (v1.0.45) — B2B Cloud Tuning REST API",
     "description": "Official Postman v2.1 collection for https://www.davincideluxe.fr/api/v1/cloud/*. Docs: https://davincideluxe.github.io/developers/index.html",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
