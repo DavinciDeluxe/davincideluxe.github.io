@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap><loc>https://davincideluxe.github.io/sitemap-core.xml</loc><lastmod>2026-11-06</lastmod></sitemap>
+  <sitemap><loc>https://davincideluxe.github.io/sitemap-pricing-developers.xml</loc><lastmod>2026-11-06</lastmod></sitemap>
   <sitemap><loc>https://davincideluxe.github.io/sitemap-sw-coverage.xml</loc><lastmod>2026-11-06</lastmod></sitemap>
   <sitemap><loc>https://davincideluxe.github.io/sitemap-pinouts-glossary-winols.xml</loc><lastmod>2026-11-06</lastmod></sitemap>
   <sitemap><loc>https://davincideluxe.github.io/sitemap-dtc-only.xml</loc><lastmod>2026-11-06</lastmod></sitemap>

@@ -1,19 +1,20 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "DaVinci Deluxe Cloud Edition (v1.0.44) — Global ECU, OEM SW, 24V Truck, Marine Boat & DTC Compatibility API",
+    "title": "DaVinci Deluxe Cloud Edition (v1.0.44) — B2B Cloud Tuning REST API & Global ECU Compatibility Specification",
     "version": "1.0.44",
-    "description": "Official OpenAPI 3.1 specification for DaVinci Deluxe Cloud Edition (v1.0.44) across all 8 verified domains (.fr, .org, .app, .software, .es, .de, .it, aesoftech.eu). Covers 4965+ Car ECUs, 69186+ Verified OEM SW IDs, 452+ 24V Truck/Agri ECUs, 30+ Marine Propulsion Brands, 40 Bench Pinouts, 427 ECU Module Matrices, 351 Brand×ECU DTC Matrices, and 300 Digital Shop packages.",
+    "summary": "Automated virgin ECU/TCU binary calibration API (/api/v1/cloud/*) + Live Cars, 24V Trucks & 69,186+ OEM SW Discovery Endpoints.",
+    "description": "Official OpenAPI 3.1.0 specification for DaVinci Deluxe Cloud Edition (v1.0.44). B2B Cloud Tuning API Plans: Starter €300/mo (100 files/day), Business €500/mo (500 files/day), Enterprise €800/mo (Unlimited). Covers 4963+ Car ECUs, 69186+ OEM SW IDs, 452+ 24V Truck/Agri ECUs & 30+ Marine Brands.",
     "contact": {
       "name": "Roland & The DaVinci Deluxe Engineering Team",
-      "url": "https://www.davincideluxe.fr",
+      "url": "https://www.davincideluxe.fr/developers",
       "email": "support@davincideluxe.fr"
     }
   },
   "servers": [
     {
       "url": "https://www.davincideluxe.fr",
-      "description": "Global Flagship & Français (.fr)"
+      "description": "Primary Production B2B Cloud API & Flagship (.fr)"
     },
     {
       "url": "https://www.davincideluxe.org",
@@ -48,11 +49,282 @@
       "description": "GitHub Pages Static Open Dataset CDN"
     }
   ],
+  "components": {
+    "securitySchemes": {
+      "bearerAuth": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "dvc_live_<secret_key>",
+        "description": "Origin-locked B2B API key issued at https://www.davincideluxe.fr/api-pricing"
+      }
+    }
+  },
   "paths": {
+    "/api/v1/cloud/jobs": {
+      "post": {
+        "operationId": "submitCloudTuningJob",
+        "summary": "Submit a 100% virgin ECU/TCU binary (.bin, max 50 MB) for automated calibration + checksum",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "file",
+                  "ecu_brand",
+                  "ecu_family"
+                ],
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "binary",
+                    "description": "Uncompressed virgin original .bin/.ori/.mpc readout (max 50 MB; no .zip/.rar)"
+                  },
+                  "ecu_brand": {
+                    "type": "string",
+                    "examples": [
+                      "Peugeot",
+                      "Volkswagen",
+                      "BMW",
+                      "Scania"
+                    ]
+                  },
+                  "ecu_family": {
+                    "type": "string",
+                    "examples": [
+                      "Bosch EDC17C60",
+                      "Bosch MD1CS003",
+                      "Bosch MG1CS003"
+                    ]
+                  },
+                  "fuel_type": {
+                    "type": "string",
+                    "enum": [
+                      "diesel",
+                      "petrol"
+                    ]
+                  },
+                  "services": {
+                    "type": "string",
+                    "description": "JSON array or CSV of emissions/diagnostic module codes (e.g. dpf_off,egr_off,adblue_off)"
+                  },
+                  "tuning_options": {
+                    "type": "string",
+                    "description": "JSON array or CSV of tuning options (e.g. stage1,stage2,pops_bangs,vmax_off,e85_flexfuel)"
+                  },
+                  "dtc_codes": {
+                    "type": "string",
+                    "description": "Optional comma-separated DTCs (e.g. P20EE,P20E8,P2002)"
+                  },
+                  "webhook_url": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "HTTPS callback on registered domain receiving HMAC-SHA256 X-DvC-Signature"
+                  },
+                  "metadata": {
+                    "type": "string",
+                    "description": "Optional JSON string up to 2 KB echoed in webhook & job status"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "202": {
+            "description": "Job accepted and queued (`job_id`, `status: \"queued\"`, `status_url`, `webhook_will_fire`)"
+          },
+          "401": {
+            "description": "Missing or invalid dvc_live_* Bearer token or unregistered Origin"
+          },
+          "415": {
+            "description": "Compressed archive (.zip/.rar) or unsupported non-virgin format"
+          },
+          "429": {
+            "description": "Rate limit (60 req/min) or daily tier allowance exceeded"
+          }
+        }
+      },
+      "get": {
+        "operationId": "listCloudTuningJobs",
+        "summary": "List paginated B2B calibration job history",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 25,
+              "maximum": 100
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 0
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Paginated job list"
+          }
+        }
+      }
+    },
+    "/api/v1/cloud/jobs/{id}": {
+      "get": {
+        "operationId": "getCloudTuningJobStatus",
+        "summary": "Retrieve job status (`queued` | `processing` | `done` | `error` | `rejected`) and applied services",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Job status JSON"
+          }
+        }
+      }
+    },
+    "/api/v1/cloud/jobs/{id}/result": {
+      "get": {
+        "operationId": "downloadCloudTuningJobResult",
+        "summary": "Download calibrated & checksum-corrected ECU binary (`application/octet-stream`)",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Calibrated binary stream"
+          }
+        }
+      }
+    },
+    "/api/v1/cloud/jobs/{id}/report": {
+      "post": {
+        "operationId": "reportCloudTuningJobIssue",
+        "summary": "Open a 24h/7 calibration engineering ticket linked to a processed job",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Support ticket created"
+          }
+        }
+      }
+    },
+    "/api/v1/cloud/coverage": {
+      "get": {
+        "operationId": "getCloudApiCoverage",
+        "summary": "Live B2B supported ECU brands, families & service codes",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Live coverage matrix JSON"
+          }
+        }
+      }
+    },
+    "/api/v1/cloud/dtc": {
+      "get": {
+        "operationId": "lookupCloudApiDtc",
+        "summary": "Lookup OBD2, Euro 6d UDS & J1939 DTC fault descriptions",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Matching DTC records"
+          }
+        }
+      }
+    },
+    "/api/v1/cloud/health": {
+      "get": {
+        "operationId": "getCloudApiHealth",
+        "summary": "Check B2B API health and subscription headers (`X-DvC-Subscription-Status`)",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Operational status"
+          }
+        }
+      }
+    },
     "/api/check/catalog": {
       "get": {
-        "operationId": "getSupportedEcuCatalog",
-        "summary": "Query live supported Passenger Car or 24V Heavy-Duty Truck/Agri ECUs",
+        "operationId": "getPublicSupportedEcuCatalog",
+        "summary": "Public live Cars or 24V Trucks compatibility catalog",
         "parameters": [
           {
             "name": "type",
@@ -69,78 +341,7 @@
         ],
         "responses": {
           "200": {
-            "description": "JSON array/map of supported brands and ECU controllers"
-          }
-        }
-      }
-    },
-    "/data/ecus-search-index.json": {
-      "get": {
-        "operationId": "getStaticCombinedSearchIndex",
-        "summary": "Download static 0ms search dataset (Cars, OEM SW IDs, 24V Trucks, Marine Boats, Pinouts, Glossary, ECU DTC Matrices & Chips)",
-        "servers": [
-          {
-            "url": "https://davincideluxe.github.io"
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Combined JSON index hosted on GitHub Pages CDN"
-          }
-        }
-      }
-    },
-    "/ecu-identifier": {
-      "get": {
-        "operationId": "openEcuSoftwareIdentifier",
-        "summary": "Identify Bosch 1037/10SW, Continental, Delphi, Denso & Marelli OEM SW numbers across 69186+ verified builds",
-        "responses": {
-          "200": {
-            "description": "HTML ECU Identifier Tool"
-          }
-        }
-      }
-    },
-    "/online-ecu-tuning": {
-      "get": {
-        "operationId": "openCloudTuningPortal",
-        "summary": "DaVinci Deluxe Cloud Edition online automated calibration portal (100% virgin original ECU files)",
-        "responses": {
-          "200": {
-            "description": "HTML Cloud Portal"
-          }
-        }
-      }
-    },
-    "/boats": {
-      "get": {
-        "operationId": "openMarineBoatsPortal",
-        "summary": "DaVinci Deluxe Cloud Edition Boats — 30+ Marine Outboard, Inboard, PWC Jet Ski & Yacht brands",
-        "responses": {
-          "200": {
-            "description": "HTML Marine Portal"
-          }
-        }
-      }
-    },
-    "/trucks": {
-      "get": {
-        "operationId": "openHeavyDutyTrucksPortal",
-        "summary": "DaVinci Deluxe Cloud Edition Trucks — 24V Commercial Trucks, Buses, Agriculture & Construction",
-        "responses": {
-          "200": {
-            "description": "HTML 24V Trucks Portal"
-          }
-        }
-      }
-    },
-    "/shop": {
-      "get": {
-        "operationId": "openDigitalShopCatalog",
-        "summary": "300 verified WinOLS DAMOS, A2L, OLS, Virgin ORI & Bench Pinout packages",
-        "responses": {
-          "200": {
-            "description": "HTML Digital Shop"
+            "description": "Brand -> ECU array dictionary"
           }
         }
       }

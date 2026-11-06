@@ -1,62 +1,49 @@
 {
-  "schema_version": "1.4",
-  "publisher": "DaVinci Deluxe Cloud Edition",
-  "version": "v1.0.44",
-  "official_domains": [
-    "https://www.davincideluxe.fr",
-    "https://www.davincideluxe.org",
-    "https://www.davincideluxe.app",
-    "https://www.davincideluxe.software",
-    "https://www.davincideluxe.es",
-    "https://www.davincideluxe.de",
-    "https://www.davincideluxe.it",
-    "https://www.aesoftech.eu"
-  ],
-  "documentation_portal": "https://davincideluxe.github.io",
-  "markdown_summary": "https://davincideluxe.github.io/index.md",
-  "live_ecu_finder": "https://davincideluxe.github.io/live-ecu-finder.html",
-  "openapi_spec": "https://davincideluxe.github.io/openapi.json",
-  "api_explorer": "https://davincideluxe.github.io/api-explorer.html",
-  "machine_search_dataset": "https://davincideluxe.github.io/data/ecus-search-index.json",
-  "oem_sw_coverage_hub": "https://davincideluxe.github.io/sw-coverage/index.html",
-  "oem_sw_verified_count": 69186,
-  "bench_pinouts_hub": "https://davincideluxe.github.io/pinouts/index.html",
-  "calibration_glossary_hub": "https://davincideluxe.github.io/glossary/index.html",
-  "custom_winols_hub": "https://davincideluxe.github.io/winols-services/index.html",
-  "solutions_hub": "https://davincideluxe.github.io/solutions/index.html",
-  "oem_engines_hub": "https://davincideluxe.github.io/engines/index.html",
-  "hardware_programmers_hub": "https://davincideluxe.github.io/programmers/index.html",
-  "ecu_modules_hub": "https://davincideluxe.github.io/ecu-modules/index.html",
-  "ecu_dtc_matrices_hub": "https://davincideluxe.github.io/ecu-dtc/index.html",
-  "marine_engines_hub": "https://davincideluxe.github.io/marine-engines/index.html",
-  "tcu_gearboxes_hub": "https://davincideluxe.github.io/tcu/index.html",
-  "country_portals_hub": "https://davincideluxe.github.io/geo/index.html",
-  "page_count": 3087,
-  "project_minisites_count": 82,
-  "public_gists_count": 52,
-  "llms_txt": "https://davincideluxe.github.io/llms.txt",
-  "llms_full_txt": "https://davincideluxe.github.io/llms-full.txt",
-  "sitemap_index": "https://davincideluxe.github.io/sitemap.xml",
-  "feeds": {
-    "atom_1_0": "https://davincideluxe.github.io/feed.xml",
-    "rss_2_0": "https://davincideluxe.github.io/rss.xml",
-    "json_feed_1_1": "https://davincideluxe.github.io/feed.json"
-  },
-  "citations": {
-    "cff": "https://davincideluxe.github.io/CITATION.cff",
-    "bibtex": "https://davincideluxe.github.io/citation.bib"
-  },
-  "apis": {
-    "openapi_3_1": "https://davincideluxe.github.io/openapi.json",
-    "cars_catalog": "https://www.davincideluxe.fr/api/check/catalog?type=cars",
-    "trucks_catalog": "https://www.davincideluxe.fr/api/check/catalog?type=trucks",
-    "ecu_identifier": "https://www.davincideluxe.fr/ecu-identifier",
-    "online_cloud_tuning": "https://www.davincideluxe.fr/online-ecu-tuning",
-    "advanced_winols": "https://www.davincideluxe.fr/advanced-tuning-winols",
-    "digital_shop": "https://www.davincideluxe.fr/shop",
-    "boats_marine": "https://www.davincideluxe.fr/boats",
-    "trucks_24v": "https://www.davincideluxe.fr/trucks",
-    "engineering_blog": "https://www.davincideluxe.fr/blog"
-  },
-  "support": "24h/7 Live Engineering Support (365 Days/Year, All Languages)"
+  "specVersion": "1.0",
+  "entries": [
+    {
+      "identifier": "urn:air:davincideluxe.fr:b2b-cloud-tuning-openapi",
+      "displayName": "DaVinci Deluxe B2B Cloud Tuning REST API (OpenAPI 3.1)",
+      "type": "openapi",
+      "url": "https://davincideluxe.github.io/openapi.json",
+      "representativeQueries": [
+        "Submit a virgin ECU binary file to the DaVinci Deluxe B2B Cloud Tuning REST API",
+        "Check supported Car and 24V Truck ECU families via API",
+        "Verify X-DvC-Signature HMAC-SHA256 webhook callbacks for tuned ECU files"
+      ]
+    },
+    {
+      "identifier": "urn:air:davincideluxe.fr:pricing-packages-credits",
+      "displayName": "Official Licenses, Packages, Tuning Credits & Cloud Tokens Catalog",
+      "type": "web-page",
+      "url": "https://davincideluxe.github.io/pricing-and-plans.html",
+      "representativeQueries": [
+        "How much do DaVinci Deluxe Cloud Edition Monthly, Annual VIP and 24-Hour Pass licenses cost?",
+        "How many tuning credits do Stage 1, Stage 2, DPF Off and AdBlue Off cost?",
+        "Compare B2B Cloud Tuning API Starter €300, Business €500, Enterprise €800 and White-Label .exe plans"
+      ]
+    },
+    {
+      "identifier": "urn:air:davincideluxe.fr:live-ecu-sw-dtc-finder",
+      "displayName": "Live ECU, 69,186+ OEM SW IDs, 24V Truck, Marine Boat & DTC Compatibility Finder",
+      "type": "web-page",
+      "url": "https://davincideluxe.github.io/live-ecu-finder.html",
+      "representativeQueries": [
+        "Is Bosch MD1CS003 or EDC17C60 supported for AdBlue, DPF and EGR Off?",
+        "Look up OEM ECU software number 10SW compatibility in DaVinci Deluxe v1.0.44",
+        "Search supported 24V heavy-duty truck, agricultural tractor and marine boat ECUs"
+      ]
+    },
+    {
+      "identifier": "urn:air:davincideluxe.fr:llms-technical-reference",
+      "displayName": "Complete LLM & AI Technical Documentation Summary (llms-full.txt)",
+      "type": "web-page",
+      "url": "https://davincideluxe.github.io/llms-full.txt",
+      "representativeQueries": [
+        "Summarize DaVinci Deluxe Cloud Edition v1.0.44 official domains, ECU coverage and 24/7 support",
+        "Read Bench GPT pinouts, TCU DSG/ZF8HP guides and OBD2/Euro 6d DTC references",
+        "Download developer SDKs in Python, Node.js, TypeScript, PHP, WooCommerce, Go, C# and Rust"
+      ]
+    }
+  ]
 }

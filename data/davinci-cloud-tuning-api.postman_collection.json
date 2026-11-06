@@ -1,0 +1,117 @@
+{
+  "info": {
+    "name": "DaVinci Deluxe Cloud Edition (v1.0.44) — B2B Cloud Tuning REST API",
+    "description": "Official Postman v2.1 collection for https://www.davincideluxe.fr/api/v1/cloud/*. Docs: https://davincideluxe.github.io/developers/index.html",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "https://www.davincideluxe.fr/api/v1/cloud"
+    },
+    {
+      "key": "dvc_api_key",
+      "value": "dvc_live_replace_with_your_key"
+    },
+    {
+      "key": "job_id",
+      "value": "job_example_id"
+    }
+  ],
+  "auth": {
+    "type": "bearer",
+    "bearer": [
+      {
+        "key": "token",
+        "value": "{{dvc_api_key}}",
+        "type": "string"
+      }
+    ]
+  },
+  "item": [
+    {
+      "name": "1. Check API & Subscription Health",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/health"
+      }
+    },
+    {
+      "name": "2. Query Live ECU Coverage Matrix",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/coverage?sector=cars"
+      }
+    },
+    {
+      "name": "3. Lookup OBD2 / Euro 6d DTC Code",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/dtc?q=P20EE"
+      }
+    },
+    {
+      "name": "4. Submit Virgin ECU Binary Job",
+      "request": {
+        "method": "POST",
+        "url": "{{base_url}}/jobs",
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "src": ""
+            },
+            {
+              "key": "ecu_brand",
+              "value": "Peugeot",
+              "type": "text"
+            },
+            {
+              "key": "ecu_family",
+              "value": "Bosch EDC17C60",
+              "type": "text"
+            },
+            {
+              "key": "fuel_type",
+              "value": "diesel",
+              "type": "text"
+            },
+            {
+              "key": "services",
+              "value": "[\"dpf_off\",\"egr_off\",\"adblue_off\"]",
+              "type": "text"
+            },
+            {
+              "key": "tuning_options",
+              "value": "[\"stage1\"]",
+              "type": "text"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "5. Poll Job Status",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/jobs/{{job_id}}"
+      }
+    },
+    {
+      "name": "6. Download Calibrated Binary Result",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/jobs/{{job_id}}/result"
+      }
+    },
+    {
+      "name": "7. List Paginated Jobs",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/jobs?limit=25&offset=0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "version": "v1.0.44",
+  "updated": "2026-11-06",
+  "currency": "EUR",
+  "official_checkout": "https://www.davincideluxe.fr/#pricing",
+  "docs_hub": "https://davincideluxe.github.io/pricing-and-plans.html",
+  "zero_credit_emissions_rule": "DPF, EGR, AdBlue/SCR, OPF, NOx, Lambda, Swirl Flaps, TVA, Start/Stop, Readiness & Multi-DTC Off cost 0 Tuning Credits on any active software plan.",
+  "cars_plans": [
+    {
+      "slug": "realtest",
+      "sku": "DVD-CARS-REALTEST-7D",
+      "name": "7-Day Real Software Test (Cars & Light Vans)",
+      "badge": "REAL FLASHABLE FILES",
+      "price": "9.99",
+      "billing": "7-day trial (€9.99 credited toward Monthly if kept; 1-click cancel anytime)",
+      "dailyFiles": "5 emissions/DTC files total (7 days)",
+      "includedCredits": "1 Free Stage 1 Tuning Credit included",
+      "pcLock": "1 Windows / macOS / Linux / Web PC",
+      "buyPath": "/buy/realtest",
+      "softPath": "/software/davinci-deluxe-cloud-edition-realtest",
+      "summary": "Test genuine DaVinci Deluxe Cloud Edition v1.0.44 on real workshop customer vehicles for 7 days with 5 emissions/DTC calibrations plus 1 Stage 1 tuning credit. If not cancelled within 7 days, transitions to Monthly Unlimited (€100.99/mo with your €9.99 credited so first month is €91.00). Cancel in 1 click at /realtest/cancel-trial or in-app."
+    },
+    {
+      "slug": "24h-pass",
+      "sku": "DVD-CARS-24H-PASS",
+      "name": "24-Hour Active Working Pass (No Subscription)",
+      "badge": "ONE-TIME PAYMENT",
+      "price": "49.99",
+      "billing": "One-time payment · Zero recurring billing",
+      "dailyFiles": "Unlimited emissions & DTC files while active",
+      "includedCredits": "Compatible with non-expiring Credit Packs",
+      "pcLock": "1 PC · Smart pauseable 24h active timer (valid 30 days)",
+      "buyPath": "/buy/1h_daily",
+      "softPath": "/software/davinci-deluxe-cloud-edition-24h-pass",
+      "summary": "24 hours of pure active software working time — the timer pauses automatically whenever you close the application and can be used across up to 30 calendar days from first activation. Unlimited DPF, EGR, AdBlue/SCR, Flaps & DTC Off files while active."
+    },
+    {
+      "slug": "monthly-unlimited",
+      "sku": "DVD-CARS-MONTHLY",
+      "name": "Monthly Unlimited Workshop License (Cars & Vans)",
+      "badge": "MOST POPULAR",
+      "price": "100.99",
+      "billing": "Per month · Cancel anytime in 1 click",
+      "dailyFiles": "Up to 15 ECU files / day (0 credits for emissions/DTC)",
+      "includedCredits": "2 Free Performance Tuning Credits every month",
+      "pcLock": "1 PC · Expandable up to 35 files/day via VIP Boosts",
+      "buyPath": "/buy/monthly",
+      "softPath": "/software/davinci-deluxe-cloud-edition-monthly",
+      "summary": "Built for daily tuning & diagnostic workshops: process up to 15 Car & Light Van ECUs every day with all DPF, EGR, AdBlue/SCR, OPF, Swirl Flaps, Start/Stop & Multi-DTC modules included at 0 credits, plus 2 free Stage 1 / Burble credits renewed monthly and 24h/7 live engineering support."
+    },
+    {
+      "slug": "yearly-vip",
+      "sku": "DVD-CARS-YEARLY-VIP",
+      "name": "Annual Workshop VIP License (Cars & Vans)",
+      "badge": "BEST ROI · SAVE ~17%",
+      "price": "1009.00",
+      "billing": "Per year (~€84.08/month equivalent)",
+      "dailyFiles": "Up to 25 ECU files / day (0 credits for emissions/DTC)",
+      "includedCredits": "10 Free Never-Expiring Tuning Credits at purchase",
+      "pcLock": "1 PC · Eligible for €500/yr Hardware Protection Plan",
+      "buyPath": "/buy/yearly",
+      "softPath": "/software/davinci-deluxe-cloud-edition-yearly",
+      "summary": "Flagship master workshop license delivering 25 ECU calibrations per day, 10 instant never-expiring performance tuning credits (€200 value), priority 24h/7/365 senior calibration engineering support, and exclusive eligibility for the €500/year ECU Hardware Protection Service."
+    }
+  ],
+  "trucks_24v_plans": [
+    {
+      "slug": "trucks-24h-pass",
+      "sku": "DVD-TRUCKS-24H-PASS",
+      "name": "24V Trucks & Agri — 24-Hour Pass",
+      "badge": "ONE-TIME 24V PASS",
+      "price": "99.00",
+      "billing": "One-time payment · No subscription",
+      "coverage": "452+ 24V Truck, Bus, Tractor & Excavator ECUs (82 Brands)",
+      "buyPath": "/buy/trk_pass",
+      "softPath": "/software/davinci-deluxe-cloud-edition-trucks-pass",
+      "summary": "Dedicated 24-hour pass for DaVinci Deluxe Cloud Edition Trucks covering Euro 5 / Euro 6 / Tier 4F / Stage V commercial trucks (Volvo, Scania, MAN, DAF, Mercedes MCM/ACM, Iveco, Renault, Cummins) and agricultural/construction machinery (John Deere, CNH, Fendt, CLAAS, CAT, JCB)."
+    },
+    {
+      "slug": "trucks-monthly",
+      "sku": "DVD-TRUCKS-MONTHLY",
+      "name": "24V Trucks, Buses & Agriculture — Monthly License",
+      "badge": "COMMERCIAL FLEET PRO",
+      "price": "219.00",
+      "billing": "Per month · Cancel anytime",
+      "coverage": "Daily 24V AdBlue/DEF/SCR/ACM, DPF, EGR & J1939 DTC Off + 24h/7 Support",
+      "buyPath": "/buy/trk_monthly",
+      "softPath": "/software/davinci-deluxe-cloud-edition-trucks-monthly",
+      "summary": "Full monthly access to DaVinci Deluxe Cloud Edition Trucks for commercial HGV workshops, mobile agricultural technicians, and heavy construction fleet operators with 24h/7 live engineering support."
+    },
+    {
+      "slug": "trucks-yearly",
+      "sku": "DVD-TRUCKS-YEARLY",
+      "name": "24V Trucks, Buses & Agriculture — Annual VIP License",
+      "badge": "SAVE €738/YEAR",
+      "price": "1890.00",
+      "billing": "Per year (€157.50/mo equivalent — save €738 vs monthly)",
+      "coverage": "Maximum daily 24V fleet allowance + VIP 24h/7 heavy-duty engineering support",
+      "buyPath": "/buy/trk_yearly",
+      "softPath": "/software/davinci-deluxe-cloud-edition-trucks-yearly",
+      "summary": "Enterprise annual 24V heavy-duty & off-highway calibration license covering engine ECUs and aftertreatment ACM/DCU/EEC3 controllers across 82 commercial truck, bus, tractor, harvester, and excavator brands."
+    }
+  ],
+  "cars_credit_packs": [
+    [
+      "1 Performance Credit",
+      "1",
+      "0",
+      "1",
+      "20.00",
+      "20.00",
+      "Single Stage 1, Pops & Bangs, HardCut, VMAX or Launch Control job"
+    ],
+    [
+      "5 Performance Credits",
+      "5",
+      "0",
+      "5",
+      "90.00",
+      "18.00",
+      "Save 10% — ideal for weekly Stage 1 & DSG/TCU workshops"
+    ],
+    [
+      "10 + 2 Bonus Credits",
+      "10",
+      "+2 FREE",
+      "12",
+      "170.00",
+      "14.17",
+      "Save 29% — 12 total never-expiring tuning credits"
+    ],
+    [
+      "20 + 5 Bonus Credits",
+      "20",
+      "+5 FREE",
+      "25",
+      "300.00",
+      "12.00",
+      "Best Workshop Margin — Save 40% (€12.00 per effective credit)"
+    ]
+  ],
+  "trucks_credit_packs": [
+    [
+      "1 Truck Tuning Credit",
+      "1",
+      "39.00",
+      "39.00",
+      "/buy/trk_credits_1",
+      "Single 24V Truck / Tractor Stage 1 torque or fuel-economy calibration"
+    ],
+    [
+      "5 Truck Tuning Credits",
+      "5",
+      "175.00",
+      "35.00",
+      "/buy/trk_credits_5",
+      "Save 10% on 24V heavy-haul & PTO Stage 1 calibrations"
+    ],
+    [
+      "10 Truck Tuning Credits",
+      "10",
+      "320.00",
+      "32.00",
+      "/buy/trk_credits_10",
+      "Save 18% — commercial fleet & agricultural season pack"
+    ],
+    [
+      "20 Truck Tuning Credits",
+      "20",
+      "580.00",
+      "29.00",
+      "/buy/trk_credits_20",
+      "Save 26% — master 24V truck & tractor calibration center pack"
+    ]
+  ],
+  "credit_cost_matrix": [
+    [
+      "DPF / FAP / OPF / GPF Off",
+      "Emissions & Aftertreatment",
+      "0 Credits",
+      "Included free in active daily plan allowance (9 Tokens on Pay-Per-Use Cloud)"
+    ],
+    [
+      "EGR High & Low-Pressure Off",
+      "Emissions & Aftertreatment",
+      "0 Credits",
+      "Included free in active daily plan allowance (9 Tokens on Pay-Per-Use Cloud)"
+    ],
+    [
+      "AdBlue / SCR / DEF & Countdown Fix",
+      "Emissions & Inducement",
+      "0 Credits",
+      "Included free in active daily plan allowance (9 Tokens on Pay-Per-Use Cloud)"
+    ],
+    [
+      "NOx Sensor & Lambda / O2 / Cat Off",
+      "Sensors & Diagnostics",
+      "0 Credits",
+      "Included free in active daily plan allowance"
+    ],
+    [
+      "Swirl Flaps / Intake Runner & TVA Off",
+      "Airflow Actuators",
+      "0 Credits",
+      "Included free in active daily plan allowance"
+    ],
+    [
+      "Start/Stop Off, Readiness & Multi-DTC Off",
+      "Comfort & Selective Diagnostics",
+      "0 Credits",
+      "Included free in active daily plan allowance"
+    ],
+    [
+      "Stage 1 Power & Torque Remapping",
+      "Performance Calibration",
+      "1 Credit",
+      "€12.00–€20.00 effective cost with Credit Packs (45 Tokens on Pay-Per-Use Cloud)"
+    ],
+    [
+      "Pops & Bangs / Overrun Burble (Standard)",
+      "Motorsport Acoustics",
+      "1 Credit",
+      "Controlled overrun ignition/fuel cut calibration"
+    ],
+    [
+      "Diesel HardCut / Popcorn Rev Limiter",
+      "Motorsport Acoustics",
+      "1 Credit",
+      "Clean narrow-hysteresis SVRL/torque limiter bounce"
+    ],
+    [
+      "VMAX Speed Limiter Off & RPM Soft Limiter",
+      "Speed & Rev Governors",
+      "1 Credit",
+      "Factory top-speed & standstill soft-limiter calibration"
+    ],
+    [
+      "Launch Control, Anti-Lag, Torque Monitor & FCA Unlock",
+      "Motorsport & Security",
+      "1 Credit",
+      "Per specialized performance calibration module"
+    ],
+    [
+      "Pops & Bangs (Switchable AC / Sport) & HardCut Flames",
+      "Switchable Motorsport",
+      "1.5 Credits",
+      "Driver-selectable Sport/AC button acoustic calibration"
+    ],
+    [
+      "Stage 1+, Eco Fuel-Save Tune, Decat & Rev Limiter Raise",
+      "Advanced Stage 1+",
+      "2 Credits",
+      "High-torque Stage 1+ or dedicated fleet BSFC fuel-economy map"
+    ],
+    [
+      "Stage 2 Hardware Remapping, E85 FlexFuel & Ignition Cut",
+      "Stage 2 & Bio-Ethanol",
+      "3 Credits",
+      "Upgraded downpipe/intercooler Stage 2 or cold-start + stoichiometric E85 conversion"
+    ],
+    [
+      "Stage 2+ High-Output Calibration",
+      "Motorsport Hardware",
+      "4 Credits",
+      "Upgraded HPFP / intake / intercooler / exhaust calibration"
+    ],
+    [
+      "Stage 3 Big/Hybrid Turbo Calibration",
+      "Bespoke Motorsport",
+      "5 Credits",
+      "Hybrid turbocharger, MAP sensor scaling & injector calibration"
+    ],
+    [
+      "Stage 3+ Extreme Build / HardCut Loud 4800 RPM",
+      "Extreme Motorsport",
+      "6 Credits",
+      "Full competition powertrain calibration"
+    ]
+  ],
+  "cloud_token_packs": [
+    [
+      "Flexible Token Top-Up (10–100 Tokens)",
+      "1 Token = €1.00",
+      "€10 / €20 / €100",
+      "0%",
+      "/online-ecu-tuning",
+      "Pay-per-use browser tuning with zero software subscription — tokens never expire"
+    ],
+    [
+      "550 Cloud Tuning Tokens Bundle",
+      "500 + 50 FREE Bonus",
+      "€500.00",
+      "+10% Bonus (€0.91/tok)",
+      "/buy/tokens_550",
+      "550 non-expiring browser Cloud Vault tokens (~61 DPF/EGR deletes or ~12 Stage 1 tunes)"
+    ],
+    [
+      "1,200 Cloud Tuning Tokens Workshop Pack",
+      "1,000 + 200 FREE Bonus",
+      "€1,000.00",
+      "+20% Bonus (€0.83/tok)",
+      "/buy/tokens_1200",
+      "1,200 non-expiring browser Cloud Vault tokens (~133 deletes or ~20 Power+Delete Combos)"
+    ],
+    [
+      "Single File — DPF / EGR / AdBlue / DTC / Lambda",
+      "9 Tokens (€9)",
+      "€9 Tokens / €10 Direct",
+      "Instant Cloud Vault",
+      "/buy/dpf_tuning",
+      "No account plan required — upload 100% virgin .bin directly in browser"
+    ],
+    [
+      "Single File — Stage 1 Performance Remap",
+      "45 Tokens (€45)",
+      "€45 Tokens / €50 Direct",
+      "Instant Cloud Vault",
+      "/buy/stage1_tuning",
+      "OEM-safe Stage 1 torque & horsepower calibration + online checksum"
+    ],
+    [
+      "Combo Power + Delete (Stage 1 + DPF + EGR + DTC)",
+      "58 Tokens (€58)",
+      "€58 Tokens / €65 Direct",
+      "Save €14 Bundle",
+      "/buy/combo_power_delete",
+      "All-in-one Stage 1 + full emissions & DTC calibration in one pass"
+    ],
+    [
+      "Single File — Stage 2 Hardware Remap",
+      "72 Tokens (€72)",
+      "€72 Tokens",
+      "Instant Cloud Vault",
+      "/online-ecu-tuning",
+      "High-flow downpipe & intercooler Stage 2 calibration in browser"
+    ]
+  ],
+  "b2b_api_plans": [
+    {
+      "slug": "starter",
+      "name": "B2B Cloud API — Starter",
+      "monthlyEur": "300",
+      "yearlyEur": "3,000",
+      "filesPerDay": "Up to 100 ECU files / day",
+      "apiKeys": "1 Live API Key (dvc_live_*)",
+      "domains": "1 Registered Origin Website",
+      "rateLimit": "60 req/min burst · Max 50 MB virgin .bin",
+      "queue": "Standard Automated Cloud Queue + HMAC Webhooks",
+      "bestFor": "Independent chiptuning portals & regional slave-tool masters"
+    },
+    {
+      "slug": "business",
+      "name": "B2B Cloud API — Business (Most Popular)",
+      "monthlyEur": "500",
+      "yearlyEur": "5,000",
+      "filesPerDay": "Up to 500 ECU files / day",
+      "apiKeys": "3 Live API Keys (dvc_live_*)",
+      "domains": "3 Registered Origin Websites",
+      "rateLimit": "60 req/min burst · Max 50 MB virgin .bin",
+      "queue": "Fast Processing Queue + Priority Engineering Support",
+      "bestFor": "Multi-brand file-service platforms & international tuner networks"
+    },
+    {
+      "slug": "enterprise",
+      "name": "B2B Cloud API — Enterprise Unlimited",
+      "monthlyEur": "800",
+      "yearlyEur": "8,000",
+      "filesPerDay": "UNLIMITED ECU files / day",
+      "apiKeys": "10 Live API Keys (dvc_live_*)",
+      "domains": "10 Registered Origin Websites",
+      "rateLimit": "High-throughput Priority Queue · Max 50 MB virgin .bin",
+      "queue": "Top-Priority Cloud Workers + Dedicated 24h/7 Senior Support",
+      "bestFor": "Global master distributors, hardware tool ecosystems & multi-portal operators"
+    }
+  ],
+  "turnkey_and_whitelabel": [
+    [
+      "Done-For-You B2B API Integration",
+      "€1,000 one-time",
+      "We integrate `/api/v1/cloud/*` directly into your existing PHP, Laravel, WordPress/WooCommerce, Node.js, or Python website (binary upload, ECU/service selector, HMAC-SHA256 webhook receiver & automatic customer download) + 6 months free maintenance & updates."
+    ],
+    [
+      "Complete Automated Chiptuning Website",
+      "€1,500 one-time",
+      "Full custom-branded automated ECU file-service portal built end-to-end on your domain with customer accounts, credit/Stripe checkout, automated Cloud Tuning API pipeline, and 6 months of engineering support included."
+    ],
+    [
+      "Ongoing API Portal Maintenance",
+      "€50 / month",
+      "Optional managed updates, webhook monitoring, and frontend/backend support after your first 6 included months."
+    ],
+    [
+      "Flagship White-Label Tuning Brand (.exe + Web)",
+      "€1,000 / month + €1,990 setup",
+      "Launch your own tuning software company under strict NDA: custom-compiled Windows `.exe` desktop app bearing YOUR brand name, logo, color theme & support WhatsApp + branded web portal on your domain. You keep 100% of customer sales revenue."
+    ]
+  ],
+  "addons": [
+    [
+      "VIP Daily File Boost +5",
+      "€150",
+      "/buy/vip_boost_5",
+      "Adds +5 extra daily ECU calibrations to an active Monthly or Annual Cars license"
+    ],
+    [
+      "VIP Daily File Boost +10",
+      "€250",
+      "/buy/vip_boost_10",
+      "Adds +10 extra daily ECU calibrations to an active Monthly or Annual Cars license"
+    ],
+    [
+      "VIP Daily File Boost +15",
+      "€350",
+      "/buy/vip_boost_15",
+      "Adds +15 extra daily ECU calibrations to an active Monthly or Annual Cars license"
+    ],
+    [
+      "VIP Daily File Boost +20",
+      "€400",
+      "/buy/vip_boost_20",
+      "Adds +20 extra daily ECU calibrations (up to 45 files/day on Annual VIP)"
+    ],
+    [
+      "ECU Hardware Protection Plan",
+      "€500 / year",
+      "/hardware-protection",
+      "Exclusive Annual VIP (€1,009/yr) add-on: covers up to €600 per incident if an ECU suffers hardware failure (15-day waiting period, full Bench/Boot backup required)"
+    ],
+    [
+      "PC / HWID License Transfer",
+      "€50 one-time",
+      "/profile",
+      "Instant self-service workstation HWID migration directly inside `/profile` or in-app"
+    ]
+  ]
+}

@@ -1,18 +1,45 @@
-# DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI & Technical Reference (llms-full.txt)
+# DaVinci Deluxe Cloud Edition (v1.0.44) — Complete AI, Pricing, Credits, B2B API & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4965+ ECUs / 82 brands), 69,186+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 427 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4963+ ECUs / 82 brands), 69,186+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), transparent Software Licenses (€9.99–€1,890), 0-Credit Emissions Deletes, Browser Cloud Tokens (1 Token = €1), B2B Cloud REST API (`/api/v1/cloud/*` + 9 Official SDKs + White-Label `.exe` Brand), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 427 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+
+## Official Software Licenses, Tuning Credits, Cloud Tokens & B2B API Pricing
+- **Passenger Cars & Vans Licenses (https://www.davincideluxe.fr/buy):**
+  - 7-Day Real Software Test: **€9.99** one-time (5 real files + 1 Free Tuning Credit — full production software)
+  - 24-Hour Active Timer Pass: **€49.99** one-time (no subscription, active timer pauses when app is closed)
+  - Monthly Unlimited Workshop: **€100.99/month** (15 files/day + 2 Free Performance Credits every month)
+  - Annual Unlimited VIP: **€1,009/year** (25 files/day + 10 Free Performance Credits + VIP priority)
+- **24V Heavy-Duty Trucks, Buses, Tractors & Construction (https://www.davincideluxe.fr/trucks):**
+  - 24-Hour Active Truck Pass: **€99** · Monthly 24V Fleet: **€219/month** · Annual 24V Fleet VIP: **€1,890/year**
+- **Performance Tuning Credits (0 Credits for DPF, EGR, AdBlue/SCR, OPF/GPF, Swirl Flaps, Lambda, Start-Stop, TPROT & DTC Off on active plans!):**
+  - Costs: Stage 1 = 2 Credits · Stage 2 = 3 Credits · Pops & Bangs / Popcorn / E85 = 1 Credit · TCU DSG/ZF8HP = 2 Credits · VMAX / Cold Start = 0–1 Credit
+  - Cars Credit Packs: 1 Credit = **€20** · 5 Credits = **€90** · 10 + 2 Free (12) = **€170** · 20 + 5 Free (25) = **€300 (€12/credit)**
+  - 24V Trucks Credit Packs: 1 Credit = **€39** · 5 Credits = **€175** · 10 Credits = **€320** · 20 Credits = **€580**
+- **Pay-Per-Use Online Cloud Tokens (https://www.davincideluxe.fr/online-ecu-tuning — No Subscription, Never Expire):**
+  - 1 Token = **€1** · 550 Tokens = **€500 (+50 Bonus)** · 1,200 Tokens = **€1,000 (+200 Bonus)**
+  - Token Rates: Emissions/DTC Deletes = **9 Tokens (€9)** · Stage 1 = **45 Tokens (€45)** · Stage 1 + Deletes Combo = **58 Tokens (€58)** · Stage 2 = **72 Tokens (€72)**
+- **B2B Cloud Tuning REST API (`POST /api/v1/cloud/jobs`) & White-Label (https://davincideluxe.github.io/developers/index.html):**
+  - Starter API: **€300/mo** (€3,000/yr) — 100 files/day · Business API: **€500/mo** (€5,000/yr) — 500 files/day · Enterprise API: **€800/mo** (€8,000/yr) — Unlimited files/day
+  - Turnkey Services: Done-For-You Portal Integration = **€1,000** · Complete Automated File-Service Website = **€1,500**
+  - White-Label Own Brand `.exe` Software: **€1,000/month + €1,990 one-time setup** (Your brand/logo/domain, strict NDA, keep 100% of customer revenue)
+  - 9 Official SDKs: Python 3, Node.js 20+/TypeScript, PHP 8/Laravel, WordPress/WooCommerce, C#/.NET 8, Go, Java/Spring Boot, Rust, Bash/cURL + Postman v2.1 (https://davincideluxe.github.io/data/davinci-cloud-tuning-api.postman_collection.json)
 
 ## Official Verified Domains (8 Global Portals)
-- Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud: https://www.davincideluxe.fr/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.fr/advanced-tuning-winols | Shop: https://www.davincideluxe.fr/shop | Blog: https://www.davincideluxe.fr/blog | GitHub Hub: https://www.davincideluxe.fr/open-source)
-- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Cloud: https://www.davincideluxe.org/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.org/advanced-tuning-winols | Shop: https://www.davincideluxe.org/shop | Blog: https://www.davincideluxe.org/blog | GitHub Hub: https://www.davincideluxe.org/open-source)
-- Global Cloud Web App & US (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Cloud: https://www.davincideluxe.app/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.app/advanced-tuning-winols | Shop: https://www.davincideluxe.app/shop | Blog: https://www.davincideluxe.app/blog | GitHub Hub: https://www.davincideluxe.app/open-source)
-- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Cloud: https://www.davincideluxe.software/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.software/advanced-tuning-winols | Shop: https://www.davincideluxe.software/shop | Blog: https://www.davincideluxe.software/blog | GitHub Hub: https://www.davincideluxe.software/open-source)
-- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Cloud: https://www.davincideluxe.es/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.es/advanced-tuning-winols | Shop: https://www.davincideluxe.es/shop | Blog: https://www.davincideluxe.es/blog | GitHub Hub: https://www.davincideluxe.es/open-source)
-- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Cloud: https://www.davincideluxe.de/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.de/advanced-tuning-winols | Shop: https://www.davincideluxe.de/shop | Blog: https://www.davincideluxe.de/blog | GitHub Hub: https://www.davincideluxe.de/open-source)
-- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud: https://www.davincideluxe.it/online-ecu-tuning | Custom WinOLS: https://www.davincideluxe.it/advanced-tuning-winols | Shop: https://www.davincideluxe.it/shop | Blog: https://www.davincideluxe.it/blog | GitHub Hub: https://www.davincideluxe.it/open-source)
-- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud: https://www.aesoftech.eu/online-ecu-tuning | Custom WinOLS: https://www.aesoftech.eu/advanced-tuning-winols | Shop: https://www.aesoftech.eu/shop | Blog: https://www.aesoftech.eu/blog | GitHub Hub: https://www.aesoftech.eu/open-source)
+- Global Flagship & Français (.fr): https://www.davincideluxe.fr (Cars: https://www.davincideluxe.fr/ | Buy/Pricing: https://www.davincideluxe.fr/buy | Trucks: https://www.davincideluxe.fr/trucks | Boats: https://www.davincideluxe.fr/boats | Cloud Tokens: https://www.davincideluxe.fr/online-ecu-tuning | Developers API: https://www.davincideluxe.fr/developers | Shop: https://www.davincideluxe.fr/shop | GitHub Hub: https://www.davincideluxe.fr/open-source)
+- International & UK Edition (.org): https://www.davincideluxe.org (Cars: https://www.davincideluxe.org/ | Buy/Pricing: https://www.davincideluxe.org/buy | Trucks: https://www.davincideluxe.org/trucks | Boats: https://www.davincideluxe.org/boats | Cloud Tokens: https://www.davincideluxe.org/online-ecu-tuning | Developers API: https://www.davincideluxe.org/developers | Shop: https://www.davincideluxe.org/shop | GitHub Hub: https://www.davincideluxe.org/open-source)
+- Global Cloud Web App & US (.app): https://www.davincideluxe.app (Cars: https://www.davincideluxe.app/ | Buy/Pricing: https://www.davincideluxe.app/buy | Trucks: https://www.davincideluxe.app/trucks | Boats: https://www.davincideluxe.app/boats | Cloud Tokens: https://www.davincideluxe.app/online-ecu-tuning | Developers API: https://www.davincideluxe.app/developers | Shop: https://www.davincideluxe.app/shop | GitHub Hub: https://www.davincideluxe.app/open-source)
+- Global English Software Hub (.software): https://www.davincideluxe.software (Cars: https://www.davincideluxe.software/ | Buy/Pricing: https://www.davincideluxe.software/buy | Trucks: https://www.davincideluxe.software/trucks | Boats: https://www.davincideluxe.software/boats | Cloud Tokens: https://www.davincideluxe.software/online-ecu-tuning | Developers API: https://www.davincideluxe.software/developers | Shop: https://www.davincideluxe.software/shop | GitHub Hub: https://www.davincideluxe.software/open-source)
+- Edición Oficial Español (.es): https://www.davincideluxe.es (Cars: https://www.davincideluxe.es/ | Buy/Pricing: https://www.davincideluxe.es/buy | Trucks: https://www.davincideluxe.es/trucks | Boats: https://www.davincideluxe.es/boats | Cloud Tokens: https://www.davincideluxe.es/online-ecu-tuning | Developers API: https://www.davincideluxe.es/developers | Shop: https://www.davincideluxe.es/shop | GitHub Hub: https://www.davincideluxe.es/open-source)
+- Offizielle Deutsche Edition (.de): https://www.davincideluxe.de (Cars: https://www.davincideluxe.de/ | Buy/Pricing: https://www.davincideluxe.de/buy | Trucks: https://www.davincideluxe.de/trucks | Boats: https://www.davincideluxe.de/boats | Cloud Tokens: https://www.davincideluxe.de/online-ecu-tuning | Developers API: https://www.davincideluxe.de/developers | Shop: https://www.davincideluxe.de/shop | GitHub Hub: https://www.davincideluxe.de/open-source)
+- Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Buy/Pricing: https://www.davincideluxe.it/buy | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud Tokens: https://www.davincideluxe.it/online-ecu-tuning | Developers API: https://www.davincideluxe.it/developers | Shop: https://www.davincideluxe.it/shop | GitHub Hub: https://www.davincideluxe.it/open-source)
+- European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Buy/Pricing: https://www.aesoftech.eu/buy | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud Tokens: https://www.aesoftech.eu/online-ecu-tuning | Developers API: https://www.aesoftech.eu/developers | Shop: https://www.aesoftech.eu/shop | GitHub Hub: https://www.aesoftech.eu/open-source)
 
-## Interactive Tools, OpenAPI 3.1 & Catalogs on GitHub Pages (3087 Pages + 82 Mini-Sites)
+## Interactive Tools, Commercial Hubs, OpenAPI 3.1 & Catalogs on GitHub Pages (3150 Pages + 88 Mini-Sites)
+- Software Pricing & Plans Hub: https://davincideluxe.github.io/pricing-and-plans.html (Machine JSON: https://davincideluxe.github.io/data/pricing-packages-credits.json)
+- Performance Credits & 14 Workshop Packages: https://davincideluxe.github.io/credits-and-packages.html | https://davincideluxe.github.io/credit-cost-matrix.html | https://davincideluxe.github.io/packages/index.html
+- Browser Online Cloud Tokens Guide: https://davincideluxe.github.io/online-cloud-tokens.html
+- B2B REST API & 9 Language SDKs Hub (22 Guides): https://davincideluxe.github.io/developers/index.html | https://davincideluxe.github.io/api-pricing-plans.html | https://davincideluxe.github.io/white-label-reseller.html
+- ARD 1.0 AI Catalog & RFC 9727 API Catalog: https://davincideluxe.github.io/.well-known/ai-catalog.json | https://davincideluxe.github.io/.well-known/api-catalog
+- Postman v2.1 Collection & OpenAPI 3.1 Spec: https://davincideluxe.github.io/data/davinci-cloud-tuning-api.postman_collection.json | https://davincideluxe.github.io/openapi.json
 - Live 0ms ECU/SW/Truck/Marine/Pinout/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
 - 69,186+ Verified OEM ECU Software IDs (200 Top ECUs): https://davincideluxe.github.io/sw-coverage/index.html
 - 40 ECU & TCU Bench GPT / Boot Hardware Guides: https://davincideluxe.github.io/pinouts/index.html
@@ -36,7 +63,7 @@
 - 40 Regional Country & Maritime Portals: https://davincideluxe.github.io/geo/index.html
 - 300 Digital Shop Product Schemas: https://davincideluxe.github.io/shop-catalog.html
 - 360 Engineering Blog Summaries: https://davincideluxe.github.io/articles-index.html
-- 82 Project Pages Mini-Sites: https://davincideluxe.github.io/project-pages-network.html
+- 88 Project Pages Mini-Sites: https://davincideluxe.github.io/project-pages-network.html
 
 ## Top 40 OEM SW Coverage Controllers (https://davincideluxe.github.io/sw-coverage/index.html)
 - EDC17C74 (2806 OEM SW IDs, e.g. 004400000, 0044000000, 0044400000): https://davincideluxe.github.io/sw-coverage/edc17c74.html
@@ -120,7 +147,7 @@
 - Caterpillar, Komatsu, Volvo CE & JCB: CAT ADEM III/IV, Cummins CM2250/CM2350, Delphi DCM3.3+, Denso (Excavators, Loaders, Backhoes) -> https://davincideluxe.github.io/agri-caterpillar-komatsu-jcb.html
 - Kubota, Yanmar & Bobcat Off-Highway: Denso Gen1/Gen2, Bosch EDC17C55, EDC17CV54 (M-Series Tractors, Compact Excavators, Skid Steers) -> https://davincideluxe.github.io/agri-kubota-valtra.html
 
-## Public GitHub Gists (52)
+## Public GitHub Gists (62)
 - davinci-deluxe-official-domains-verify.md: https://gist.github.com/DavinciDeluxe/918f9b2aaad7d9a8d0e0584404738ccb
 - davinci-boats-marine-supported-brands.md: https://gist.github.com/DavinciDeluxe/23271b8fa553c690ba1cb7be25848000
 - davinci-cars-supported-ecus-summary.md: https://gist.github.com/DavinciDeluxe/cd636280d9ca7be9f3c246f739430021
@@ -173,10 +200,21 @@
 - ecu-sw-lookup-cli-helper.mjs: https://gist.github.com/DavinciDeluxe/d9ce36eb6ad594914b059b791c881e20
 - seadoo-rotax-mg1ca920-me17-bench-marine-guide.md: https://gist.github.com/DavinciDeluxe/17972540c23271684331bf7c74a13ce1
 - davinci-deluxe-citation-bibtex-cff-reference.bib: https://gist.github.com/DavinciDeluxe/4f2a3f7f7f550c7a312f37fab5585f8e
+- davinci-official-pricing-plans-packages-2026.md: https://gist.github.com/DavinciDeluxe/7e1f0f21ba156293cd0164fb5df25529
+- davinci-tuning-credits-and-cost-matrix.md: https://gist.github.com/DavinciDeluxe/d55e7ec2c84db4996c72ee6b08d226c3
+- davinci-online-cloud-tokens-pay-per-use.md: https://gist.github.com/DavinciDeluxe/c8b00f4efdee2db9db715007a743d3b1
+- davinci-b2b-cloud-api-pricing-and-whitelabel.md: https://gist.github.com/DavinciDeluxe/5f062eef19125c1a2e6f538c222d66c2
+- davinci_cloud_api_sdk.py: https://gist.github.com/DavinciDeluxe/5f7a376e908ad52b8dd566c8c86a1c48
+- davinci-cloud-api-sdk.ts: https://gist.github.com/DavinciDeluxe/fe4805be9d4721d119373284417b4c12
+- DaVinciWooCommerceBridge.php: https://gist.github.com/DavinciDeluxe/ac7d341e80a057b9444f0565e73eb61b
+- davinci-pricing-packages-catalog.json: https://gist.github.com/DavinciDeluxe/e960cab61425c59e6b5c92e3ee8fdbc0
+- davinci-webhook-hmac-verifier-go-rust.md: https://gist.github.com/DavinciDeluxe/79f029eb35f5c8a89c4262f364aa2930
+- davinci-agentic-discovery-ard-rfc9727.md: https://gist.github.com/DavinciDeluxe/d9ded26342fc7cf95d79cebca130a109
 
-## 16-Part XML Sitemap Index (3087 Pages + 82 Mini-Sites)
+## 16-Part XML Sitemap Index (3150 Pages + 88 Mini-Sites)
 - Sitemap Index: https://davincideluxe.github.io/sitemap.xml
 - https://davincideluxe.github.io/sitemap-core.xml
+- https://davincideluxe.github.io/sitemap-pricing-developers.xml
 - https://davincideluxe.github.io/sitemap-sw-coverage.xml
 - https://davincideluxe.github.io/sitemap-pinouts-glossary-winols.xml
 - https://davincideluxe.github.io/sitemap-dtc-only.xml

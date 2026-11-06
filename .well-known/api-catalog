@@ -1,0 +1,44 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.davincideluxe.fr/api/v1/cloud",
+      "service-desc": [
+        {
+          "href": "https://davincideluxe.github.io/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://davincideluxe.github.io/developers/index.html",
+          "type": "text/html"
+        },
+        {
+          "href": "https://www.davincideluxe.fr/developers",
+          "type": "text/html"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://www.davincideluxe.fr/api/v1/cloud/health",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://www.davincideluxe.fr/api/check/catalog",
+      "service-desc": [
+        {
+          "href": "https://davincideluxe.github.io/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://davincideluxe.github.io/api-explorer.html",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}
