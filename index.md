@@ -19,7 +19,7 @@
 - **Edizione Ufficiale Italiana (.it):** https://www.davincideluxe.it
 - **European Engineering Portal (.eu):** https://www.aesoftech.eu
 
-## Primary Documentation Hubs (3150 Indexable HTML Pages + 88 Mini-Sites)
+## Primary Documentation Hubs (3151 Indexable HTML Pages + 88 Mini-Sites)
 - **Software Pricing, Credits & Cloud Tokens:** https://davincideluxe.github.io/pricing-and-plans.html | https://davincideluxe.github.io/credits-and-packages.html | https://davincideluxe.github.io/online-cloud-tokens.html
 - **B2B REST API, 9 SDKs & Postman v2.1:** https://davincideluxe.github.io/developers/index.html | https://davincideluxe.github.io/data/davinci-cloud-tuning-api.postman_collection.json
 - **ARD 1.0 & RFC 9727 Agent Discovery:** https://davincideluxe.github.io/.well-known/ai-catalog.json | https://davincideluxe.github.io/.well-known/api-catalog | https://davincideluxe.github.io/openapi.json

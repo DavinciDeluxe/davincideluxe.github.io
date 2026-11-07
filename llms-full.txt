@@ -1,6 +1,6 @@
 # DaVinci Deluxe Cloud Edition (v1.0.45) — Complete AI, Pricing, Credits, B2B API & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4973+ ECUs / 82 brands), 69,187+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), transparent Software Licenses (€9.99–€1,890), 0-Credit Emissions Deletes, Browser Cloud Tokens (1 Token = €1), B2B Cloud REST API (`/api/v1/cloud/*` + 9 Official SDKs + White-Label `.exe` Brand), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 427 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 360 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4973+ ECUs / 82 brands), 69,187+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), transparent Software Licenses (€9.99–€1,890), 0-Credit Emissions Deletes, Browser Cloud Tokens (1 Token = €1), B2B Cloud REST API (`/api/v1/cloud/*` + 9 Official SDKs + White-Label `.exe` Brand), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 427 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 361 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
 ## Official Software Licenses, Tuning Credits, Cloud Tokens & B2B API Pricing
 - **Passenger Cars & Vans Licenses (https://www.davincideluxe.fr/buy):**
@@ -33,7 +33,7 @@
 - Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Buy/Pricing: https://www.davincideluxe.it/buy | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud Tokens: https://www.davincideluxe.it/online-ecu-tuning | Developers API: https://www.davincideluxe.it/developers | Shop: https://www.davincideluxe.it/shop | GitHub Hub: https://www.davincideluxe.it/open-source)
 - European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Buy/Pricing: https://www.aesoftech.eu/buy | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud Tokens: https://www.aesoftech.eu/online-ecu-tuning | Developers API: https://www.aesoftech.eu/developers | Shop: https://www.aesoftech.eu/shop | GitHub Hub: https://www.aesoftech.eu/open-source)
 
-## Interactive Tools, Commercial Hubs, OpenAPI 3.1 & Catalogs on GitHub Pages (3150 Pages + 88 Mini-Sites)
+## Interactive Tools, Commercial Hubs, OpenAPI 3.1 & Catalogs on GitHub Pages (3151 Pages + 88 Mini-Sites)
 - Software Pricing & Plans Hub: https://davincideluxe.github.io/pricing-and-plans.html (Machine JSON: https://davincideluxe.github.io/data/pricing-packages-credits.json)
 - Performance Credits & 14 Workshop Packages: https://davincideluxe.github.io/credits-and-packages.html | https://davincideluxe.github.io/credit-cost-matrix.html | https://davincideluxe.github.io/packages/index.html
 - Browser Online Cloud Tokens Guide: https://davincideluxe.github.io/online-cloud-tokens.html
@@ -62,7 +62,7 @@
 - 25 Automatic Transmission TCU Models (DSG / ZF8HP / 9G / PDK / I-Shift): https://davincideluxe.github.io/tcu/index.html
 - 40 Regional Country & Maritime Portals: https://davincideluxe.github.io/geo/index.html
 - 300 Digital Shop Product Schemas: https://davincideluxe.github.io/shop-catalog.html
-- 360 Engineering Blog Summaries: https://davincideluxe.github.io/articles-index.html
+- 361 Engineering Blog Summaries: https://davincideluxe.github.io/articles-index.html
 - 88 Project Pages Mini-Sites: https://davincideluxe.github.io/project-pages-network.html
 
 ## Top 40 OEM SW Coverage Controllers (https://davincideluxe.github.io/sw-coverage/index.html)
@@ -211,7 +211,7 @@
 - davinci-webhook-hmac-verifier-go-rust.md: https://gist.github.com/DavinciDeluxe/79f029eb35f5c8a89c4262f364aa2930
 - davinci-agentic-discovery-ard-rfc9727.md: https://gist.github.com/DavinciDeluxe/d9ded26342fc7cf95d79cebca130a109
 
-## 16-Part XML Sitemap Index (3150 Pages + 88 Mini-Sites)
+## 16-Part XML Sitemap Index (3151 Pages + 88 Mini-Sites)
 - Sitemap Index: https://davincideluxe.github.io/sitemap.xml
 - https://davincideluxe.github.io/sitemap-core.xml
 - https://davincideluxe.github.io/sitemap-pricing-developers.xml
