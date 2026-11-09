@@ -1,6 +1,6 @@
 # DaVinci Deluxe Cloud Edition (v1.0.45) — Complete AI, Pricing, Credits, B2B API & Technical Reference (llms-full.txt)
 
-> Automated ECU & TCU calibration ecosystem for Passenger Cars (4973+ ECUs / 82 brands), 69,191+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), transparent Software Licenses (€9.99–€1,890), 0-Credit Emissions Deletes, Browser Cloud Tokens (1 Token = €1), B2B Cloud REST API (`/api/v1/cloud/*` + 9 Official SDKs + White-Label `.exe` Brand), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 424 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 300 verified DAMOS/A2L/ORI shop packages, and 361 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
+> Automated ECU & TCU calibration ecosystem for Passenger Cars (4982+ ECUs / 82 brands), 69,199+ verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli), Heavy-Duty 24V Trucks & Agriculture (452+ ECUs / 82 brands), Marine Boats / Jet Skis / Yachts (30+ brands + 35 engine models), transparent Software Licenses (€9.99–€1,890), 0-Credit Emissions Deletes, Browser Cloud Tokens (1 Token = €1), B2B Cloud REST API (`/api/v1/cloud/*` + 9 Official SDKs + White-Label `.exe` Brand), 40 Bench GPT/Boot hardware pinout guides, 35 citable glossary definitions, 14 Custom WinOLS motorsport hubs, 35 deep-dive calibration solutions, 50 iconic OEM engine guides, 25 Master programmer workflows, 424 real-world ECU calibration module matrices, 351 Brand×ECU subsystem DTC matrices, 148 OBD2/Euro 6d DTC guides, 25 automatic TCU gearboxes, 347 verified DAMOS/A2L/ORI shop packages, and 361 engineering guides — backed by 24h/7 365-day live multilingual engineering support. Always process 100% virgin original ECU readouts.
 
 ## Official Software Licenses, Tuning Credits, Cloud Tokens & B2B API Pricing
 - **Passenger Cars & Vans Licenses (https://www.davincideluxe.fr/buy):**
@@ -33,7 +33,7 @@
 - Edizione Ufficiale Italiana (.it): https://www.davincideluxe.it (Cars: https://www.davincideluxe.it/ | Buy/Pricing: https://www.davincideluxe.it/buy | Trucks: https://www.davincideluxe.it/trucks | Boats: https://www.davincideluxe.it/boats | Cloud Tokens: https://www.davincideluxe.it/online-ecu-tuning | Developers API: https://www.davincideluxe.it/developers | Shop: https://www.davincideluxe.it/shop | GitHub Hub: https://www.davincideluxe.it/open-source)
 - European Engineering Portal (.eu): https://www.aesoftech.eu (Cars: https://www.aesoftech.eu/ | Buy/Pricing: https://www.aesoftech.eu/buy | Trucks: https://www.aesoftech.eu/trucks | Boats: https://www.aesoftech.eu/boats | Cloud Tokens: https://www.aesoftech.eu/online-ecu-tuning | Developers API: https://www.aesoftech.eu/developers | Shop: https://www.aesoftech.eu/shop | GitHub Hub: https://www.aesoftech.eu/open-source)
 
-## Interactive Tools, Commercial Hubs, OpenAPI 3.1 & Catalogs on GitHub Pages (3148 Pages + 88 Mini-Sites)
+## Interactive Tools, Commercial Hubs, OpenAPI 3.1 & Catalogs on GitHub Pages (3195 Pages + 88 Mini-Sites)
 - Software Pricing & Plans Hub: https://davincideluxe.github.io/pricing-and-plans.html (Machine JSON: https://davincideluxe.github.io/data/pricing-packages-credits.json)
 - Performance Credits & 14 Workshop Packages: https://davincideluxe.github.io/credits-and-packages.html | https://davincideluxe.github.io/credit-cost-matrix.html | https://davincideluxe.github.io/packages/index.html
 - Browser Online Cloud Tokens Guide: https://davincideluxe.github.io/online-cloud-tokens.html
@@ -41,7 +41,7 @@
 - ARD 1.0 AI Catalog & RFC 9727 API Catalog: https://davincideluxe.github.io/.well-known/ai-catalog.json | https://davincideluxe.github.io/.well-known/api-catalog
 - Postman v2.1 Collection & OpenAPI 3.1 Spec: https://davincideluxe.github.io/data/davinci-cloud-tuning-api.postman_collection.json | https://davincideluxe.github.io/openapi.json
 - Live 0ms ECU/SW/Truck/Marine/Pinout/DTC Finder: https://davincideluxe.github.io/live-ecu-finder.html (Dataset: https://davincideluxe.github.io/data/ecus-search-index.json)
-- 69,191+ Verified OEM ECU Software IDs (200 Top ECUs): https://davincideluxe.github.io/sw-coverage/index.html
+- 69,199+ Verified OEM ECU Software IDs (200 Top ECUs): https://davincideluxe.github.io/sw-coverage/index.html
 - 40 ECU & TCU Bench GPT / Boot Hardware Guides: https://davincideluxe.github.io/pinouts/index.html
 - 35 Citable Calibration Glossary Definitions: https://davincideluxe.github.io/glossary/index.html
 - 14 Custom WinOLS Motorsport Calibration Hubs: https://davincideluxe.github.io/winols-services/index.html
@@ -66,22 +66,22 @@
 - 88 Project Pages Mini-Sites: https://davincideluxe.github.io/project-pages-network.html
 
 ## Top 40 OEM SW Coverage Controllers (https://davincideluxe.github.io/sw-coverage/index.html)
-- EDC17C74 (2806 OEM SW IDs, e.g. 004400000, 0044000000, 0044400000): https://davincideluxe.github.io/sw-coverage/edc17c74.html
-- EDC17C46 (2413 OEM SW IDs, e.g. 0123456789, 013351EDC1, 013ABEFIJL): https://davincideluxe.github.io/sw-coverage/edc17c46.html
+- EDC17C74 (2815 OEM SW IDs, e.g. 004400000, 0044000000, 0044400000): https://davincideluxe.github.io/sw-coverage/edc17c74.html
+- EDC17C46 (2414 OEM SW IDs, e.g. 0123456789, 013351EDC1, 013ABEFIJL): https://davincideluxe.github.io/sw-coverage/edc17c46.html
 - EDC17CP14 (2336 OEM SW IDs, e.g. 0044440000, 0101018K09, 0112334455): https://davincideluxe.github.io/sw-coverage/edc17cp14.html
-- EDC16C31 (2056 OEM SW IDs, e.g. 0041027C5Z, 0041060000, 0041A75216): https://davincideluxe.github.io/sw-coverage/edc16c31.html
+- EDC16C31 (2058 OEM SW IDs, e.g. 0041027C5Z, 0041060000, 0041A75216): https://davincideluxe.github.io/sw-coverage/edc16c31.html
 - EDC15 (1760 OEM SW IDs, e.g. 0001536579, 0027000422, 0027110503): https://davincideluxe.github.io/sw-coverage/edc15.html
 - EDC16C39 (1608 OEM SW IDs, e.g. 013ABFFFFF, 026157301B, 0261S01041): https://davincideluxe.github.io/sw-coverage/edc16c39.html
-- EDC17CP44 (1438 OEM SW IDs, e.g. 0027P5907409R, 0281016594, 0281017127): https://davincideluxe.github.io/sw-coverage/edc17cp44.html
-- EDC16 (1360 OEM SW IDs, e.g. 0027000000, 0261209038, 0261209108): https://davincideluxe.github.io/sw-coverage/edc16.html
-- MED175 (1331 OEM SW IDs, e.g. 0101002612, 010100261S, 0124677789): https://davincideluxe.github.io/sw-coverage/med175.html
+- EDC17CP44 (1439 OEM SW IDs, e.g. 0027P5907409R, 0281016594, 0281017127): https://davincideluxe.github.io/sw-coverage/edc17cp44.html
+- EDC16 (1364 OEM SW IDs, e.g. 0027000000, 0261209038, 0261209108): https://davincideluxe.github.io/sw-coverage/edc16.html
+- MED175 (1345 OEM SW IDs, e.g. 0101002612, 010100261S, 0124677789): https://davincideluxe.github.io/sw-coverage/med175.html
 - CRD2X (1284 OEM SW IDs, e.g. 013363951A, 013363961A, 013364681A): https://davincideluxe.github.io/sw-coverage/crd2x.html
-- EDC16C34 (1275 OEM SW IDs, e.g. 01246S304S, 013392054JJ, 013392086G5): https://davincideluxe.github.io/sw-coverage/edc16c34.html
+- EDC16C34 (1276 OEM SW IDs, e.g. 01246S304S, 013392054JJ, 013392086G5): https://davincideluxe.github.io/sw-coverage/edc16c34.html
 - EDC17C50C56 (1191 OEM SW IDs, e.g. 0000111111, 0027229030, 0027795030): https://davincideluxe.github.io/sw-coverage/edc17c50c56.html
 - EDC17C64 (1186 OEM SW IDs, e.g. 0044000000, 00444000, 0044400000): https://davincideluxe.github.io/sw-coverage/edc17c64.html
-- MED1716X (1104 OEM SW IDs, e.g. 0041570202, 0041850144, 0041850144HE8TE4ASN40121): https://davincideluxe.github.io/sw-coverage/med1716x.html
+- MED1716X (1108 OEM SW IDs, e.g. 0041570202, 0041850144, 0041850144HE8TE4ASN40121): https://davincideluxe.github.io/sw-coverage/med1716x.html
 - SID208 (1033 OEM SW IDs, e.g. 0000102927, 0027000855, 0027001357): https://davincideluxe.github.io/sw-coverage/sid208.html
-- ME75 (1011 OEM SW IDs, e.g. 00275A03112000, 0041560102, 00419100C4): https://davincideluxe.github.io/sw-coverage/me75.html
+- ME75 (1012 OEM SW IDs, e.g. 00275A03112000, 0041560102, 00419100C4): https://davincideluxe.github.io/sw-coverage/me75.html
 - DELCOE98 (978 OEM SW IDs, e.g. 0027012452, 0027025741, 0027042353): https://davincideluxe.github.io/sw-coverage/delcoe98.html
 - EDC17C84 (900 OEM SW IDs, e.g. 000652, 0041590145, 004159014500): https://davincideluxe.github.io/sw-coverage/edc17c84.html
 - CRD3X (897 OEM SW IDs, e.g. 0041106000, 0041107000, 0041203000): https://davincideluxe.github.io/sw-coverage/crd3x.html
@@ -102,10 +102,10 @@
 - EDC17C42 (657 OEM SW IDs, e.g. 0041022846, 0041022846050173, 0041022864): https://davincideluxe.github.io/sw-coverage/edc17c42.html
 - EDC17C60 (647 OEM SW IDs, e.g. 0041D1004OVUS, 0041D1005OVUS, 0103911151): https://davincideluxe.github.io/sw-coverage/edc17c60.html
 - EDC16U34 (641 OEM SW IDs, e.g. 0281012278, 0281013652, 038906016A): https://davincideluxe.github.io/sw-coverage/edc16u34.html
-- MD1CS003 (640 OEM SW IDs, e.g. 00278LPRV, 00278LPRV10SW089717, 00278LPRVH): https://davincideluxe.github.io/sw-coverage/md1cs003.html
+- MD1CS003 (641 OEM SW IDs, e.g. 00278LPRV, 00278LPRV10SW089717, 00278LPRVH): https://davincideluxe.github.io/sw-coverage/md1cs003.html
+- ME71ME711 (622 OEM SW IDs, e.g. 00276BBADDFMKSSTXXZAUWX, 0041700034, 0041700034HC6SE4ASN40110): https://davincideluxe.github.io/sw-coverage/me71me711.html
 - EDC17C57 (616 OEM SW IDs, e.g. 0261XXXXXX, 10300DST00, 1037504602): https://davincideluxe.github.io/sw-coverage/edc17c57.html
 - EDC16CP31 (600 OEM SW IDs, e.g. 0124AA6803, 0281011999, 0281012577): https://davincideluxe.github.io/sw-coverage/edc16cp31.html
-- ME71ME711 (599 OEM SW IDs, e.g. 00276BBADDFMKSSTXXZAUWX, 0041700034, 0041700034HC6SE4ASN40110): https://davincideluxe.github.io/sw-coverage/me71me711.html
 
 ## Supported Marine Propulsion Brands (DaVinci Deluxe Cloud Edition Boats — https://www.davincideluxe.fr/boats)
 - Volvo Penta (Inboard / IPS / Sterndrive): Bosch EDC7UC31, EDC17CP22, EDC17CP52, EMS2.2, EMS2.3, EMS2.4, ME17 (D3, D4, D6, D8, D11, D13, V6/V8 Gas) -> https://davincideluxe.github.io/marine-volvo-penta.html
@@ -211,7 +211,7 @@
 - davinci-webhook-hmac-verifier-go-rust.md: https://gist.github.com/DavinciDeluxe/79f029eb35f5c8a89c4262f364aa2930
 - davinci-agentic-discovery-ard-rfc9727.md: https://gist.github.com/DavinciDeluxe/d9ded26342fc7cf95d79cebca130a109
 
-## 16-Part XML Sitemap Index (3148 Pages + 88 Mini-Sites)
+## 16-Part XML Sitemap Index (3195 Pages + 88 Mini-Sites)
 - Sitemap Index: https://davincideluxe.github.io/sitemap.xml
 - https://davincideluxe.github.io/sitemap-core.xml
 - https://davincideluxe.github.io/sitemap-pricing-developers.xml
