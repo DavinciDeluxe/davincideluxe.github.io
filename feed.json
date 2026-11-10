@@ -3,7 +3,7 @@
   "title": "DaVinci Deluxe Cloud Edition (v1.0.45) — Official ECU, OEM SW, 24V Truck & Marine Feed",
   "home_page_url": "https://davincideluxe.github.io/",
   "feed_url": "https://davincideluxe.github.io/feed.json",
-  "description": "Machine-readable feed covering 3195+ technical guides, 69,199+ OEM SW IDs, 40 Bench GPT pinouts, 24V Trucks & Marine Boats.",
+  "description": "Machine-readable feed covering 3200+ technical guides, 69,204+ OEM SW IDs, 40 Bench GPT pinouts, 24V Trucks & Marine Boats.",
   "icon": "https://davincideluxe.github.io/favicon.svg",
   "authors": [
     {
@@ -18,952 +18,952 @@
       "url": "https://davincideluxe.github.io/",
       "title": "DaVinci Deluxe Cloud Edition v1.0.45 — Cars, 24V Trucks & Marine Boats ECU Tuning",
       "summary": "Automated DPF Off, EGR Off, AdBlue/SCR Off, DTC Off, Stage 1/2, TCU & Online Checksum across 4,962+ Car ECUs, 452+ Truck ECUs & 30+ Marine Boat brands. 24h/7 Live Support 365 days/year.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/car-catalog/index.html",
       "url": "https://davincideluxe.github.io/car-catalog/index.html",
-      "title": "All 79 Supported Car & Light Van Brands (4982+ ECUs) — DaVinci Deluxe Cloud Edition (v1.0.45)",
-      "summary": "Complete A–Z manufacturer directory of all 79 Passenger Car, Supercar, SUV & Light Commercial Van brands (4982+ ECUs) supported in DaVinci Deluxe Cloud Edition.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "title": "All 79 Supported Car & Light Van Brands (4998+ ECUs) — DaVinci Deluxe Cloud Edition (v1.0.45)",
+      "summary": "Complete A–Z manufacturer directory of all 79 Passenger Car, Supercar, SUV & Light Commercial Van brands (4998+ ECUs) supported in DaVinci Deluxe Cloud Edition.",
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/truck-catalog/index.html",
       "url": "https://davincideluxe.github.io/truck-catalog/index.html",
       "title": "All 82 Supported 24V Truck, Bus, Agriculture & Construction Brands (452+ ECUs) — DaVinci Deluxe Cloud Edition Trucks",
       "summary": "Complete A–Z heavy-duty 24V commercial truck, coach/bus, tractor/harvester & construction machinery directory (82 brands · 452+ ECUs) in DaVinci Deluxe Cloud Edition Trucks.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/live-ecu-finder.html",
       "url": "https://davincideluxe.github.io/live-ecu-finder.html",
       "title": "Interactive Live ECU, OEM SW, 24V Truck, Marine Boat & DTC Compatibility Finder — DaVinci Deluxe Cloud Edition (v1.0.45)",
-      "summary": "Instant 0ms search across 4982+ Car ECUs, 69199+ OEM SW IDs, 452+ 24V Truck/Tractor ECUs, 30+ Marine Boat brands, 40 Bench Pinouts & 150 OBD2 DTC codes.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "summary": "Instant 0ms search across 4998+ Car ECUs, 69204+ OEM SW IDs, 452+ 24V Truck/Tractor ECUs, 30+ Marine Boat brands, 40 Bench Pinouts & 150 OBD2 DTC codes.",
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/ecu-dtc/index.html",
       "url": "https://davincideluxe.github.io/ecu-dtc/index.html",
       "title": "351 Verified Brand × ECU Diagnostic Trouble Code (DTC) Matrices — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Exact OBD2 & manufacturer fault code tables mapped by subsystem (DPF, EGR, AdBlue/SCR, NOx, Lambda, Swirl Flaps, TVA, MAF) across 351 ECU controllers in DaVinci Deluxe Cloud Edition.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/ecu-modules/index.html",
       "url": "https://davincideluxe.github.io/ecu-modules/index.html",
-      "title": "Top 424 Workshop ECU & TCU Calibration Module Matrices — DaVinci Deluxe Cloud Edition (v1.0.45)",
-      "summary": "Verified automated calibration module matrices (Stage 1/2, DPF, EGR, AdBlue/SCR, GPF/OPF, Swirl Flaps, TVA, Pops & Bangs, VMAX, TCU) across 424 high-volume ECUs.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "title": "Top 428 Workshop ECU & TCU Calibration Module Matrices — DaVinci Deluxe Cloud Edition (v1.0.45)",
+      "summary": "Verified automated calibration module matrices (Stage 1/2, DPF, EGR, AdBlue/SCR, GPF/OPF, Swirl Flaps, TVA, Pops & Bangs, VMAX, TCU) across 428 high-volume ECUs.",
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/marine-engines/index.html",
       "url": "https://davincideluxe.github.io/marine-engines/index.html",
       "title": "35 Featured Marine Outboard, Jet Ski, Sterndrive & Superyacht Engine ECU Guides — DaVinci Deluxe Cloud Edition Boats (v1.0.45)",
       "summary": "Engine-specific marine ECU calibration guides for Volvo Penta D3/D4/D6/D8/D11/D13 IPS, Mercury Verado V8/V10/V12/450R/500R, Yamaha F300/XTO/SVHO, Sea-Doo Rotax 300/325, Yanmar, Cummins, CAT, MTU & MAN Marine.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/agri/index.html",
       "url": "https://davincideluxe.github.io/agri/index.html",
       "title": "Agricultural Tractor, Combine Harvester, Forestry & Construction ECU Tuning (42 Guides) — DaVinci Deluxe Cloud Edition Trucks",
       "summary": "Dedicated off-highway ECU calibration guides for John Deere, New Holland, Case IH, Fendt, Massey Ferguson, Valtra, CLAAS, Deutz-Fahr, CAT, Komatsu, Volvo CE, JCB & Kubota.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/ecu-services/index.html",
       "url": "https://davincideluxe.github.io/ecu-services/index.html",
       "title": "140 ECU Family × Calibration Service Engineering Guides (Bosch, Continental, Delphi, Denso, Marelli, Hitachi) — DaVinci Deluxe Cloud Edition",
       "summary": "Complete 20 ECU Families × 7 Calibration Services matrix (140 technical guides) covering Bosch EDC15/16/17/MD1/MG1/MED17/MEVD17, Continental SID/SIMOS/PCR2.1, Delphi DCM, Denso & Marelli.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/tcu/index.html",
       "url": "https://davincideluxe.github.io/tcu/index.html",
       "title": "25 Automatic Gearbox & Dual-Clutch TCU Calibration Guides (VAG DSG, ZF 6HP/8HP, Mercedes 9G, BMW DKG, PDK & 24V) — DaVinci Deluxe Cloud Edition",
       "summary": "Complete TCU transmission tuning directory covering VAG DQ200/DQ250/DQ381/DQ500/DL382/DL501, ZF 6HP/8HP, Mercedes 7G/9G-Tronic, BMW M-DCT, Porsche PDK, Ford 10R80 & 24V Truck gearboxes.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/geo/index.html",
       "url": "https://davincideluxe.github.io/geo/index.html",
       "title": "40 Global Country, Fleet & Yachting Regional ECU Portals — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Localized country and maritime hub portals connecting automotive workshops, 24V truck fleets, agricultural dealers & marine boatyards to the 8 official DaVinci Deluxe Cloud Edition domains.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/index.html",
       "url": "https://davincideluxe.github.io/solutions/index.html",
       "title": "35 Automated ECU & TCU Calibration Solutions (Stage 1/2, DPF, EGR, AdBlue, OPF, Pops & Bangs, Immo) — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Complete engineering directory of all 35 automated ECU & TCU calibration modules in DaVinci Deluxe Cloud Edition (v1.0.45) across Cars, 24V Trucks, Tractors & Marine Boats.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/engines/index.html",
       "url": "https://davincideluxe.github.io/engines/index.html",
       "title": "50 Iconic Diesel, Petrol, 24V Truck & Marine Engine Code ECU Tuning Guides — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Reference matrix of 50 high-demand OEM engines (EA288, EA888, B58, S58, OM654, 1.5 BlueHDi DV5, 2.3 dCi M9T, 1GD-FTV, Volvo D13K, Scania DC16, Rotax 1630) and their ECUs.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/programmers/index.html",
       "url": "https://davincideluxe.github.io/programmers/index.html",
       "title": "25 ECU & TCU Hardware Programmer Workflows (Autotuner, KESS3, Flex, PCMflash, CMDFlash, bFlash, FoxFlash) — DaVinci Deluxe Cloud Edition",
       "summary": "Official binary readout, Virtual Read (VR), Bench GPT & checksum integration guides for 25 Master ECU/TCU programmers paired with DaVinci Deluxe Cloud Edition (v1.0.45).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/index.html",
       "url": "https://davincideluxe.github.io/sw-coverage/index.html",
-      "title": "69,199+ Verified OEM ECU Software IDs (SW) Database — Bosch 1037/10SW, Continental, Delphi, Denso & Marelli | DaVinci Deluxe Cloud Edition (v1.0.45)",
-      "summary": "Search 69,199+ verified factory ECU Software Numbers (SW / CAL-ID) and 204,230+ calibrated ECU×Service combinations across 200 flagship controllers in DaVinci Deluxe Cloud Edition (v1.0.45).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "title": "69,204+ Verified OEM ECU Software IDs (SW) Database — Bosch 1037/10SW, Continental, Delphi, Denso & Marelli | DaVinci Deluxe Cloud Edition (v1.0.45)",
+      "summary": "Search 69,204+ verified factory ECU Software Numbers (SW / CAL-ID) and 204,280+ calibrated ECU×Service combinations across 200 flagship controllers in DaVinci Deluxe Cloud Edition (v1.0.45).",
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/index.html",
       "url": "https://davincideluxe.github.io/pinouts/index.html",
       "title": "40 ECU & TCU Bench GPT (GPT1/GPT2), Tricore BSL & MCU Hardware Architecture Guides — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Reference directory of 40 flagship Engine ECU & Automatic TCU controllers: Microcontroller (Tricore/SPC58/Aurix/MPC/RH850), Flash/EEPROM memory sizes, Bench GPT & Boot modes, and stabilized bench voltage.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/glossary/index.html",
       "url": "https://davincideluxe.github.io/glossary/index.html",
       "title": "35 Automotive ECU, TCU, 24V & Marine Calibration Glossary Definitions — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Authoritative engineering definitions for DAMOS/A2L, 100% Virgin ORI, Bench GPT, TPROT, CVN, Virtual Read, SCR Inducement, OPF/GPF, Nm-to-IQ, LP-EGR, DSG Clamping, ZF 8HP & 24V ACM/MCM.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/winols-services/index.html",
       "url": "https://davincideluxe.github.io/winols-services/index.html",
       "title": "Custom WinOLS Motorsport & Bespoke Dyno Calibration Catalog (14 Brand Hubs · 64 Services) — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Official bespoke WinOLS & DAMOS custom calibration catalog by Roland & The DaVinci Deluxe Engineering Team: Stage 1/2/3, Big Turbo, FlexFuel E85, CPC_NG, DSG/ZF8HP TCU & Motorsport builds.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pricing-and-plans.html",
       "url": "https://davincideluxe.github.io/pricing-and-plans.html",
       "title": "Official Pricing, Software Licenses & Packages (€9.99–€1,890) — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Verified 2026 pricing for DaVinci Deluxe Cloud Edition (v1.0.45): €9.99 7-Day Real Test, €49.99 24h Active Pass, €100.99/mo Monthly Unlimited, €1,009/yr Annual VIP, 24V Trucks (€99/€219/€1,890), Marine Boats & Add-Ons.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/credits-and-packages.html",
       "url": "https://davincideluxe.github.io/credits-and-packages.html",
       "title": "Performance Tuning Credit Packs (€20–€300+5 Free) & Workshop ROI Calculator — DaVinci Deluxe (v1.0.45)",
       "summary": "Never-expiring Performance Tuning Credit packs for Stage 1/2/3, Pops & Bangs, HardCut, E85 & VMAX (€20 single to €300 for 25 credits = €12/credit) + 24V Truck Credit packs.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/online-cloud-tokens.html",
       "url": "https://davincideluxe.github.io/online-cloud-tokens.html",
       "title": "Pay-Per-Use Online Cloud Tuning Tokens (€9 Deletes · €45 Stage 1 · 550 & 1,200 Packs) — DaVinci Deluxe (v1.0.45)",
       "summary": "Calibrate virgin ECU binaries directly in your browser with zero software subscription: 1 Token = €1, tokens never expire, DPF/EGR/AdBlue/DTC = 9 Tokens (€9), Stage 1 = 45 Tokens (€45), Combo = 58 Tokens (€58).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/api-pricing-plans.html",
       "url": "https://davincideluxe.github.io/api-pricing-plans.html",
       "title": "B2B Cloud Tuning REST API Pricing (€300 / €500 / €800 mo) & Turnkey Portal Builds — DaVinci Deluxe (v1.0.45)",
       "summary": "Official B2B Cloud Tuning API subscriptions: Starter €300/mo (100 files/day), Business €500/mo (500 files/day), Enterprise €800/mo (Unlimited), Annual 2-months-free, €1,000 Done-For-You Integration & €1,500 Automated Website.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/white-label-reseller.html",
       "url": "https://davincideluxe.github.io/white-label-reseller.html",
       "title": "White-Label ECU Tuning Software Brand (.exe + Custom Domain — €1,000/mo) & Reseller Program | DaVinci Deluxe",
       "summary": "Launch your own branded chiptuning software (.exe desktop app with your logo, colors & WhatsApp + custom website) under strict NDA (€1,000/mo + €1,990 setup; keep 100% of sales) or join the Official Reseller Program.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/index.html",
       "url": "https://davincideluxe.github.io/packages/index.html",
       "title": "All 13 Official Licenses, Credit Bundles, Token Packs & B2B API Packages — DaVinci Deluxe (v1.0.45)",
       "summary": "Complete product catalog of all 13 official DaVinci Deluxe Cloud Edition licenses, 24V Truck plans, Tuning Credit bundles, Cloud Token packs, VIP Daily Boosts & B2B API subscriptions.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/index.html",
       "url": "https://davincideluxe.github.io/developers/index.html",
       "title": "B2B Cloud Tuning REST API Documentation, 9 Language SDKs, Webhooks & OpenAPI 3.1 — DaVinci Deluxe (v1.0.45)",
       "summary": "Complete developer documentation for https://www.davincideluxe.fr/api/v1/cloud/*: Bearer authentication, POST /jobs multipart upload, HMAC-SHA256 webhooks, OpenAPI 3.1, Postman v2.1 & SDKs for Python, Node/TS, PHP/Laravel, WooCommerce, C#, Go, Java & Rust.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/index.html",
       "url": "https://davincideluxe.github.io/developers/index.html",
       "title": "B2B Cloud Tuning REST API Documentation, 9 Language SDKs, Webhooks & OpenAPI 3.1 — DaVinci Deluxe (v1.0.45)",
       "summary": "Complete developer documentation for https://www.davincideluxe.fr/api/v1/cloud/*: Bearer authentication, POST /jobs multipart upload, HMAC-SHA256 webhooks, OpenAPI 3.1, Postman v2.1 & SDKs for Python, Node/TS, PHP/Laravel, WooCommerce, C#, Go, Java & Rust.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/authentication-and-domains.html",
       "url": "https://davincideluxe.github.io/developers/authentication-and-domains.html",
       "title": "Authentication, Bearer Keys (dvc_live_*) & Origin Domain Lock — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Bearer token authentication, registered website domain lock, TLS requirements, and subscription status headers (`X-DvC-Subscription-Status`) for `/api/v1/cloud/*`.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/submit-tuning-job.html",
       "url": "https://davincideluxe.github.io/developers/submit-tuning-job.html",
       "title": "POST /api/v1/cloud/jobs — Submit Virgin ECU Binary Calibration Job — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Multipart/form-data upload reference for `POST /api/v1/cloud/jobs`: `file` (max 50 MB virgin `.bin`), `ecu_brand`, `ecu_family`, `fuel_type`, `services`, `tuning_options`, `dtc_codes`, `webhook_url` & `metadata`.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/job-status-and-polling.html",
       "url": "https://davincideluxe.github.io/developers/job-status-and-polling.html",
       "title": "GET /api/v1/cloud/jobs/:id & Job History Pagination — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Lifecycle states (`queued` → `processing` → `done` | `error` | `rejected`), exponential backoff polling, and paginated `GET /api/v1/cloud/jobs` listing.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/download-tuned-file.html",
       "url": "https://davincideluxe.github.io/developers/download-tuned-file.html",
       "title": "GET /api/v1/cloud/jobs/:id/result & Support Ticket Reporting — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Stream calibrated + checksum-verified `.bin` output and submit engineering feedback via `POST /api/v1/cloud/jobs/:id/report`.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/webhooks-hmac-security.html",
       "url": "https://davincideluxe.github.io/developers/webhooks-hmac-security.html",
       "title": "HMAC-SHA256 Webhook Signatures (X-DvC-Signature) & SSRF Guard — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Cryptographic verification of `X-DvC-Signature` using your `whsec_*` secret, constant-time comparison, replay protection, and registered HTTPS callback rules.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/ecu-coverage-and-dtc-endpoints.html",
       "url": "https://davincideluxe.github.io/developers/ecu-coverage-and-dtc-endpoints.html",
       "title": "GET /api/v1/cloud/coverage & GET /api/v1/cloud/dtc Live Discovery — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Populate dynamic vehicle/ECU dropdowns and validate OBD2/UDS/J1939 fault codes programmatically before job submission.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/rate-limits-and-error-codes.html",
       "url": "https://davincideluxe.github.io/developers/rate-limits-and-error-codes.html",
       "title": "Rate Limits (60 req/min), Daily Quotas & HTTP Error Codes — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Deterministic handling of `400`, `401`, `403`, `413`, `415`, `422`, `429` & `503` responses, daily plan caps (100 / 500 / Unlimited), and retry-after headers.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/service-codes-reference.html",
       "url": "https://davincideluxe.github.io/developers/service-codes-reference.html",
       "title": "Canonical Service & Tuning Option Codes (`services` + `tuning_options`) — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Exact machine slugs accepted by `POST /api/v1/cloud/jobs` across Emissions, Sensors, Actuators, Stage 1/2/3, Acoustics, E85, VMAX & TCU.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-python.html",
       "url": "https://davincideluxe.github.io/developers/sdk-python.html",
       "title": "Python 3 SDK (`httpx` / `requests` + FastAPI Webhook Receiver) — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Production-ready async & sync Python 3.10+ client for submitting virgin `.bin` files, verifying `X-DvC-Signature`, and saving calibrated outputs.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-nodejs-typescript.html",
       "url": "https://davincideluxe.github.io/developers/sdk-nodejs-typescript.html",
       "title": "Node.js 20+ ESM & TypeScript SDK (Native `fetch` + `FormData`) — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Zero-dependency Node.js 20/22 & TypeScript integration using Web-standard `FormData`, `Blob`, and Express/Fastify raw-body HMAC verification.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-php-laravel.html",
       "url": "https://davincideluxe.github.io/developers/sdk-php-laravel.html",
       "title": "PHP 8.2+ & Laravel Queue / Controller Integration (`CURLFile` + Guzzle) — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Integrate automated ECU file processing into PHP chiptuning portals and Laravel Horizon queues with signed webhook controllers.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-wordpress-woocommerce.html",
       "url": "https://davincideluxe.github.io/developers/sdk-wordpress-woocommerce.html",
       "title": "WordPress & WooCommerce Automated ECU File-Service Hook — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Turn any WooCommerce store into a 24/7 automated chiptuning file portal (`woocommerce_payment_complete` → `/api/v1/cloud/jobs` → instant customer email).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-csharp-dotnet.html",
       "url": "https://davincideluxe.github.io/developers/sdk-csharp-dotnet.html",
       "title": "C# / .NET 8 `HttpClient` Desktop & Master Tool Integration — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Typed C# `.NET 8` `MultipartFormDataContent` client for Windows desktop tuning suites, dyno dashboards, and ASP.NET Core backends.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-go.html",
       "url": "https://davincideluxe.github.io/developers/sdk-go.html",
       "title": "Go (`golang` 1.22+) High-Concurrency Cloud Worker Client — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Zero-dependency Go `mime/multipart` + `crypto/hmac` client for high-throughput master-slave tuning gateways.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-java-spring.html",
       "url": "https://davincideluxe.github.io/developers/sdk-java-spring.html",
       "title": "Java 21 & Spring Boot 3 `RestClient` Enterprise Integration — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Spring Boot 3 multipart ECU binary submission and `@PostMapping` HMAC-SHA256 webhook controller for enterprise automotive DMS platforms.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-rust.html",
       "url": "https://davincideluxe.github.io/developers/sdk-rust.html",
       "title": "Rust (`reqwest` + `tokio` + `hmac`) Embedded & Flasher Gateway SDK — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Memory-safe async Rust client for hardware programmer bridges and high-reliability Linux automotive servers.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sdk-curl-bash.html",
       "url": "https://davincideluxe.github.io/developers/sdk-curl-bash.html",
       "title": "End-to-End Bash / CLI Automation Script (`curl` + `jq`) — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Single-file POSIX/Bash workshop script that checks API health, uploads a virgin `.bin`, polls job status, and saves the checksummed result.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/postman-insomnia-guide.html",
       "url": "https://davincideluxe.github.io/developers/postman-insomnia-guide.html",
       "title": "Postman Collection v2.1, Bruno & Insomnia Import Guide — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "One-click import of `davinci-cloud-tuning-api.postman_collection.json` and OpenAPI 3.1 (`openapi.json`) with pre-configured environment variables.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/whmcs-custom-portal-guide.html",
       "url": "https://davincideluxe.github.io/developers/whmcs-custom-portal-guide.html",
       "title": "Custom File-Service Portal, Slave-Tool Network & Done-For-You Build (€1,000 / €1,500) — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Reference architecture for chiptuning file portals (credit ledger, virgin `.bin` validator, async queue, auto-refund on rejected non-virgin dumps) + Turnkey Build options.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/sandbox-preflight-checklist.html",
       "url": "https://davincideluxe.github.io/developers/sandbox-preflight-checklist.html",
       "title": "Production Go-Live & Binary Pre-Flight Validation Checklist — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "10-point engineering checklist before launching your B2B API integration: file size/entropy checks, origin lock, webhook TLS, and 100% virgin binary rules.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/developers/white-label-architecture.html",
       "url": "https://davincideluxe.github.io/developers/white-label-architecture.html",
       "title": "Flagship White-Label Tuning Software (.exe + Custom Domain — €1,000/mo) — B2B Cloud Tuning REST API | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Launch your own chiptuning software brand under strict NDA: custom-compiled Windows `.exe` bearing your brand, logo, colors & WhatsApp + branded web portal.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/index.html",
       "url": "https://davincideluxe.github.io/packages/index.html",
       "title": "All 13 Official Licenses, Credit Bundles, Token Packs & B2B API Packages — DaVinci Deluxe (v1.0.45)",
       "summary": "Complete product catalog of all 13 official DaVinci Deluxe Cloud Edition licenses, 24V Truck plans, Tuning Credit bundles, Cloud Token packs, VIP Daily Boosts & B2B API subscriptions.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/realtest.html",
       "url": "https://davincideluxe.github.io/packages/realtest.html",
       "title": "7-Day Real Software Test (€9.99) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "7-Day Real Software Test (€9.99) (DVD-PKG-REALTEST): 7 days real access, 5 emissions/DTC files total + 1 Stage 1 tuning credit on 1 PC. Credits €9.99 toward Monthly Unlimited (€91 first monthly invoice) unless cancelled in 1 click.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/24h-pass.html",
       "url": "https://davincideluxe.github.io/packages/24h-pass.html",
       "title": "Cars 24-Hour Active Timer Pass (€49.99) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Cars 24-Hour Active Timer Pass (€49.99) (DVD-PKG-24HPASS): One-time €49.99 payment with zero subscription. 24 hours of active app time (timer pauses when closed, valid 30 days) with unlimited emissions/DTC files.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/monthly-unlimited.html",
       "url": "https://davincideluxe.github.io/packages/monthly-unlimited.html",
       "title": "Cars Monthly Unlimited License (€100.99/mo) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Cars Monthly Unlimited License (€100.99/mo) (DVD-PKG-MONTHLY): Up to 15 Car/Van ECU files per day (0 credits for DPF/EGR/AdBlue/DTC) + 2 free tuning credits every month + 24h/7 live support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/yearly-vip.html",
       "url": "https://davincideluxe.github.io/packages/yearly-vip.html",
       "title": "Cars Annual Workshop VIP License (€1,009/yr) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Cars Annual Workshop VIP License (€1,009/yr) (DVD-PKG-YEARLY): Up to 25 Car/Van ECU files per day + 10 instant never-expiring tuning credits + VIP 24h/7/365 support + Hardware Protection eligibility.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/trucks-24h-pass.html",
       "url": "https://davincideluxe.github.io/packages/trucks-24h-pass.html",
       "title": "24V Trucks & Agriculture 24-Hour Pass (€99) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "24V Trucks & Agriculture 24-Hour Pass (€99) (DVD-PKG-TRK-PASS): One-time 24-hour heavy-duty license covering 452+ 24V Truck, Bus, Tractor & Excavator ECUs across 82 brands.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/trucks-monthly.html",
       "url": "https://davincideluxe.github.io/packages/trucks-monthly.html",
       "title": "24V Trucks & Agriculture Monthly License (€219/mo) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "24V Trucks & Agriculture Monthly License (€219/mo) (DVD-PKG-TRK-MONTHLY): Monthly commercial fleet & off-highway calibration license for Euro 5/6 trucks, buses, agricultural tractors & construction machinery.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/trucks-yearly.html",
       "url": "https://davincideluxe.github.io/packages/trucks-yearly.html",
       "title": "24V Trucks & Agriculture Annual VIP License (€1,890/yr) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "24V Trucks & Agriculture Annual VIP License (€1,890/yr) (DVD-PKG-TRK-YEARLY): Save €738/year on full 24V Truck, Bus, Tractor & Excavator ECU + ACM/MCM calibration with 24h/7 heavy-duty support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/cars-credits-20.html",
       "url": "https://davincideluxe.github.io/packages/cars-credits-20.html",
       "title": "20 + 5 Free Cars Performance Tuning Credits (€300) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "20 + 5 Free Cars Performance Tuning Credits (€300) (DVD-PKG-CREDITS-25): 25 total never-expiring Cars performance credits (€12.00/effective credit) for Stage 1/2/3, Pops & Bangs, HardCut, E85 & VMAX.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/trucks-credits-20.html",
       "url": "https://davincideluxe.github.io/packages/trucks-credits-20.html",
       "title": "20 Heavy-Duty 24V Truck Tuning Credits (€580) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "20 Heavy-Duty 24V Truck Tuning Credits (€580) (DVD-PKG-TRK-CREDITS-20): 20 never-expiring 24V Truck & Agriculture performance tuning credits (€29/credit) for heavy-haul & PTO Stage 1 calibrations.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/cloud-tokens-550.html",
       "url": "https://davincideluxe.github.io/packages/cloud-tokens-550.html",
       "title": "550 Online Cloud Tuning Tokens Bundle (€500) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "550 Online Cloud Tuning Tokens Bundle (€500) (DVD-PKG-TOKENS-550): 500 + 50 FREE bonus browser Cloud Vault tokens (never expire, no software subscription needed; deletes = 9 tokens, Stage 1 = 45 tokens).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/cloud-tokens-1200.html",
       "url": "https://davincideluxe.github.io/packages/cloud-tokens-1200.html",
       "title": "1,200 Online Cloud Tuning Tokens Workshop Pack (€1,000) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "1,200 Online Cloud Tuning Tokens Workshop Pack (€1,000) (DVD-PKG-TOKENS-1200): 1,000 + 200 FREE bonus non-expiring browser Cloud Vault tokens (+20% bonus — €0.83 effective per token).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/vip-daily-boosts.html",
       "url": "https://davincideluxe.github.io/packages/vip-daily-boosts.html",
       "title": "VIP Daily ECU File Allowance Boosts (+5 to +20/day) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "VIP Daily ECU File Allowance Boosts (+5 to +20/day) (DVD-PKG-VIP-BOOST): Expand Monthly or Annual daily throughput by +5 (€150), +10 (€250), +15 (€350), or +20 (€400) extra ECU files per day.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/packages/b2b-api-subscriptions.html",
       "url": "https://davincideluxe.github.io/packages/b2b-api-subscriptions.html",
       "title": "B2B Cloud Tuning REST API Plans (€300 / €500 / €800 mo) — Official Specifications & Instant Activation | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "B2B Cloud Tuning REST API Plans (€300 / €500 / €800 mo) (DVD-PKG-B2B-API): Automated `/api/v1/cloud/*` binary calibration for file portals: Starter €300/mo (100/day), Business €500/mo (500/day), Enterprise €800/mo (Unlimited).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/index.html",
       "url": "https://davincideluxe.github.io/sw-coverage/index.html",
-      "title": "69,199+ Verified OEM ECU Software IDs (SW) Database — Bosch 1037/10SW, Continental, Delphi, Denso & Marelli | DaVinci Deluxe Cloud Edition (v1.0.45)",
-      "summary": "Search 69,199+ verified factory ECU Software Numbers (SW / CAL-ID) and 204,230+ calibrated ECU×Service combinations across 200 flagship controllers in DaVinci Deluxe Cloud Edition (v1.0.45).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "title": "69,204+ Verified OEM ECU Software IDs (SW) Database — Bosch 1037/10SW, Continental, Delphi, Denso & Marelli | DaVinci Deluxe Cloud Edition (v1.0.45)",
+      "summary": "Search 69,204+ verified factory ECU Software Numbers (SW / CAL-ID) and 204,280+ calibrated ECU×Service combinations across 200 flagship controllers in DaVinci Deluxe Cloud Edition (v1.0.45).",
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17c74.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17c74.html",
       "title": "EDC17C74 OEM Software Numbers (2,815 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 2,815 OEM Software IDs (004400000, 0044000000, 0044400000, 0044440000, 0044444000, 0044444400) for EDC17C74 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17c46.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17c46.html",
       "title": "EDC17C46 OEM Software Numbers (2,414 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 2,414 OEM Software IDs (0123456789, 013351EDC1, 013ABEFIJL, 0281016309, 0281016406, 0281018128) for EDC17C46 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17cp14.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17cp14.html",
       "title": "EDC17CP14 OEM Software Numbers (2,336 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 2,336 OEM Software IDs (0044440000, 0101018K09, 0112334455, 028016330, 0281014693, 0281015028) for EDC17CP14 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc16c31.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc16c31.html",
       "title": "EDC16C31 OEM Software Numbers (2,058 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 2,058 OEM Software IDs (0041027C5Z, 0041060000, 0041A75216, 0041FMFU18, 0041FMFU18545LA52057, 01331EDC17CP0211P558V1MT) for EDC16C31 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc15.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc15.html",
       "title": "EDC15 OEM Software Numbers (1,760 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,760 OEM Software IDs (0001536579, 0027000422, 0027110503, 0027222034, 0027702810, 002770281010492) for EDC15 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc16c39.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc16c39.html",
-      "title": "EDC16C39 OEM Software Numbers (1,608 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
-      "summary": "Verified database of 1,608 OEM Software IDs (013ABFFFFF, 026157301B, 0261S01041, 0281012144, 0281012145, 0281012146) for EDC16C39 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "title": "EDC16C39 OEM Software Numbers (1,609 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
+      "summary": "Verified database of 1,609 OEM Software IDs (013ABFFFFF, 026157301B, 0261S01041, 0281012144, 0281012145, 0281012146) for EDC16C39 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17cp44.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17cp44.html",
       "title": "EDC17CP44 OEM Software Numbers (1,439 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,439 OEM Software IDs (0027P5907409R, 0281016594, 0281017127, 0281017733, 0281017910, 0281018311) for EDC17CP44 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc16.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc16.html",
       "title": "EDC16 OEM Software Numbers (1,364 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,364 OEM Software IDs (0027000000, 0261209038, 0261209108, 0281010072, 0281010483, 0281010731) for EDC16 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/med175.html",
       "url": "https://davincideluxe.github.io/sw-coverage/med175.html",
       "title": "MED175 OEM Software Numbers (1,345 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,345 OEM Software IDs (0101002612, 010100261S, 0124677789, 013351EDC1, 0261201537, 0261201598) for MED175 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/crd2x.html",
       "url": "https://davincideluxe.github.io/sw-coverage/crd2x.html",
       "title": "CRD2X OEM Software Numbers (1,284 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,284 OEM Software IDs (013363951A, 013363961A, 013364681A, 013364881A, 013365801A, 013365891A) for CRD2X supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc16c34.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc16c34.html",
       "title": "EDC16C34 OEM Software Numbers (1,276 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,276 OEM Software IDs (01246S304S, 013392054JJ, 013392086G5, 0281011444, 0281011560, 0281011625) for EDC16C34 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17c50c56.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17c50c56.html",
-      "title": "EDC17C50C56 OEM Software Numbers (1,191 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
-      "summary": "Verified database of 1,191 OEM Software IDs (0000111111, 0027229030, 0027795030, 0027CD008, 0027CD010, 0027CE152) for EDC17C50C56 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "title": "EDC17C50C56 OEM Software Numbers (1,193 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
+      "summary": "Verified database of 1,193 OEM Software IDs (0000111111, 0027229030, 0027795030, 0027CD008, 0027CD010, 0027CE152) for EDC17C50C56 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17c64.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17c64.html",
       "title": "EDC17C64 OEM Software Numbers (1,186 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,186 OEM Software IDs (0044000000, 00444000, 0044400000, 0044440000, 0044444000, 0044444400) for EDC17C64 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/med1716x.html",
       "url": "https://davincideluxe.github.io/sw-coverage/med1716x.html",
       "title": "MED1716X OEM Software Numbers (1,108 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,108 OEM Software IDs (0041570202, 0041850144, 0041850144HE8TE4ASN40121, 01103H9060, 0124677789, 0133110000) for MED1716X supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/sid208.html",
       "url": "https://davincideluxe.github.io/sw-coverage/sid208.html",
       "title": "SID208 OEM Software Numbers (1,033 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,033 OEM Software IDs (0000102927, 0027000855, 0027001357, 0027002908, 0027003301, 0027005356) for SID208 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/me75.html",
       "url": "https://davincideluxe.github.io/sw-coverage/me75.html",
       "title": "ME75 OEM Software Numbers (1,012 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 1,012 OEM Software IDs (00275A03112000, 0041560102, 00419100C4, 0124433348, 0124566678, 0133453EFI) for ME75 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, EGR Off, AdBlue / SCR Off, NOx Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/delcoe98.html",
       "url": "https://davincideluxe.github.io/sw-coverage/delcoe98.html",
       "title": "DELCOE98 OEM Software Numbers (978 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 978 OEM Software IDs (0027012452, 0027025741, 0027042353, 0027074828, 0027080138, 0027080335) for DELCOE98 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17c84.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17c84.html",
       "title": "EDC17C84 OEM Software Numbers (900 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 900 OEM Software IDs (000652, 0041590145, 004159014500, 1037105423, 1037110380, 1037124242) for EDC17C84 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/crd3x.html",
       "url": "https://davincideluxe.github.io/sw-coverage/crd3x.html",
       "title": "CRD3X OEM Software Numbers (897 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 897 OEM Software IDs (0041106000, 0041107000, 0041203000, 0041209000, 0101510151, 0103910151) for CRD3X supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17cp20.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17cp20.html",
       "title": "EDC17CP20 OEM Software Numbers (890 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 890 OEM Software IDs (03L906019AB, 03L906019AC, 03L906019AL, 03L906019AM, 03L906019AT, 03L906019C) for EDC17CP20 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc17cp57.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc17cp57.html",
       "title": "EDC17CP57 OEM Software Numbers (870 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 870 OEM Software IDs (0009040200, 0041A71316, 0041A713160, 012400020038, 0124009000, 012400900045) for EDC17CP57 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/edc16cp33.html",
       "url": "https://davincideluxe.github.io/sw-coverage/edc16cp33.html",
       "title": "EDC16CP33 OEM Software Numbers (851 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 851 OEM Software IDs (0281013390, 0281014360, 0281017631, 1018001000, 1020304050, 1037375362) for EDC16CP33 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, Selective DTC Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/dcm62.html",
       "url": "https://davincideluxe.github.io/sw-coverage/dcm62.html",
       "title": "DCM62 OEM Software Numbers (850 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 850 OEM Software IDs (0027226722, 0027284722, 002728472271, 00380004L9, 0041597159, 0044740474) for DCM62 supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/sw-coverage/denso.html",
       "url": "https://davincideluxe.github.io/sw-coverage/denso.html",
       "title": "DENSO OEM Software Numbers (806 Verified SW IDs) — Stage 1, DPF, EGR, AdBlue & DTC Off | DaVinci Deluxe Cloud Edition",
       "summary": "Verified database of 806 OEM Software IDs (00410059, 00416311, 00448CIM, 004705J237, 012BE10671, 023456789) for DENSO supported in DaVinci Deluxe Cloud Edition (v1.0.45): Stage 1, Stage 2, DPF / FAP Off, EGR Off, AdBlue / SCR Off, NOx Off.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/index.html",
       "url": "https://davincideluxe.github.io/pinouts/index.html",
       "title": "40 ECU & TCU Bench GPT (GPT1/GPT2), Tricore BSL & MCU Hardware Architecture Guides — DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Reference directory of 40 flagship Engine ECU & Automatic TCU controllers: Microcontroller (Tricore/SPC58/Aurix/MPC/RH850), Flash/EEPROM memory sizes, Bench GPT & Boot modes, and stabilized bench voltage.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17c60-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17c60-bench-gpt.html",
       "title": "Bosch EDC17C60 (PSA 1.6 BlueHDi) — MCU (Infineon Tricore TC1793), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17C60 (PSA 1.6 BlueHDi): Infineon Tricore TC1793 MCU, 4 MB IntFlash + 192 KB EEPROM, OBD VR / Bench GPT (No Opening) / Tricore BSL, 13.8V Stabilized Bench PSU. Mandatory TPROT Off switch in DaVinci Deluxe Cloud Edition if writing back via OBD; zero-opening Bench GPT read/write via Autotuner, Flex, KESS3, PCMflash Mod 71 or FoxFlash is recommended.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17c46-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17c46-bench-gpt.html",
       "title": "Bosch EDC17C46 (VAG 2.0 TDI CR) — MCU (Infineon Tricore TC1767), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17C46 (VAG 2.0 TDI CR): Infineon Tricore TC1767 MCU, 2 MB IntFlash + 64 KB EEPROM, OBD VR / Bench GPT / Tricore Boot, 13.6V Bench PSU. Direct connector GPT1/GPT2 + CAN-H/CAN-L bench reading without opening the lid. Archive full Flash + EEPROM before Stage 1, DPF, EGR, AdBlue or P2015 Swirl Flap calibration.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17c64-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17c64-bench-gpt.html",
       "title": "Bosch EDC17C64 (VAG 1.6 & 2.0 TDI MQB) — MCU (Infineon Tricore TC1797), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17C64 (VAG 1.6 & 2.0 TDI MQB): Infineon Tricore TC1797 MCU, 4 MB IntFlash + 64 KB EEPROM, OBD VR / Bench GPT / BSL, 13.8V Bench PSU. High TPROT level on MQB Golf 7 / A3 / Octavia 3 / Leon 5F. Bench Service Mode (GPT) reads the exact 100% virgin 4 MB internal flash cleanly with CVN preservation support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17c74-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17c74-bench-gpt.html",
       "title": "Bosch EDC17C74 (VAG 2.0 TDI EA288) — MCU (Infineon Tricore TC1793S), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17C74 (VAG 2.0 TDI EA288): Infineon Tricore TC1793S MCU, 4 MB IntFlash + 192 KB EEPROM, OBD VR / Bench GPT, 13.8V Bench PSU. With 2,800+ OEM SW variants indexed in DaVinci Deluxe Cloud Edition, Bench GPT or genuine OEM Virtual Read ensures 100% deterministic AdBlue, DPF, Low/High EGR and Stage 1 calibration.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17cp44-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17cp44-bench-gpt.html",
       "title": "Bosch EDC17CP44 (Audi / Porsche / VW 3.0 & 4.2 TDI) — MCU (Infineon Tricore TC1797), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17CP44 (Audi / Porsche / VW 3.0 & 4.2 TDI): Infineon Tricore TC1797 MCU, 4 MB IntFlash + 64 KB EEPROM, OBD VR / Bench GPT / Boot, 13.8V Bench PSU. Supports dual-connector bench GPT readout without unsealing RTV silicone. Pair Stage 1/2 with idle oil-pressure target upgrade and AL551/ZF8HP TCU torque unlock.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17cp14-bench-boot.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17cp14-bench-boot.html",
       "title": "Bosch EDC17CP14 (VAG 2.0 / 2.7 / 3.0 TDI) — MCU (Infineon Tricore TC1796), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17CP14 (VAG 2.0 / 2.7 / 3.0 TDI): Infineon Tricore TC1796 MCU, 2 MB IntFlash (+ ExtFlash on early HW) + EEPROM, OBD / Bench GPT / Tricore BSL, 13.6V Bench PSU. Late-2009+ TPROT software requires Bench GPT or Boot Tricore unlock if writing over OBD. Ideal for P2015 Intake Runner Flap Off, EGR, DPF & Stage 1.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17cp52-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17cp52-bench-gpt.html",
       "title": "Bosch EDC17CP52 (Iveco Daily / Fiat Ducato / Mitsubishi Fuso 3.0) — MCU (Infineon Tricore TC1797), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17CP52 (Iveco Daily / Fiat Ducato / Mitsubishi Fuso 3.0): Infineon Tricore TC1797 MCU, 4 MB IntFlash + 64 KB EEPROM, Bench GPT / Tricore Boot / OBD, 13.8V / 28V (Fuso/24V). Verify 12V (Daily/Ducato) vs 24V commercial harness pinout before powering bench cable. Full DPF, EGR, AdBlue, TVA & High-Torque Stage 1 supported.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17cv41-24v-bench.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17cv41-24v-bench.html",
       "title": "Bosch EDC17CV41 (24V Iveco, Case IH, New Holland, Fendt, JCB & Marine) — MCU (Infineon Tricore TC1797), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17CV41 (24V Iveco, Case IH, New Holland, Fendt, JCB & Marine): Infineon Tricore TC1797 MCU, 4 MB IntFlash + 64 KB EEPROM, Bench GPT / OBD / Boot, 14V–28V Bench PSU. Heavy-duty off-highway & marine controller. Bench GPT reads full 4 MB virgin flash without opening potted ruggedized housing.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-edc17cv42-edc17cv54-24v.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-edc17cv42-edc17cv54-24v.html",
       "title": "Bosch EDC17CV42 & EDC17CV54 (MAN, CLAAS, Deutz, Kubota, Yanmar Marine) — MCU (Infineon Tricore TC1797 / TC1767), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch EDC17CV42 & EDC17CV54 (MAN, CLAAS, Deutz, Kubota, Yanmar Marine): Infineon Tricore TC1797 / TC1767 MCU, 4 MB / 2 MB IntFlash + EEPROM, Bench GPT / OBD / BSL, 14V / 28V Bench PSU. Widely deployed across Stage IV / Tier 4F & Euro 6 commercial engines. Supports deterministic SCR/DEF/AdBlue Off, DPF Off, EGR Off & Stage 1.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-md1cs003-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-md1cs003-bench-gpt.html",
       "title": "Bosch MD1CS003 (PSA / Opel / Toyota 1.5 BlueHDi DV5) — MCU (STMicroelectronics SPC5898), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch MD1CS003 (PSA / Opel / Toyota 1.5 BlueHDi DV5): STMicroelectronics SPC5898 MCU, 8 MB / 10 MB IntFlash + DataFlash, Bench Direct GPT (Autotuner / Flex / KESS3 / PCMflash 92), 13.8V Bench PSU. No ECU opening required on pre-mid-2020 unlocked bootloaders. Resolves PSA \"No Start in XXX km\" AdBlue countdown, DPF/FAP, EGR & Stage 1 cleanly.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-md1cs004-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-md1cs004-bench-gpt.html",
       "title": "Bosch MD1CS004 (VAG 2.0 TDI Evo EA288) — MCU (Infineon Aurix TC298TP / SPC5898), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch MD1CS004 (VAG 2.0 TDI Evo EA288): Infineon Aurix TC298TP / SPC5898 MCU, 8 MB / 10 MB IntFlash + EEPROM, Bench GPT / OBD VR (Unlocked Bootloader), 13.8V Bench PSU. Check manufacture date / bootloader lock status before bench connection. Supports Twin-Dosing SCR/AdBlue Off, DPF Off, EGR Off, Start-Stop & Stage 1.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-md1cs006-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-md1cs006-bench-gpt.html",
       "title": "Bosch MD1CS006 (Renault / Dacia / Nissan / Mercedes Blue dCi) — MCU (STMicroelectronics SPC5898), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch MD1CS006 (Renault / Dacia / Nissan / Mercedes Blue dCi): STMicroelectronics SPC5898 MCU, 8 MB IntFlash + EEPROM, Bench GPT (No Opening), 13.8V Bench PSU. Fast 90-second bench readout on K9K 1.5 Blue dCi, R9N 1.7 dCi, M9R 2.0 dCi & M9T 2.3 dCi Master vans for AdBlue start-lock reset, DPF, EGR & Stage 1.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-md1cp004-bench-gpt.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-md1cp004-bench-gpt.html",
       "title": "Bosch MD1CP004 (Audi / VW / Porsche 3.0 V6 TDI Evo) — MCU (Infineon Aurix TC298TP / SPC5898), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch MD1CP004 (Audi / VW / Porsche 3.0 V6 TDI Evo): Infineon Aurix TC298TP / SPC5898 MCU, 8 MB / 10 MB IntFlash + EEPROM, Bench GPT, 13.8V Bench PSU. Supports Audi A6/A7/A8/Q7/Q8, Touareg & Cayenne V6 TDI Stage 1, Idle Oil-Pressure Fix, AdBlue/SCR Off, DPF Off & VMAX Unlock.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-md1cp001-mrd1-bench.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-md1cp001-mrd1-bench.html",
       "title": "Bosch MD1CP001 / MRD1 (Mercedes OM654 & OM656 Euro 6d) — MCU (SPC5898 / Aurix TC299), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch MD1CP001 / MRD1 (Mercedes OM654 & OM656 Euro 6d): SPC5898 / Aurix TC299 MCU, 8 MB / 10 MB IntFlash + EEPROM, Bench GPT, 13.8V Bench PSU. Calibrates Mercedes C/E/S/GLC/GLE/Sprinter 2.0d & 2.9d AdBlue start-countdown inducement, DPF, EGR & Stage 1 (pair with CPC_NG for VMAX).",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-md1cp002-md1cs001-bmw.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-md1cp002-md1cs001-bmw.html",
       "title": "Bosch MD1CS001 & MD1CP002 (BMW B47 2.0d & B57 3.0d) — MCU (SPC5898 / Aurix TC298TP), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch MD1CS001 & MD1CP002 (BMW B47 2.0d & B57 3.0d): SPC5898 / Aurix TC298TP MCU, 8 MB / 10 MB IntFlash + EEPROM, Bench GPT (Pre-06/2020 Direct / FEMTO Unlock Post-06/2020), 13.8V Bench PSU. Full BMW G-series Stage 1/2, AdBlue/SCR Off, DPF Off, EGR Off, Swirl Flaps, Start-Stop & Sport Displays scaling.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-md1ce100-md1ce101-24v.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-md1ce100-md1ce101-24v.html",
       "title": "Bosch MD1CE100 & MD1CE101 (24V MAN TGX, Iveco S-Way, Fendt, Case IH) — MCU (SPC58 / Aurix Heavy-Duty 24V), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch MD1CE100 & MD1CE101 (24V MAN TGX, Iveco S-Way, Fendt, Case IH): SPC58 / Aurix Heavy-Duty 24V MCU, 8 MB / 10 MB IntFlash + EEPROM, 24V Bench GPT / Direct Connector, 24V–28V Bench PSU. Next-gen Euro 6d/6e & Stage V commercial truck and tractor ECU. Full AdBlue/DEF/SCR Off, DPF Off, EGR Off & Fleet Torque Stage 1.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/pinouts/bosch-mg1cs001-mg1cs011-vag.html",
       "url": "https://davincideluxe.github.io/pinouts/bosch-mg1cs001-mg1cs011-vag.html",
       "title": "Bosch MG1CS001 & MG1CS011 (VAG 1.5 & 2.0 TSI EA888) — MCU (SPC5898 / Aurix TC298TP), Bench GPT / Boot Readout & Calibration Guide | DaVinci Deluxe Cloud Edition",
       "summary": "Hardware bench reference for Bosch MG1CS001 & MG1CS011 (VAG 1.5 & 2.0 TSI EA888): SPC5898 / Aurix TC298TP MCU, 8 MB IntFlash + EEPROM, Bench GPT / OBD VR, 13.8V Bench PSU. Supports OPF/GPF Off, Stage 1/2, Sport Pops & Bangs, VMAX Off, Cold-Start Off & Start-Stop Off across VW, Audi, Cupra & Škoda.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/dpf-fap-off.html",
       "url": "https://davincideluxe.github.io/solutions/dpf-fap-off.html",
       "title": "DPF / FAP Off (Diesel Particulate Filter Calibration) Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "DPF / FAP Off (Diesel Particulate Filter Calibration) (Emissions & Aftertreatment): Deterministic post-injection, regeneration state-machine & differential-pressure calibration across Bosch EDC16/EDC17/MD1, Delphi DCM, Continental SID, Denso & Marelli. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/egr-off-high-low-pressure.html",
       "url": "https://davincideluxe.github.io/solutions/egr-off-high-low-pressure.html",
       "title": "EGR Off (High-Pressure & Low-Pressure Exhaust Gas Recirculation) Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "EGR Off (High-Pressure & Low-Pressure Exhaust Gas Recirculation) (Emissions & Airflow): Clean air-mass setpoint & hysteresis map deactivation preserving cold-start drivability and VNT turbo response across Euro 4, Euro 5 & Euro 6d diesels. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/adblue-scr-def-off.html",
       "url": "https://davincideluxe.github.io/solutions/adblue-scr-def-off.html",
       "title": "AdBlue / SCR / DEF Off (Selective Catalytic Reduction) Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "AdBlue / SCR / DEF Off (Selective Catalytic Reduction) (Euro 6 & 24V SCR): Complete dosing, NOx monitoring, tank-heater & inducement state-machine calibration across Passenger Cars, 24V Euro 6 Trucks, Tractors & Marine Diesels. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/adblue-countdown-no-start-fix.html",
       "url": "https://davincideluxe.github.io/solutions/adblue-countdown-no-start-fix.html",
       "title": "AdBlue Start-Countdown & \"No Start in XXX km\" Reset Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "AdBlue Start-Countdown & \"No Start in XXX km\" Reset (Inducement Recovery): Resolves active start-lock inducement counters on PSA MD1CS003/EDC17C60, Renault MD1CS006, VAG MD1CS004, Mercedes MRD1/MD1CP001 & Ford SID209/MD1CS005. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/opf-gpf-off-petrol.html",
       "url": "https://davincideluxe.github.io/solutions/opf-gpf-off-petrol.html",
       "title": "OPF / GPF Off (Otto / Gasoline Particulate Filter) Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "OPF / GPF Off (Otto / Gasoline Particulate Filter) (Petrol Motorsport): Exhaust backpressure monitoring & regeneration switch calibration for Bosch MG1CS001/002/003/201, MED17.1.10, Continental SIMOS 18.10/19 & Kefico. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/stage-1-remapping.html",
       "url": "https://davincideluxe.github.io/solutions/stage-1-remapping.html",
       "title": "Stage 1 Performance & Torque Calibration Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Stage 1 Performance & Torque Calibration (Power & Torque): OEM-reserve driver-wish, torque-to-IQ/load, boost target, rail pressure & ignition optimization with full EGT, knock and turbo safety protection intact. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/stage-2-remapping.html",
       "url": "https://davincideluxe.github.io/solutions/stage-2-remapping.html",
       "title": "Stage 2 High-Flow Downpipe & Intercooler Calibration Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Stage 2 High-Flow Downpipe & Intercooler Calibration (Motorsport Power): Calibrated airflow, WGDC boost control, fueling & thermal ceilings tailored for upgraded intercoolers, intakes and motorsport exhaust hardware. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/eco-fuel-saving-fleet-tuning.html",
       "url": "https://davincideluxe.github.io/solutions/eco-fuel-saving-fleet-tuning.html",
       "title": "ECO Fuel-Saving & Commercial Fleet Torque Tuning Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "ECO Fuel-Saving & Commercial Fleet Torque Tuning (12V Vans & 24V Fleets): Low-RPM torque optimization reducing gear-hunting and fuel consumption across commercial Sprinter/Ducato/Transit vans, 24V Euro 6 trucks, tractors & workboats. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/pops-and-bangs-crackle-map.html",
       "url": "https://davincideluxe.github.io/solutions/pops-and-bangs-crackle-map.html",
       "title": "Pops & Bangs / Overrun Crackle & Sport Burble Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Pops & Bangs / Overrun Crackle & Sport Burble (Motorsport Sound): Controllable overrun fuel-cut delay & ignition retard mapped to Sport/Dynamic drive modes on Bosch MED9/MED17/MEVD17/MG1 & Continental SIMOS/SIM2K. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/hardcut-popcorn-rev-limiter.html",
       "url": "https://davincideluxe.github.io/solutions/hardcut-popcorn-rev-limiter.html",
       "title": "Hardcut / Popcorn Diesel & Petrol Rev Limiter Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Hardcut / Popcorn Diesel & Petrol Rev Limiter (Motorsport Limiter): Crisp fuel/spark cut stationary and dynamic RPM limiter calibration for TDI, HDi, dCi, CDI, BMW d-series and turbo-petrol ECUs. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/vmax-speed-limiter-off.html",
       "url": "https://davincideluxe.github.io/solutions/vmax-speed-limiter-off.html",
       "title": "VMAX Speed Limiter Unlock & Fleet Governor Calibration Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "VMAX Speed Limiter Unlock & Fleet Governor Calibration (Speed Limiter): Individual & global VMAX speed limiter calibration across AMG/M/RS performance cars, commercial light vans (90/110/130 km/h) and marine PWC governors. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/swirl-flaps-intake-manifold-off.html",
       "url": "https://davincideluxe.github.io/solutions/swirl-flaps-intake-manifold-off.html",
       "title": "Swirl Flaps / Intake Manifold Runner Off (P2015) Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Swirl Flaps / Intake Manifold Runner Off (P2015) (Airpath Actuators): Deactivates intake swirl-flap actuator monitoring and limp-home derate (P2015 / P2004 / P2008) on Audi/VW TDI, BMW N47/N57/B47, Mercedes OM642/OM651 & Fiat/JLR. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/tva-throttle-valve-actuator-off.html",
       "url": "https://davincideluxe.github.io/solutions/tva-throttle-valve-actuator-off.html",
       "title": "TVA / Intake Throttle Valve Actuator Off Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "TVA / Intake Throttle Valve Actuator Off (Airpath Actuators): Clean intake throttle valve calibration when resolving recurring actuator circuit faults on off-highway, commercial and diesel platforms. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/lambda-cat-o2-sensor-off.html",
       "url": "https://davincideluxe.github.io/solutions/lambda-cat-o2-sensor-off.html",
       "title": "Lambda / Catalyst Efficiency (P0420 / P0430) Off Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "Lambda / Catalyst Efficiency (P0420 / P0430) Off (Petrol Exhaust): Downstream O2 catalyst monitor & rear heater circuit calibration while maintaining primary wide-band AFR closed-loop fuel control. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     },
     {
       "id": "https://davincideluxe.github.io/solutions/nox-sensor-deactivation.html",
       "url": "https://davincideluxe.github.io/solutions/nox-sensor-deactivation.html",
       "title": "NOx Sensor Upstream & Downstream Calibration Software — Automated ECU Calibration Guide | DaVinci Deluxe Cloud Edition (v1.0.45)",
       "summary": "NOx Sensor Upstream & Downstream Calibration (Euro 6 Emissions): Selective CAN & ECU NOx sensor monitoring calibration for diesel SCR/NSR systems and stratified petrol MED9/MSD80/MED17 controllers. Deterministic cloud calibration on 100% virgin original ECU files with 24h/7 live engineering support.",
-      "date_published": "2026-11-09T03:32:31.822Z",
-      "date_modified": "2026-11-09T03:32:31.822Z"
+      "date_published": "2026-11-10T03:32:34.522Z",
+      "date_modified": "2026-11-10T03:32:34.522Z"
     }
   ]
 }
