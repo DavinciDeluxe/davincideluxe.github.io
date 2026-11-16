@@ -1,25 +1,11 @@
 {
   "version": "v1.0.45",
-  "updated": "2026-11-12",
+  "updated": "2026-11-16",
   "currency": "EUR",
   "official_checkout": "https://www.davincideluxe.fr/#pricing",
   "docs_hub": "https://davincideluxe.github.io/pricing-and-plans.html",
   "zero_credit_emissions_rule": "DPF, EGR, AdBlue/SCR, OPF, NOx, Lambda, Swirl Flaps, TVA, Start/Stop, Readiness & Multi-DTC Off cost 0 Tuning Credits on any active software plan.",
   "cars_plans": [
-    {
-      "slug": "realtest",
-      "sku": "DVD-CARS-REALTEST-7D",
-      "name": "7-Day Real Software Test (Cars & Light Vans)",
-      "badge": "REAL FLASHABLE FILES",
-      "price": "9.99",
-      "billing": "7-day trial (€9.99 credited toward Monthly if kept; 1-click cancel anytime)",
-      "dailyFiles": "5 emissions/DTC files total (7 days)",
-      "includedCredits": "1 Free Stage 1 Tuning Credit included",
-      "pcLock": "1 Windows / macOS / Linux / Web PC",
-      "buyPath": "/buy/realtest",
-      "softPath": "/software/davinci-deluxe-cloud-edition-realtest",
-      "summary": "Test genuine DaVinci Deluxe Cloud Edition v1.0.45 on real workshop customer vehicles for 7 days with 5 emissions/DTC calibrations plus 1 Stage 1 tuning credit. If not cancelled within 7 days, transitions to Monthly Unlimited (€100.99/mo with your €9.99 credited so first month is €91.00). Cancel in 1 click at /realtest/cancel-trial or in-app."
-    },
     {
       "slug": "24h-pass",
       "sku": "DVD-CARS-24H-PASS",
