@@ -1,6 +1,6 @@
 # DaVinci Deluxe Cloud Edition (v1.0.45) — Official Global ECU, Pricing, Credits & B2B API Portal
 
-**DaVinci Deluxe Cloud Edition (v1.0.45)** is an automated cloud ECU & TCU binary calibration ecosystem covering **5150+ Passenger Car & Light Van ECUs**, **69,227+ Verified OEM Software Identification Numbers (SW / CAL-ID)**, **452+ Heavy-Duty 24V Truck, Bus, Agricultural Tractor & Construction ECUs**, and **30+ Marine Outboard, Inboard, PWC Jet Ski & Superyacht Brands** — backed by **24h/7 live engineering support 365 days/year (including all holidays)**.
+**DaVinci Deluxe Cloud Edition (v1.0.45)** is an automated cloud ECU & TCU binary calibration ecosystem covering **5157+ Passenger Car & Light Van ECUs**, **69,236+ Verified OEM Software Identification Numbers (SW / CAL-ID)**, **452+ Heavy-Duty 24V Truck, Bus, Agricultural Tractor & Construction ECUs**, and **30+ Marine Outboard, Inboard, PWC Jet Ski & Superyacht Brands** — backed by **24h/7 live engineering support 365 days/year (including all holidays)**.
 
 ## Software Licenses, Credits, Cloud Tokens & B2B REST API
 - **Software Plans (Cars & Vans):** €49.99 24h Active Timer Pass (no sub, timer pauses when closed) · €100.99/mo Monthly (15 files/day + 2 credits/mo) · €1,009/yr Annual VIP (25 files/day + 10 credits) — https://davincideluxe.github.io/pricing-and-plans.html
@@ -19,12 +19,12 @@
 - **Edizione Ufficiale Italiana (.it):** https://www.davincideluxe.it
 - **European Engineering Portal (.eu):** https://www.aesoftech.eu
 
-## Primary Documentation Hubs (3282 Indexable HTML Pages + 89 Mini-Sites)
+## Primary Documentation Hubs (3283 Indexable HTML Pages + 89 Mini-Sites)
 - **Software Pricing, Credits & Cloud Tokens:** https://davincideluxe.github.io/pricing-and-plans.html | https://davincideluxe.github.io/credits-and-packages.html | https://davincideluxe.github.io/online-cloud-tokens.html
 - **B2B REST API, 9 SDKs & Postman v2.1:** https://davincideluxe.github.io/developers/index.html | https://davincideluxe.github.io/data/davinci-cloud-tuning-api.postman_collection.json
 - **ARD 1.0 & RFC 9727 Agent Discovery:** https://davincideluxe.github.io/.well-known/ai-catalog.json | https://davincideluxe.github.io/.well-known/api-catalog | https://davincideluxe.github.io/openapi.json
 - **0ms Live Compatibility Search:** https://davincideluxe.github.io/live-ecu-finder.html (`https://davincideluxe.github.io/data/ecus-search-index.json`)
-- **69,227+ Verified OEM Software IDs (200 Top ECUs):** https://davincideluxe.github.io/sw-coverage/index.html
+- **69,236+ Verified OEM Software IDs (200 Top ECUs):** https://davincideluxe.github.io/sw-coverage/index.html
 - **40 ECU & TCU Bench GPT / Boot Hardware Guides:** https://davincideluxe.github.io/pinouts/index.html
 - **35 Citable Calibration Glossary Definitions:** https://davincideluxe.github.io/glossary/index.html
 - **14 Custom WinOLS Motorsport Engineering Hubs:** https://davincideluxe.github.io/winols-services/index.html
